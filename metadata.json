@@ -1,0 +1,15 @@
+{
+  "title": "The Tragedy of Pudd’nhead Wilson",
+  "shortTitle": "Pudd’nhead Wilson",
+  "author": "Mark Twain",
+  "year": 1894,
+  "source": "https://standardebooks.org/ebooks/mark-twain/puddnhead-wilson",
+  "words": 1,
+  "pulpDate": "2026-01-18",
+  "repo": "https://github.com/JohnQPulp/PuddnheadWilson",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/682793.Pudd_nhead_Wilson",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Pudd%27nhead_Wilson"
+  },
+  "blurb": "TODO"
+}
