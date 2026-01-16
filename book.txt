@@ -2,7 +2,7 @@
 
 ## A Whisper to the Reader
 
-> There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt. —*Pudd’nhead Wilson’s Calendar*
+<i>There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 A person who is ignorant of legal matters is always liable to make mistakes when he tries to photograph a court scene with his pen; and so I was not willing to let the law chapters in this book go to press without first subjecting them to rigid and exhausting revision and correction by a trained barrister﻿—if that is what they are called. These chapters are right, now, in every detail, for they were rewritten under the immediate eye of William Hicks, who studied law part of a while in southwest Missouri thirty-five years ago and then came over here to Florence for his health and is still helping for exercise and board in Macaroni Vermicelli’s horse-feed shed which is up the back alley as you turn around the corner out of the Piazza del Duomo just beyond the house where that stone that Dante used to sit on six hundred years ago is let into the wall when he let on to be watching them build Giotto’s campanile and yet always got tired looking as soon as Beatrice passed along on her way to get a chunk of chestnut cake to defend herself with in case of a Ghibelline outbreak before she got to school, at the same old stand where they sell the same old cake to this day and it is just as light and good as it was then, too, and this is not flattery, far from it. He was a little rusty on his law, but he rubbed up for this book, and those two or three legal chapters are right and straight, now. He told me so himself.
 
@@ -12,7 +12,7 @@ Mark Twain.
 
 ## I. Pudd’nhead Wins His Name
 
-> Tell the truth or trump﻿—but get the trick. —*Pudd’nhead Wilson’s Calendar*
+<i>Tell the truth or trump﻿—but get the trick.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 The scene of this chronicle is the town of Dawson’s Landing, on the Missouri side of the Mississippi, half a day’s journey, per steamboat, below St. Louis.
 
@@ -76,17 +76,17 @@ Mr. Wilson stood elected. The incident was told all over the town, and gravely 
 
 ## II. Driscoll Spares His Slaves
 
-> Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent. —*Pudd’nhead Wilson’s Calendar*
+<i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Pudd’nhead Wilson had a trifle of money when he arrived, and he bought a small house on the extreme western verge of the town. Between it and Judge Driscoll’s house there was only a grassy yard, with a paling fence dividing the properties in the middle. He hired a small office down in the town and hung out a tin sign with these words on it:
 
-> David Wilson.<br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.
+<div class='upper center'><span class='big'>David Wilson.</span><br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.</div>
 
 But his deadly remark had ruined his chance﻿—at least in the law. No clients came. He took down his sign, after a while, and put it up on his own house with the law features knocked out of it. It offered his services now in the humble capacities of land-surveyor and expert accountant. Now and then he got a job of surveying to do, and now and then a merchant got him to straighten out his books. With Scotch patience and pluck he resolved to live down his reputation and work his way into the legal field yet. Poor fellow, he could not foresee that it was going to take him such a weary long time to do it.
 
 He had a rich abundance of idle time, but it never hung heavy on his hands, for he interested himself in every new thing that was born into the universe of ideas, and studied it and experimented upon it at his house. One of his pet fads was palmistry. To another one he gave no name, neither would he explain to anybody what its purpose was, but merely said it was an amusement. In fact he had found that his fads added to his reputation as a pudd’nhead; therefore he was growing chary of being too communicative about them. The fad without a name was one which dealt with people’s fingermarks. He carried in his coat pocket a shallow box with grooves in it, and in the grooves strips of glass five inches long and three inches wide. Along the lower edge of each strip was pasted a slip of white paper. He asked people to pass their hands through their hair (thus collecting upon them a thin coating of the natural oil) and then make a thumbmark on a glass strip, following it with the mark of the ball of each finger in succession. Under this row of faint grease-prints he would write a record on the strip of white paper﻿—thus:
 
-> **John Smith**, *right hand*﻿—
+<div class='center'><span class='upper'>John Smith</span>, *right hand*﻿—</div>
 
 and add the day of the month and the year, then take Smith’s left hand on another glass strip, and add name and date and the words “left hand.” The strips were now returned to the grooved box, and took their place among what Wilson called his “records.”
 
@@ -170,7 +170,7 @@ The culprits flung themselves prone, in an ecstasy of gratitude, and kissed his 
 
 ## III. Roxy Plays a Shrewd Trick
 
-> Whoever has lived long enough to find out what life is, knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world. —*Pudd’nhead Wilson’s Calendar*
+<i>Whoever has lived long enough to find out what life is, knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Percy Driscoll slept well the night he saved his house-minions from going down the river, but no wink of sleep visited Roxy’s eyes. A profound terror had taken possession of her. Her child could grow up and be sold down the river! The thought crazed her with horror. If she dozed and lost herself for a moment, the next moment she was on her feet flying to her child’s cradle to see if it was still there. Then she would gather it to her heart and pour out her love upon it in a frenzy of kisses, moaning, crying, and saying, “Dey shan’t, oh, dey *shan’t!*﻿—yo’ po’ mammy will kill you fust!”
 
@@ -232,9 +232,9 @@ But he didn’t. He discovered nothing; and she went home jubilant, and dropped 
 
 ## IV. The Ways of the Changelings
 
-> Adam and Eve had many advantages, but the principal one was, that they escaped teething. —*Pudd’nhead Wilson’s Calendar*
+<i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children. —*Pudd’nhead Wilson’s Calendar*
+<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 This history must henceforth accommodate itself to the change which Roxana has consummated, and call the real heir “Chambers” and the usurping little slave “Thomas à Becket”﻿—shortening this latter name to “Tom,” for daily use, as the people about him did.
 
@@ -302,9 +302,9 @@ Wilson was chatting with him when Roxy arrived. He asked her how she could bear 
 
 ## V. The Twins Thrill Dawson’s Landing
 
-> Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education. —*Pudd’nhead Wilson’s Calendar*
+<i>Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> Remark of Dr. Baldwin’s, concerning upstarts: We don’t care to eat toadstools that think they are truffles. —*Pudd’nhead Wilson’s Calendar*
+<i>Remark of Dr. Baldwin’s, concerning upstarts: We don’t care to eat toadstools that think they are truffles.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Mrs. York Driscoll enjoyed two years of bliss with that prize, Tom﻿—bliss that was troubled a little at times, it is true, but bliss nevertheless; then she died, and her husband and his childless sister, Mrs. Pratt, continued the bliss-business at the old stand. Tom was petted and indulged and spoiled to his entire content﻿—or nearly that. This went on till he was nineteen, then he was sent to Yale. He went handsomely equipped with “conditions,” but otherwise he was not an object of distinction there. He remained at Yale two years, and then threw up the struggle. He came home with his manners a good deal improved; he had lost his surliness and brusqueness, and was rather pleasantly soft and smooth, now; he was furtively, and sometimes openly, ironical of speech, and given to gently touching people on the raw, but he did it with a good-natured semiconscious air that carried it off safely, and kept him from getting into trouble. He was as indolent as ever and showed no very strenuous desire to hunt up an occupation. People argued from this that he preferred to be supported by his uncle until his uncle’s shoes should become vacant. He brought back one or two new habits with him, one of which he rather openly practised﻿—tippling﻿—but concealed another which was gambling. It would not do to gamble where his uncle could hear of it; he knew that quite well.
 
@@ -326,7 +326,7 @@ The widow had a large spare room which she let to a lodger, with board, when she
 
 She had read the letter to the family, and Rowena had danced away to see to the cleaning and airing of the room by the slave woman Nancy, and the boys had rushed abroad in the town to spread the great news, for it was matter of public interest, and the public would wonder and not be pleased if not informed. Presently Rowena returned, all ablush with joyous excitement, and begged for a rereading of the letter. It was framed thus:
 
-> **Honored Madam:** My brother and I have seen your advertisement, by chance, and beg leave to take the room you offer. We are twenty-four years of age and twins. We are Italians by birth, but have lived long in the various countries of Europe, and several years in the United States. Our names are Luigi and Angelo Capello. You desire but one guest; but dear Madam, if you will allow us to pay for two, we will not incommode you. We shall be down Thursday.
+<span class='upper'>Honored Madam:</span> My brother and I have seen your advertisement, by chance, and beg leave to take the room you offer. We are twenty-four years of age and twins. We are Italians by birth, but have lived long in the various countries of Europe, and several years in the United States. Our names are Luigi and Angelo Capello. You desire but one guest; but dear Madam, if you will allow us to pay for two, we will not incommode you. We shall be down Thursday.
 
 “Italians! How romantic! Just think, ma﻿—there’s never been one in this town, and everybody will be dying to see them, and they’re all *ours*! Think of that!”
 
@@ -346,9 +346,9 @@ Eleven o’clock came; and the Cooper house was the only one in the town that st
 
 ## VI. Swimming in Glory
 
-> Let us endeavor so to live that when we come to die even the undertaker will be sorry. —*Pudd’nhead Wilson’s Calendar*
+<i>Let us endeavor so to live that when we come to die even the undertaker will be sorry.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time. —*Pudd’nhead Wilson’s Calendar*
+<i>Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 At breakfast in the morning the twins’ charm of manner and easy and polished bearing made speedy conquest of the family’s good graces. All constraint and formality quickly disappeared, and the friendliest feeling succeeded. Aunt Patsy called them by their Christian names almost from the beginning. She was full of the keenest curiosity about them, and showed it; they responded by talking about themselves, which pleased her greatly. It presently appeared that in their early youth they had known poverty and hardship. As the talk wandered along the old lady watched for the right place to drop in a question or two concerning that matter, and when she found it she said to the blond twin who was now doing the biographies in his turn while the brunette one rested﻿—
 
@@ -392,7 +392,7 @@ The young strangers were kept long at the piano. The villagers were astonished a
 
 ## VII. The Unknown Nymph
 
-> One of the most striking differences between a cat and a lie is that a cat has only nine lives. —*Pudd’nhead Wilson’s Calendar*
+<i>One of the most striking differences between a cat and a lie is that a cat has only nine lives.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 The company broke up reluctantly, and drifted toward their several homes, chatting with vivacity, and all agreeing that it would be many a long day before Dawson’s Landing would see the equal of this one again. The twins had accepted several invitations while the reception was in progress, and had also volunteered to play some duets at an amateur entertainment for the benefit of a local charity. Society was eager to receive them to its bosom. Judge Driscoll had the good fortune to secure them for an immediate drive, and to be the first to display them in public. They entered his buggy with him, and were paraded down the main street, everybody flocking to the windows and sidewalks to see.
 
@@ -414,9 +414,9 @@ He was now waiting for the twins, and still puzzling over the problem of who tha
 
 ## VIII. Marse Tom Tramples His Chance
 
-> The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money. —*Pudd’nhead Wilson’s Calendar*
+<i>The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> Consider well the proportions of things. It is better to be a young June-bug than an old bird of paradise. —*Pudd’nhead Wilson’s Calendar*
+<i>Consider well the proportions of things. It is better to be a young June-bug than an old bird of paradise.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 It is necessary now, to hunt up Roxy.
 
@@ -594,9 +594,9 @@ Tom humbly held the door for her, and she marched out as grim and erect as a gre
 
 ## IX. Tom Practises Sycophancy
 
-> Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved. —*Pudd’nhead Wilson’s Calendar*
+<i>Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> It is easy to find fault, if one has that disposition. There was once a man who, not being able to find any other fault with his coal, complained that there were too many prehistoric toads in it. —*Pudd’nhead Wilson’s Calendar*
+<i>It is easy to find fault, if one has that disposition. There was once a man who, not being able to find any other fault with his coal, complained that there were too many prehistoric toads in it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Tom flung himself on the sofa, and put his throbbing head in his hands, and rested his elbows on his knees. He rocked himself back and forth and moaned.
 
@@ -702,9 +702,9 @@ Under the inspiration of her soaring complacency the departed graces of her earl
 
 ## X. The Nymph Revealed
 
-> All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live. —*Pudd’nhead Wilson’s Calendar*
+<i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> When angry, count four; when very angry, swear. —*Pudd’nhead Wilson’s Calendar*
+<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Every now and then, after Tom went to bed, he had sudden wakings out of his sleep, and his first thought was, “Oh, joy, it was all a dream!” Then he laid himself heavily down again, with a groan and the muttered words, “A nigger! I am a nigger! Oh, I wish I was dead!”
 
@@ -742,9 +742,9 @@ After this long digression we have now arrived once more at the point where Pudd
 
 ## XI. Pudd’nhead’s Startling Discovery
 
-> There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart. —*Pudd’nhead Wilson’s Calendar*
+<i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> As to the Adjective: when in doubt, strike it out. —*Pudd’nhead Wilson’s Calendar*
+<i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 The twins arrived presently, and talk began. It flowed along chattily and sociably, and under its influence the new friendship gathered ease and strength. Wilson got out his *Calendar*, by request, and read a passage or two from it, which the twins praised quite cordially. This pleased the author so much that he complied gladly when they asked him to lend them a batch of the work to read at home. In the course of their wide travels they had found out that there are three sure ways of pleasing an author; they were now working the best of the three.
 
@@ -838,7 +838,7 @@ Wilson wrote something on a slip of paper and handed it to Luigi, who read it to
 
 Tom read:
 
-> “It was prophesied that I would kill a man. It came true before the year was out.”
+“It was prophesied that I would kill a man. It came true before the year was out.”
 
 Tom added, “Great Scott!”
 
@@ -848,7 +848,7 @@ Luigi handed Wilson’s paper to Tom, and said﻿—
 
 Tom read:
 
-> “You have killed someone, but whether man, woman or child, I do not make out.”
+“You have killed someone, but whether man, woman or child, I do not make out.”
 
 “Caesar’s ghost!” commented Tom, with astonishment. “It beats anything that was ever heard of! Why, a man’s own hand is his deadliest enemy! Just think of that﻿—a man’s own hand keeps a record of the deepest and fatalest secrets of his life, and is treacherously ready to expose him to any black-magic stranger that comes along. But what do you let a person look at your hand for, with that awful thing printed on it?”
 
@@ -914,7 +914,7 @@ This speech was received with great applause, mixed with cries of﻿—
 
 Glasses were handed around, and everybody on the platform drank Angelo’s health, while the house bellowed forth in song:
 
-> For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low﻿—<br>Which nobody can deny.
+For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low﻿—<br>Which nobody can deny.
 
 Tom Driscoll drank. It was his second glass, for he had drunk Angelo’s the moment that Angelo had set it down. The two drinks made him very merry﻿—almost idiotically so﻿—and he began to take a most lively and prominent part in the proceedings, particularly in the music and catcalls and side-remarks.
 
@@ -934,7 +934,7 @@ The fire-boys were never on hand so suddenly before; for there was no distance t
 
 ## XII. The Shame of Judge Driscoll
 
-> Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession. —*Pudd’nhead Wilson’s Calendar*
+<i>Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Judge Driscoll was in bed and asleep by ten o’clock on Friday night, and he was up and gone a-fishing before daylight in the morning with his friend Pembroke Howard. These two had been boys together in Virginia when that State still ranked as the chief and most imposing member of the Union, and they still coupled the proud and affectionate adjective “old” with her name when they spoke of her. In Missouri a recognized superiority attached to any person who hailed from Old Virginia; and this superiority was exalted to supremacy when a person of such nativity could also prove descent from the First Families of that great commonwealth. The Howards and Driscolls were of this aristocracy. In their eyes it was a nobility. It had its unwritten laws, and they were as clearly defined and as strict as any that could be found among the printed statutes of the land. The F.F.V. was born a gentleman; his highest duty in life was to watch over that great inheritance and keep it unsmirched. He must keep his honor spotless. Those laws were his chart; his course was marked out on it; if he swerved from it by so much as half a point of the compass it meant shipwreck to his honor; that is to say, degradation from his rank as a gentleman. These laws required certain things of him which his religion might forbid: then his religion must yield﻿—the laws could not be relaxed to accommodate religions or anything else. Honor stood first; and the laws defined what it was and wherein it differed in certain details from honor as defined by church creeds and by the social laws and customs of some of the minor divisions of the globe that had got crowded out when the sacred boundaries of Virginia were staked out.
 
@@ -1030,9 +1030,9 @@ Tom was very heavyhearted. His appetite was gone with his property and his self-
 
 ## XIII. Tom Stares at Ruin
 
-> When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life. —*Pudd’nhead Wilson’s Calendar*
+<i>When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February. —*Pudd’nhead Wilson’s Calendar*
+<i>October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Thus mournfully communing with himself Tom moped along the lane past Pudd’nhead Wilson’s house, and still on and on between fences enclosing vacant country on each hand till he neared the haunted house, then he came moping back again, with many sighs and heavy with trouble. He sorely wanted cheerful company. Rowena! His heart gave a bound at the thought, but the next thought quieted it﻿—the detested twins would be there.
 
@@ -1174,7 +1174,7 @@ The subject seemed about talked out. Nobody seemed to have anything further to o
 
 ## XIV. Roxana Insists Upon Reform
 
-> The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented. —*Pudd’nhead Wilson’s Calendar*
+<i>The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 About the time that Wilson was bowing the committee out, Pembroke Howard was entering the next house to report. He found the old Judge sitting grim and straight in his chair, waiting.
 
@@ -1338,9 +1338,9 @@ Tom was sober enough now. There was no levity in his voice when he answered:
 
 ## XV. The Robber Robbed
 
-> Nothing so needs reforming as other people’s habits. —*Pudd’nhead Wilson’s Calendar*
+<i>Nothing so needs reforming as other people’s habits.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> Behold, the fool saith, “Put not all thine eggs in the one basket”﻿—which is but a manner of saying, “Scatter your money and your attention;” but the wise man saith, “Put all your eggs in the one basket and﻿—**watch that basket.**” —*Pudd’nhead Wilson’s Calendar*
+<i>Behold, the fool saith, “Put not all thine eggs in the one basket”﻿—which is but a manner of saying, “Scatter your money and your attention;” but the wise man saith, “Put all your eggs in the one basket and﻿—**watch that basket.**”</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 What a time of it Dawson’s Landing was having! All its life it had been asleep, but now it hardly got a chance for a nod, so swiftly did big events and crashing surprises come along in one another’s wake: Friday morning, first glimpse of Real Nobility, also grand reception at Aunt Patsy Cooper’s, also great robber-raid; Friday evening, dramatic kicking of the heir of the chief citizen in presence of four hundred people; Saturday morning, emergence as practising lawyer of the long-submerged Pudd’nhead Wilson; Saturday night, duel between chief citizen and titled stranger.
 
@@ -1512,9 +1512,9 @@ Tom went aboard one of the big transient boats that night with his heavy satchel
 
 ## XVI. Sold Down the River
 
-> If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man. —*Pudd’nhead Wilson’s Calendar*
+<i>If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> We know all about the habits of the ant, we know all about the habits of the bee, but we know nothing at all about the habits of the oyster. It seems almost certain that we have been choosing the wrong time for studying the oyster. —*Pudd’nhead Wilson’s Calendar*
+<i>We know all about the habits of the ant, we know all about the habits of the bee, but we know nothing at all about the habits of the oyster. It seems almost certain that we have been choosing the wrong time for studying the oyster.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 When Roxana arrived, she found her son in such despair and misery that her heart was touched and her motherhood rose up strong in her. He was ruined past hope, now; his destruction would be immediate and sure, and he would be an outcast and friendless. That was reason enough for a mother to love a child; so she loved him, and told him so. It made him wince, secretly﻿—for she was a “nigger.” That he was one himself was far from reconciling him to that despised race.
 
@@ -1554,9 +1554,9 @@ It had been imagined that she “would not know,” and would think she was trav
 
 ## XVII. The Judge Utters Dire Prophecy
 
-> Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it. —*Pudd’nhead Wilson’s Calendar*
+<i>Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> *July 4*. Statistics show that we lose more fools on this day than in all the other days of the year put together. This proves, by the number left in stock, that one Fourth of July per year is now inadequate, the country has grown so. —*Pudd’nhead Wilson’s Calendar*
+<i>*July 4*. Statistics show that we lose more fools on this day than in all the other days of the year put together. This proves, by the number left in stock, that one Fourth of July per year is now inadequate, the country has grown so.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 The summer weeks dragged by, and then the political campaign opened﻿—opened in pretty warm fashion, and waxed hotter and hotter daily. The twins threw themselves into it with their whole heart, for their self-love was engaged. Their popularity, so general at first, had suffered afterward; mainly because they had been *too* popular, and so a natural reaction had followed. Besides, it had been diligently whispered around that it was curious﻿—indeed, *very* curious﻿—that that wonderful knife of theirs did not turn up﻿—*if* it was so valuable, or *if* it had ever existed. And with the whisperings went chucklings and nudgings and winks, and such things have an effect. The twins considered that success in the election would reinstate them, and that defeat would work them irreparable damage. Therefore they worked hard, but not harder than Judge Driscoll and Tom worked against them in the closing days of the canvas. Tom’s conduct had remained so letter-perfect during two whole months, now, that his uncle not only trusted him with money with which to persuade voters, but trusted him to go and get it himself out of the safe in the private sitting-room.
 
@@ -1574,9 +1574,9 @@ The brothers withdrew entirely from society, and nursed their humiliation in pri
 
 ## XVIII. Roxana Commands
 
-> Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by. —*Pudd’nhead Wilson’s Calendar*
+<i>Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> *Thanksgiving Day*. Let all give humble, hearty, and sincere thanks, now, but the turkeys. In the island of Fiji they do not use turkeys; they use plumbers. It does not become you and me to sneer at Fiji. —*Pudd’nhead Wilson’s Calendar*
+<i>*Thanksgiving Day*. Let all give humble, hearty, and sincere thanks, now, but the turkeys. In the island of Fiji they do not use turkeys; they use plumbers. It does not become you and me to sneer at Fiji.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 The Friday after the election was a rainy one in St. Louis. It rained all day long, and rained hard, apparently trying its best to wash that soot-blackened town white, but of course not succeeding. Toward midnight Tom Driscoll arrived at his lodgings from the theatre in the heavy downpour, and closed his umbrella and let himself in; but when he would have shut the door, he found that there was another person entering﻿—doubtless another lodger; this person closed the door and tramped upstairs behind Tom. Tom found his door in the dark, and entered it and turned up the gas. When he faced about, lightly whistling, he saw the back of a man. The man was closing and locking his door for him. His whistle faded out and he felt uneasy. The man turned around, a wreck of shabby old clothes, sodden with rain and all a-drip, and showed a black face under an old slouch hat. Tom was frightened. He tried to order the man out, but the words refused to come, and the other man got the start. He said, in a low voice﻿—
 
@@ -1740,9 +1740,9 @@ As Tom trudged home his mind was full of dreary thoughts and wild plans; but at 
 
 ## XIX. The Prophecy Realized
 
-> Few things are harder to put up with than the annoyance of a good example. —*Pudd’nhead Wilson’s Calendar*
+<i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> It were not best that we should all think alike; it is difference of opinion that makes horse-races. —*Pudd’nhead Wilson’s Calendar*
+<i>It were not best that we should all think alike; it is difference of opinion that makes horse-races.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Dawson’s Landing was comfortably finishing its season of dull repose and waiting patiently for the duel. Count Luigi was waiting, too; but not patiently, rumor said. Sunday came, and Luigi insisted on having his challenge conveyed. Wilson carried it. Judge Driscoll declined to fight with an assassin﻿—“that is,” he added significantly, “in the field of honor.”
 
@@ -1778,13 +1778,13 @@ As Tom, quaking as with a palsy, passed out at the gate, three women came flying
 
 In St. Louis, next morning, he read this brief telegram in the papers﻿—dated at Dawson’s Landing:
 
-> Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.
+<span class='upper'>Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.</span>
 
 “One of the twins!” soliloquized Tom; “how lucky! It is the knife that has done him this grace. We never know when fortune is trying to favor us. I actually cursed Pudd’nhead Wilson in my heart for putting it out of my power to sell that knife. I take it back, now.”
 
 Tom was now rich and independent. He arranged with the planter, and mailed to Wilson the new bill of sale which sold Roxana to herself; then he telegraphed his Aunt Pratt:
 
-> Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.
+<span class='upper'>Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.</span>
 
 When Wilson reached the house of mourning and had gathered such details as Mrs. Pratt and the rest of the crowd could tell him, he took command as mayor, and gave orders that nothing should be touched, but everything left as it was until Justice Robinson should arrive and take the proper measures as coroner. He cleared everybody out of the room but the twins and himself. The sheriff soon arrived and took the twins away to jail. Wilson told them to keep heart, and promised to do his best in their defense when the case should come to trial. Justice Robinson came presently, and with him Constable Blake. They examined the room thoroughly. They found the knife and the sheath. Wilson noticed that there were fingerprints on the knife-handle. That pleased him, for the twins had required the earliest comers to make a scrutiny of their hands and clothes, and neither these people nor Wilson himself had found any bloodstains upon them. Could there be a possibility that the twins had spoken the truth when they said they found the man dead when they ran into the house in answer to the cry for help? He thought of that mysterious girl at once. But this was not the sort of work for a girl to be engaged in. No matter; Tom Driscoll’s room must be examined.
 
@@ -1818,7 +1818,7 @@ Everybody was pitying Tom, he looked so quiet and sorrowful, and seemed to feel 
 
 ## XX. The Murderer Chuckles
 
-> Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth. —*Pudd’nhead Wilson’s Calendar*
+<i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 The weeks dragged along, no friend visiting the jailed twins but their counsel and Aunt Patsy Cooper, and the day of trial came at last﻿—the heaviest day in Wilson’s life; for with all his tireless diligence he had discovered no sign or trace of the missing confederate. “Confederate” was the term he had long ago privately accepted for that person﻿—not as being unquestionably the right term, but as being at least possibly the right one, though he was never able to understand why the twins did not vanish and escape, as the confederate had done, instead of remaining by the murdered man and getting caught there.
 
@@ -1898,9 +1898,9 @@ He landed in the middle of the floor at a bound, without finishing the sentence,
 
 ## XXI. Doom
 
-> He is useless on top of the ground; he ought to be under it, inspiring the cabbages. —*Pudd’nhead Wilson’s Calendar*
+<i>He is useless on top of the ground; he ought to be under it, inspiring the cabbages.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> *April 1.* This is the day upon which we are reminded of what we are on the other three hundred and sixty-four. —*Pudd’nhead Wilson’s Calendar*
+<i>*April 1.* This is the day upon which we are reminded of what we are on the other three hundred and sixty-four.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 Wilson put on enough clothes for business purposes and went to work under a high pressure of steam. He was awake all over. All sense of weariness had been swept away by the invigorating refreshment of the great and hopeful discovery which he had made. He made fine and accurate reproductions of a number of his “records,” and then enlarged them on a scale of ten to one with his pantograph. He did these pantograph enlargements on sheets of white cardboard, and made each individual line of the bewildering maze of whorls or curves or loops which constituted the “pattern,” of a “record” stand out bold and black by reinforcing it with ink. To the untrained eye the collection of delicate originals made by the human finger on the glass plates looked about alike; but when enlarged ten times they resembled the markings of a block of wood that has been sawed across the grain, and the dullest eye could detect at a glance, and at a distance of many feet, that no two of the patterns were alike. When Wilson had at last finished his tedious and difficult work, he arranged its results according to a plan in which a progressive order and sequence was a principal feature; then he added to the batch several pantograph enlargements which he had made from time to time in bygone years.
 
@@ -2036,9 +2036,9 @@ The court rose; the new prisoner, handcuffed, was removed.
 
 ## Conclusion
 
-> It is often the case that the man who can’t tell a lie thinks he is the best judge of one. —*Pudd’nhead Wilson’s Calendar*
+<i>It is often the case that the man who can’t tell a lie thinks he is the best judge of one.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
-> *October 12, the Discovery*. It was wonderful to find America, but it would have been more wonderful to miss it. —*Pudd’nhead Wilson’s Calendar*
+<i>*October 12, the Discovery*. It was wonderful to find America, but it would have been more wonderful to miss it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 The town sat up all night to discuss the amazing events of the day and swap guesses as to when Tom’s trial would begin. Troop after troop of citizens came to serenade Wilson, and require a speech, and shout themselves hoarse over every sentence that fell from his lips﻿—for all his sentences were golden, now, all were marvelous. His long fight against hard luck and prejudice was ended; he was a made man for good.
 

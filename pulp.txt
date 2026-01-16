@@ -4,7 +4,7 @@
 ## A Whisper to the Reader
 
 
-> There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt. —*Pudd’nhead Wilson’s Calendar*
+<i>There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 A person who is ignorant of legal matters is always liable to make mistakes when he tries to photograph a court scene with his pen; and so I was not willing to let the law chapters in this book go to press without first subjecting them to rigid and exhausting revision and correction by a trained barrister—if that is what they are called.
@@ -25,7 +25,7 @@ Mark Twain.
 ## I. Pudd’nhead Wins His Name
 
 
-> Tell the truth or trump﻿—but get the trick. —*Pudd’nhead Wilson’s Calendar*
+<i>Tell the truth or trump﻿—but get the trick.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The scene of this chronicle is the town of Dawson’s Landing, on the Missouri side of the Mississippi, half a day’s journey, per steamboat, below St. Louis.
@@ -232,7 +232,7 @@ The nickname soon ceased to carry any harsh or unfriendly feeling with it, but i
 ## II. Driscoll Spares His Slaves
 
 
-> Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent. —*Pudd’nhead Wilson’s Calendar*
+<i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Pudd’nhead Wilson had a trifle of money when he arrived, and he bought a small house on the extreme western verge of the town.
@@ -244,7 +244,7 @@ Between it and Judge Driscoll’s house there was only a grassy yard, with a pal
 He hired a small office down in the town and hung out a tin sign with these words on it:
 
 
-> David Wilson.<br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.
+<div class='upper center'><span class='big'>David Wilson.</span><br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.</div>
 
 
 But his deadly remark had ruined his chance﻿—at least in the law.
@@ -289,7 +289,7 @@ He asked people to pass their hands through their hair (thus collecting upon the
 Under this row of faint grease-prints he would write a record on the strip of white paper﻿—thus:
 
 
-> **John Smith**, *right hand*﻿—
+<div class='center'><span class='upper'>John Smith</span>, *right hand*﻿—</div>
 
 
 and add the day of the month and the year, then take Smith’s left hand on another glass strip, and add name and date and the words “left hand.”
@@ -547,7 +547,7 @@ e:percy=happy
 ## III. Roxy Plays a Shrewd Trick
 
 
-> Whoever has lived long enough to find out what life is, knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world. —*Pudd’nhead Wilson’s Calendar*
+<i>Whoever has lived long enough to find out what life is, knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Percy Driscoll slept well the night he saved his house-minions from going down the river, but no wink of sleep visited Roxy’s eyes.
@@ -817,10 +817,10 @@ e:roxana=happy
 ## IV. The Ways of the Changelings
 
 
-> Adam and Eve had many advantages, but the principal one was, that they escaped teething. —*Pudd’nhead Wilson’s Calendar*
+<i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children. —*Pudd’nhead Wilson’s Calendar*
+<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 This history must henceforth accommodate itself to the change which Roxana has consummated, and call the real heir “Chambers” and the usurping little slave “Thomas à Becket”﻿—shortening this latter name to “Tom,” for daily use, as the people about him did.
@@ -1066,10 +1066,10 @@ s=wilson;e:wilson=thinking
 ## V. The Twins Thrill Dawson’s Landing
 s=none
 
-> Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education. —*Pudd’nhead Wilson’s Calendar*
+<i>Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> Remark of Dr. Baldwin’s, concerning upstarts: We don’t care to eat toadstools that think they are truffles. —*Pudd’nhead Wilson’s Calendar*
+<i>Remark of Dr. Baldwin’s, concerning upstarts: We don’t care to eat toadstools that think they are truffles.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Mrs. York Driscoll enjoyed two years of bliss with that prize, Tom—bliss that was troubled a little at times, it is true, but bliss nevertheless; then she died, and her husband and his childless sister, Mrs. Pratt, continued the bliss-business at the old stand.
@@ -1210,7 +1210,7 @@ e:rowena=happy
 It was framed thus:
 
 
-> **Honored Madam:** My brother and I have seen your advertisement, by chance, and beg leave to take the room you offer. We are twenty-four years of age and twins. We are Italians by birth, but have lived long in the various countries of Europe, and several years in the United States. Our names are Luigi and Angelo Capello. You desire but one guest; but dear Madam, if you will allow us to pay for two, we will not incommode you. We shall be down Thursday.
+<span class='upper'>Honored Madam:</span> My brother and I have seen your advertisement, by chance, and beg leave to take the room you offer. We are twenty-four years of age and twins. We are Italians by birth, but have lived long in the various countries of Europe, and several years in the United States. Our names are Luigi and Angelo Capello. You desire but one guest; but dear Madam, if you will allow us to pay for two, we will not incommode you. We shall be down Thursday.
 n:luigi=Luigi Capello;n:angelo=Angelo Capello
 
 “Italians! How romantic! Just think, ma—there’s never been one in this town, and everybody will be dying to see them, and they’re all *ours*! Think of that!”
@@ -1276,10 +1276,10 @@ One was a little fairer than the other, but otherwise they were exact duplicates
 ## VI. Swimming in Glory
 
 
-> Let us endeavor so to live that when we come to die even the undertaker will be sorry. —*Pudd’nhead Wilson’s Calendar*
+<i>Let us endeavor so to live that when we come to die even the undertaker will be sorry.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time. —*Pudd’nhead Wilson’s Calendar*
+<i>Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 At breakfast in the morning the twins’ charm of manner and easy and polished bearing made speedy conquest of the family’s good graces.
@@ -1468,7 +1468,7 @@ They realized that for once in their lives they were hearing masters.
 ## VII. The Unknown Nymph
 
 
-> One of the most striking differences between a cat and a lie is that a cat has only nine lives. —*Pudd’nhead Wilson’s Calendar*
+<i>One of the most striking differences between a cat and a lie is that a cat has only nine lives.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The company broke up reluctantly, and drifted toward their several homes, chatting with vivacity, and all agreeing that it would be many a long day before Dawson’s Landing would see the equal of this one again.
@@ -1570,10 +1570,10 @@ e:wilson=thinking
 ## VIII. Marse Tom Tramples His Chance
 
 
-> The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money. —*Pudd’nhead Wilson’s Calendar*
+<i>The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> Consider well the proportions of things. It is better to be a young June-bug than an old bird of paradise. —*Pudd’nhead Wilson’s Calendar*
+<i>Consider well the proportions of things. It is better to be a young June-bug than an old bird of paradise.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 It is necessary now, to hunt up Roxy.
@@ -2026,10 +2026,10 @@ s=none
 ## IX. Tom Practises Sycophancy
 
 
-> Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved. —*Pudd’nhead Wilson’s Calendar*
+<i>Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> It is easy to find fault, if one has that disposition. There was once a man who, not being able to find any other fault with his coal, complained that there were too many prehistoric toads in it. —*Pudd’nhead Wilson’s Calendar*
+<i>It is easy to find fault, if one has that disposition. There was once a man who, not being able to find any other fault with his coal, complained that there were too many prehistoric toads in it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Tom flung himself on the sofa, and put his throbbing head in his hands, and rested his elbows on his knees.
@@ -2320,10 +2320,10 @@ e:roxana=neutral
 ## X. The Nymph Revealed
 s=none
 
-> All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live. —*Pudd’nhead Wilson’s Calendar*
+<i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> When angry, count four; when very angry, swear. —*Pudd’nhead Wilson’s Calendar*
+<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Every now and then, after Tom went to bed, he had sudden wakings out of his sleep, and his first thought was, “Oh, joy, it was all a dream!”
@@ -2503,10 +2503,10 @@ e:wilson=thinking
 ## XI. Pudd’nhead’s Startling Discovery
 
 
-> There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart. —*Pudd’nhead Wilson’s Calendar*
+<i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> As to the Adjective: when in doubt, strike it out. —*Pudd’nhead Wilson’s Calendar*
+<i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The twins arrived presently, and talk began. It flowed along chattily and sociably, and under its influence the new friendship gathered ease and strength.
@@ -2743,8 +2743,8 @@ s=luigi
 Tom read:
 s=none
 
-> “It was prophesied that I would kill a man. It came true before the year was out.”
-e:tom=serious
+“It was prophesied that I would kill a man. It came true before the year was out.”
+e:tom=serious;s=tom
 
 Tom added, “Great Scott!”
 s=tom;e:tom=surprised
@@ -2758,8 +2758,8 @@ s=luigi
 Tom read:
 s=none
 
-> “You have killed someone, but whether man, woman or child, I do not make out.”
-
+“You have killed someone, but whether man, woman or child, I do not make out.”
+s=tom;e:tom=wary
 
 “Caesar’s ghost!” commented Tom, with astonishment.
 s=tom
@@ -2965,7 +2965,7 @@ s=none
 Glasses were handed around, and everybody on the platform drank Angelo’s health, while the house bellowed forth in song:
 s=none
 
-> For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low—<br>Which nobody can deny.
+For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low—<br>Which nobody can deny.<e>Temp</e>
 
 
 Tom Driscoll drank. It was his second glass, for he had drunk Angelo’s the moment that Angelo had set it down.
@@ -3034,7 +3034,7 @@ Such citizens of that village as were of a thoughtful and judicious temperament 
 ## XII. The Shame of Judge Driscoll
 
 
-> Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession. —*Pudd’nhead Wilson’s Calendar*
+<i>Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Judge Driscoll was in bed and asleep by ten o’clock on Friday night, and he was up and gone a-fishing before daylight in the morning with his friend Pembroke Howard.
@@ -3271,10 +3271,10 @@ e:tom=thinking
 ## XIII. Tom Stares at Ruin
 s=
 
-> When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life. —*Pudd’nhead Wilson’s Calendar*
+<i>When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February. —*Pudd’nhead Wilson’s Calendar*
+<i>October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Thus mournfully communing with himself Tom moped along the lane past Pudd’nhead Wilson’s house, and still on and on between fences enclosing vacant country on each hand till he neared the haunted house, then he came moping back again, with many sighs and heavy with trouble.
@@ -3568,7 +3568,7 @@ e:wilson=happy
 ## XIV. Roxana Insists Upon Reform
 
 
-> The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented. —*Pudd’nhead Wilson’s Calendar*
+<i>The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 About the time that Wilson was bowing the committee out, Pembroke Howard was entering the next house to report.
@@ -4000,10 +4000,10 @@ s=roxana
 ## XV. The Robber Robbed
 s=
 
-> Nothing so needs reforming as other people’s habits. —*Pudd’nhead Wilson’s Calendar*
+<i>Nothing so needs reforming as other people’s habits.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> Behold, the fool saith, “Put not all thine eggs in the one basket”﻿—which is but a manner of saying, “Scatter your money and your attention;” but the wise man saith, “Put all your eggs in the one basket and﻿—**watch that basket.**” —*Pudd’nhead Wilson’s Calendar*
+<i>Behold, the fool saith, “Put not all thine eggs in the one basket”﻿—which is but a manner of saying, “Scatter your money and your attention;” but the wise man saith, “Put all your eggs in the one basket and﻿—**watch that basket.**”</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 What a time of it Dawson’s Landing was having!
@@ -4405,10 +4405,10 @@ e:tom=unhappy
 ## XVI. Sold Down the River
 
 
-> If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man. —*Pudd’nhead Wilson’s Calendar*
+<i>If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> We know all about the habits of the ant, we know all about the habits of the bee, but we know nothing at all about the habits of the oyster. It seems almost certain that we have been choosing the wrong time for studying the oyster. —*Pudd’nhead Wilson’s Calendar*
+<i>We know all about the habits of the ant, we know all about the habits of the bee, but we know nothing at all about the habits of the oyster. It seems almost certain that we have been choosing the wrong time for studying the oyster.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 When Roxana arrived, she found her son in such despair and misery that her heart was touched and her motherhood rose up strong in her.
@@ -4555,10 +4555,10 @@ s=roxana
 ## XVII. The Judge Utters Dire Prophecy
 s=
 
-> Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it. —*Pudd’nhead Wilson’s Calendar*
+<i>Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> *July 4*. Statistics show that we lose more fools on this day than in all the other days of the year put together. This proves, by the number left in stock, that one Fourth of July per year is now inadequate, the country has grown so. —*Pudd’nhead Wilson’s Calendar*
+<i>*July 4*. Statistics show that we lose more fools on this day than in all the other days of the year put together. This proves, by the number left in stock, that one Fourth of July per year is now inadequate, the country has grown so.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The summer weeks dragged by, and then the political campaign opened—opened in pretty warm fashion, and waxed hotter and hotter daily.
@@ -4633,10 +4633,10 @@ They avoided the people, and went out for exercise only late at night, when the 
 ## XVIII. Roxana Commands
 
 
-> Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by. —*Pudd’nhead Wilson’s Calendar*
+<i>Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> *Thanksgiving Day*. Let all give humble, hearty, and sincere thanks, now, but the turkeys. In the island of Fiji they do not use turkeys; they use plumbers. It does not become you and me to sneer at Fiji. —*Pudd’nhead Wilson’s Calendar*
+<i>*Thanksgiving Day*. Let all give humble, hearty, and sincere thanks, now, but the turkeys. In the island of Fiji they do not use turkeys; they use plumbers. It does not become you and me to sneer at Fiji.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The Friday after the election was a rainy one in St. Louis.
@@ -5101,10 +5101,10 @@ e:tom=serious
 ## XIX. The Prophecy Realized
 
 
-> Few things are harder to put up with than the annoyance of a good example. —*Pudd’nhead Wilson’s Calendar*
+<i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> It were not best that we should all think alike; it is difference of opinion that makes horse-races. —*Pudd’nhead Wilson’s Calendar*
+<i>It were not best that we should all think alike; it is difference of opinion that makes horse-races.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Dawson’s Landing was comfortably finishing its season of dull repose and waiting patiently for the duel.
@@ -5326,7 +5326,7 @@ t=tom;e:tom=happy
 In St. Louis, next morning, he read this brief telegram in the papers—dated at Dawson’s Landing:
 e:tom=neutral
 
-> Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.
+<span class='upper'>Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.</span>
 
 
 “One of the twins!” soliloquized Tom; “how lucky! It is the knife that has done him this grace.”
@@ -5341,7 +5341,7 @@ t=none
 He arranged with the planter, and mailed to Wilson the new bill of sale which sold Roxana to herself; then he telegraphed his Aunt Pratt:
 
 
-> Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.
+<span class='upper'>Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.</span>
 
 
 When Wilson reached the house of mourning and had gathered such details as Mrs. Pratt and the rest of the crowd could tell him, he took command as mayor, and gave orders that nothing should be touched, but everything left as it was until Justice Robinson should arrive and take the proper measures as coroner.
@@ -5497,7 +5497,7 @@ e:rachel=happy
 ## XX. The Murderer Chuckles
 
 
-> Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth. —*Pudd’nhead Wilson’s Calendar*
+<i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The weeks dragged along, no friend visiting the jailed twins but their counsel and Aunt Patsy Cooper, and the day of trial came at last—the heaviest day in Wilson’s life; for with all his tireless diligence he had discovered no sign or trace of the missing confederate.
@@ -5767,10 +5767,10 @@ s=wilson
 ## XXI. Doom
 s=
 
-> He is useless on top of the ground; he ought to be under it, inspiring the cabbages. —*Pudd’nhead Wilson’s Calendar*
+<i>He is useless on top of the ground; he ought to be under it, inspiring the cabbages.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> *April 1.* This is the day upon which we are reminded of what we are on the other three hundred and sixty-four. —*Pudd’nhead Wilson’s Calendar*
+<i>*April 1.* This is the day upon which we are reminded of what we are on the other three hundred and sixty-four.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 Wilson put on enough clothes for business purposes and went to work under a high pressure of steam.
@@ -6253,10 +6253,10 @@ The court rose; the new prisoner, handcuffed, was removed.
 ## Conclusion
 
 
-> It is often the case that the man who can’t tell a lie thinks he is the best judge of one. —*Pudd’nhead Wilson’s Calendar*
+<i>It is often the case that the man who can’t tell a lie thinks he is the best judge of one.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-> *October 12, the Discovery*. It was wonderful to find America, but it would have been more wonderful to miss it. —*Pudd’nhead Wilson’s Calendar*
+<i>*October 12, the Discovery*. It was wonderful to find America, but it would have been more wonderful to miss it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The town sat up all night to discuss the amazing events of the day and swap guesses as to when Tom’s trial would begin.
