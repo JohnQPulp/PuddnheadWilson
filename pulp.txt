@@ -244,13 +244,7 @@ Between it and Judge Driscoll’s house there was only a grassy yard, with a pal
 He hired a small office down in the town and hung out a tin sign with these words on it:
 
 
-> David Wilson.
-
-
-> Attorney And Counselor-At-Law.
-
-
-> Surveying, Conveyancing, Etc.
+> David Wilson.<br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.
 
 
 But his deadly remark had ruined his chance﻿—at least in the law.
@@ -2971,16 +2965,7 @@ s=none
 Glasses were handed around, and everybody on the platform drank Angelo’s health, while the house bellowed forth in song:
 s=none
 
-> For he’s a jolly good fel‑low,
-
-
-> For he’s a jolly good fel‑low,
-
-
-> For he’s a jolly good fe‑el‑low—
-
-
-> Which nobody can deny.
+> For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low—<br>Which nobody can deny.
 
 
 Tom Driscoll drank. It was his second glass, for he had drunk Angelo’s the moment that Angelo had set it down.
