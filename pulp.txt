@@ -3046,3 +3046,970 @@ But water was preferable to fire, and still the stampede from the windows contin
 Such citizens of that village as were of a thoughtful and judicious temperament did not insure against fire; they insured against the fire-company.
 
 
+## XII. The Shame of Judge Driscoll
+
+
+> Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession. —*Pudd’nhead Wilson’s Calendar*
+
+
+Judge Driscoll was in bed and asleep by ten o’clock on Friday night, and he was up and gone a-fishing before daylight in the morning with his friend Pembroke Howard.
+
+
+These two had been boys together in Virginia when that State still ranked as the chief and most imposing member of the Union, and they still coupled the proud and affectionate adjective “old” with her name when they spoke of her.
+
+
+In Missouri a recognized superiority attached to any person who hailed from Old Virginia; and this superiority was exalted to supremacy when a person of such nativity could also prove descent from the First Families of that great commonwealth.
+
+
+The Howards and Driscolls were of this aristocracy. In their eyes it was a nobility.
+
+
+It had its unwritten laws, and they were as clearly defined and as strict as any that could be found among the printed statutes of the land.
+
+
+The F.F.V. was born a gentleman; his highest duty in life was to watch over that great inheritance and keep it unsmirched.
+
+
+He must keep his honor spotless. Those laws were his chart; his course was marked out on it; if he swerved from it by so much as half a point of the compass it meant shipwreck to his honor; that is to say, degradation from his rank as a gentleman.
+
+
+These laws required certain things of him which his religion might forbid: then his religion must yield—the laws could not be relaxed to accommodate religions or anything else.
+
+
+Honor stood first; and the laws defined what it was and wherein it differed in certain details from honor as defined by church creeds and by the social laws and customs of some of the minor divisions of the globe that had got crowded out when the sacred boundaries of Virginia were staked out.
+
+
+If Judge Driscoll was the recognized first citizen of Dawson’s Landing, Pembroke Howard was easily its recognized second citizen.
+
+
+He was called “the great lawyer”—an earned title. He and Driscoll were of the same age—a year or two past sixty.
+
+
+Although Driscoll was a freethinker and Howard a strong and determined Presbyterian, their warm intimacy suffered no impairment in consequence.
+
+
+They were men whose opinions were their own property and not subject to revision and amendment, suggestion or criticism, by anybody, even their friends.
+
+
+The day’s fishing finished, they came floating down stream in their skiff, talking national politics and other high matters, and presently met a skiff coming up from town, with a man in it who said:
+e:york=happy;e:pembroke=neutral
+
+“I reckon you know one of the new twins gave your nephew a kicking last night, Judge?”
+n:messenger=Man;s=messenger;e:messenger=neutral
+
+“Did *what*?”
+s=york;e:york=surprised
+
+“Gave him a kicking.”
+s=messenger
+
+The old Judge’s lips paled, and his eyes began to flame.
+s=none;e:york=angry
+
+He choked with anger for a moment, then he got out what he was trying to say—
+
+
+“Well—well—go on! give me the details!”
+s=york
+
+The man did it.
+s=none
+
+At the finish the Judge was silent a minute, turning over in his mind the shameful picture of Tom’s flight over the footlights; then he said, as if musing aloud—“H’m—I don’t understand it. I was asleep at home. He didn’t wake me. Thought he was competent to manage his affair without my help, I reckon.”
+e:york=thinking
+
+His face lit up with pride and pleasure at that thought, and he said with a cheery complacency, “I like that—it’s the true old blood—hey, Pembroke?”
+e:york=happy
+
+Howard smiled an iron smile, and nodded his head approvingly.
+s=none;e:pembroke=smirking
+
+Then the news-bringer spoke again—
+
+
+“But Tom beat the twin on the trial.”
+s=messenger;e:messenger=neutral
+
+The Judge looked at the man wonderingly, and said—
+s=none;e:york=confused
+
+“The trial? What trial?”
+s=york
+
+“Why, Tom had him up before Judge Robinson for assault and battery.”
+s=messenger
+
+The old man shrank suddenly together like one who has received a death-stroke.
+s=none;e:york=fearful
+
+Howard sprang for him as he sank forward in a swoon, and took him in his arms, and bedded him on his back in the boat.
+e:pembroke=serious
+
+He sprinkled water in his face, and said to the startled visitor—
+
+
+“Go, now—don’t let him come to and find you here. You see what an effect your heedless speech has had; you ought to have been more considerate than to blurt out such a cruel piece of slander as that.”
+s=pembroke;e:pembroke=angry
+
+“I’m right down sorry I did it now, Mr. Howard, and I wouldn’t have done it if I had thought: but it ain’t slander; it’s perfectly true, just as I told him.”
+s=messenger;e:messenger=unhappy
+
+He rowed away. Presently the old Judge came out of his faint and looked up piteously into the sympathetic face that was bent over him.
+s=none;e:york=weary
+
+“Say it ain’t true, Pembroke; tell me it ain’t true!” he said in a weak voice.
+s=york
+
+There was nothing weak in the deep organ-tones that responded—
+s=none
+
+“You know it’s a lie as well as I do, old friend. He is of the best blood of the Old Dominion.”
+s=pembroke;e:pembroke=serious
+
+“God bless you for saying it!” said the old gentleman, fervently. “Ah, Pembroke, it was such a blow!”
+s=york;e:york=unhappy
+
+Howard stayed by his friend, and saw him home, and entered the house with him.
+s=none
+
+It was dark, and past suppertime, but the Judge was not thinking of supper; he was eager to hear the slander refuted from headquarters, and as eager to have Howard hear it, too.
+e:york=serious
+
+Tom was sent for, and he came immediately. He was bruised and lame, and was not a happy-looking object.
+e:tom=unhappy
+
+His uncle made him sit down, and said—
+s=none
+
+“We have been hearing about your adventure, Tom, with a handsome lie added to it for embellishment. Now pulverize that lie to dust! What measures have you taken? How does the thing stand?”
+s=york;e:york=serious
+
+Tom answered guilelessly: “It don’t stand at all; it’s all over. I had him up in court and beat him. Pudd’nhead Wilson defended him—first case he ever had, and lost it. The judge fined the miserable hound five dollars for the assault.”
+s=tom;e:tom=neutral
+
+Howard and the Judge sprang to their feet with the opening sentence—why, neither knew; then they stood gazing vacantly at each other. Howard stood a moment, then sat mournfully down without saying anything.
+s=none;e:york=surprised;e:pembroke=unhappy
+
+The Judge’s wrath began to kindle, and he burst out—
+e:york=angry
+
+“You cur! You scum! You vermin! Do you mean to tell me that blood of my race has suffered a blow and crawled to a court of law about it? Answer me!”
+s=york
+
+Tom’s head drooped, and he answered with an eloquent silence.
+s=none;e:tom=wary
+
+His uncle stared at him with a mixed expression of amazement and shame and incredulity that was sorrowful to see. At last he said—
+
+
+“Which of the twins was it?”
+s=york
+
+“Count Luigi.”
+s=tom
+
+“You have challenged him?”
+s=york
+
+“N—no,” hesitated Tom, turning pale.
+s=tom;e:tom=fearful
+
+“You will challenge him tonight. Howard will carry it.”
+s=york
+
+Tom began to turn sick, and to show it.
+s=none
+
+He turned his hat round and round in his hand, his uncle glowering blacker and blacker upon him as the heavy seconds drifted by; then at last he began to stammer, and said piteously—
+
+
+“Oh, please don’t ask me to do it, uncle! He is a murderous devil—I never could—I—I’m afraid of him!”
+s=tom;e:tom=fearful
+
+Old Driscoll’s mouth opened and closed three times before he could get it to perform its office; then he stormed out—
+s=none;e:york=angry
+
+“A coward in my family! A Driscoll a coward! Oh, what have I done to deserve this infamy!”
+s=york
+
+He tottered to his secretary in the corner repeating that lament again and again in heartbreaking tones, and got out of a drawer a paper, which he slowly tore to bits scattering the bits absently in his track as he walked up and down the room, still grieving and lamenting. At last he said—
+s=none;e:york=unhappy
+
+“There it is, shreds and fragments once more—my will. Once more you have forced me to disinherit you, you base son of a most noble father! Leave my sight! Go—before I spit on you!”
+s=york;e:york=angry
+
+The young man did not tarry. Then the Judge turned to Howard:
+s=none
+
+“You will be my second, old friend?”
+s=york;e:york=serious
+
+“Of course.”
+s=pembroke;e:pembroke=serious
+
+“There is pen and paper. Draft the cartel, and lose no time.”
+s=york
+
+“The Count shall have it in his hands in fifteen minutes,” said Howard.
+s=pembroke
+
+Tom was very heavyhearted.
+s=none;e:tom=unhappy
+
+His appetite was gone with his property and his self-respect.
+
+
+He went out the back way and wandered down the obscure lane grieving, and wondering if any course of future conduct, however discreet and carefully perfected and watched over, could win back his uncle’s favor and persuade him to reconstruct once more that generous will which had just gone to ruin before his eyes.
+e:tom=thinking
+
+He finally concluded that it could. He said to himself that he had accomplished this sort of triumph once already, and that what had been done once could be done again.
+
+
+He would set about it. He would bend every energy to the task, and he would score that triumph once more, cost what it might to his convenience, limit as it might his frivolous and liberty-loving life.
+
+
+“To begin,” he said to himself, “I’ll square up with the proceeds of my raid, and then gambling has got to be stopped—and stopped short off. It’s the worst vice I’ve got—from my standpoint, anyway, because it’s the one he can most easily find out, through the impatience of my creditors.”
+s=tom;e:tom=serious
+
+“He thought it expensive to have to pay two hundred dollars to them for me once. Expensive—*that!* Why, it cost me the whole of his fortune—but of course he never thought of that; some people can’t think of any but their own side of a case.”
+e:tom=angry
+
+“If he had known how deep I am in, now, the will would have gone to pot without waiting for a duel to help. Three hundred dollars! It’s a pile! But he’ll never hear of it, I’m thankful to say.”
+
+
+“The minute I’ve cleared it off, I’m safe; and I’ll never touch a card again. Anyway, I won’t while he lives, I make oath to that.”
+e:tom=thinking
+
+“I’m entering on my last reform—I know it—yes, and I’ll win; but after that, if I ever slip again I’m gone.”
+
+
+## XIII. Tom Stares at Ruin
+s=
+
+> When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life. —*Pudd’nhead Wilson’s Calendar*
+
+
+> October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February. —*Pudd’nhead Wilson’s Calendar*
+
+
+Thus mournfully communing with himself Tom moped along the lane past Pudd’nhead Wilson’s house, and still on and on between fences enclosing vacant country on each hand till he neared the haunted house, then he came moping back again, with many sighs and heavy with trouble.
+e:tom=unhappy
+
+He sorely wanted cheerful company. Rowena!
+e:tom=excited
+
+His heart gave a bound at the thought, but the next thought quieted it—the detested twins would be there.
+e:tom=unhappy
+
+He was on the inhabited side of Wilson’s house, and now as he approached it he noticed that the sitting-room was lighted.
+
+
+This would do; others made him feel unwelcome sometimes, but Wilson never failed in courtesy toward him, and a kindly courtesy does at least save one’s feelings, even if it is not professing to stand for a welcome.
+
+
+Wilson heard footsteps at his threshold, then the clearing of a throat.
+
+
+“It’s that fickle-tempered, dissipated young goose—poor devil, he find friends pretty scarce today, likely, after the disgrace of carrying a personal-assault case into a law-court.”
+t=wilson;e:wilson=thinking
+
+A dejected knock.
+t=none
+
+“Come in!”
+s=wilson
+
+Tom entered, and drooped into a chair, without saying anything.
+e:tom=unhappy;s=none
+
+Wilson said kindly—
+s=none;e:wilson=neutral
+
+“Why, my boy, you look desolate. Don’t take it so hard. Try and forget you have been kicked.”
+s=wilson
+
+“Oh, dear,” said Tom, wretchedly, “it’s not that, Pudd’nhead—it’s not that. It’s a thousand times worse than that—oh, yes, a million times worse.”
+s=tom
+
+“Why, Tom, what do you mean? Has Rowena—”
+s=wilson;e:wilson=surprised
+
+“Flung me? No, but the old man has.”
+s=tom
+
+Wilson said to himself, “Aha!” and thought of the mysterious girl in the bedroom.
+t=wilson;e:wilson=thinking;s=none
+
+“The Driscolls have been making discoveries!”
+t=wilson;e:wilson=excited
+
+Then he said aloud, gravely:
+t=none;s=none;e:wilson=serious
+
+“Tom, there are some kinds of dissipation which—”
+s=wilson
+
+“Oh, shucks, this hasn’t got anything to do with dissipation. He wanted me to challenge that derned Italian savage, and I wouldn’t do it.”
+s=tom;e:tom=angry
+
+“Yes, of course he would do that,” said Wilson in a meditative matter-of-course way, “but the thing that puzzled me was, why he didn’t look to that last night, for one thing, and why he let you carry such a matter into a court of law at all, either before the duel or after it.”
+s=wilson;e:wilson=thinking
+
+“It’s no place for it. It was not like him. I couldn’t understand it. How did it happen?”
+
+
+“It happened because he didn’t know anything about it. He was asleep when I got home last night.”
+s=tom
+
+“And you didn’t wake him? Tom, is that possible?”
+s=wilson;e:wilson=surprised
+
+Tom was not getting much comfort here.
+e:tom=unhappy;s=none
+
+He fidgeted a moment, then said:
+s=none
+
+“I didn’t choose to tell him—that’s all.”
+s=tom;e:tom=neutral
+
+“He was going a-fishing before dawn, with Pembroke Howard, and if I got the twins into the common calaboose—and I thought sure I could—I never dreamed of their slipping out on a paltry fine for such an outrageous offense—well, once in the calaboose they would be disgraced, and uncle wouldn’t want any duels with that sort of characters, and wouldn’t allow any.”
+
+
+“Tom, I am ashamed of you! I don’t see how you could treat your good old uncle so.”
+s=wilson;e:wilson=angry
+
+“I am a better friend of his than you are; for if I had known the circumstances I would have kept that case out of court until I got word to him and let him have a gentleman’s chance.”
+e:wilson=unhappy
+
+“You would?” exclaimed Tom, with lively surprise.
+s=tom;e:tom=surprised
+
+“And it your first case! And you know perfectly well there never would have *been* any case if he had got that chance, don’t you? And you’d have finished your days a pauper nobody, instead of being an actually launched and recognized lawyer today. And you would really have done that, would you?”
+
+
+“Certainly.”
+s=wilson;e:wilson=neutral
+
+Tom looked at him a moment or two, then shook his head sorrowfully and said—
+s=none;e:tom=thinking
+
+“I believe you—upon my word I do. I don’t know why I do, but I do. Pudd’nhead Wilson, I think you’re the biggest fool I ever saw.”
+s=tom
+
+“Thank you.”
+s=wilson
+
+“Don’t mention it.”
+s=tom;e:tom=
+
+“Well, he has been requiring you to fight the Italian and you have refused. You degenerate remnant of an honorable line! I’m thoroughly ashamed of you, Tom!”
+s=wilson;e:wilson=angry
+
+“Oh, that’s nothing! I don’t care for anything, now that the will’s torn up again.”
+s=tom;e:tom=unhappy
+
+“Tom, tell me squarely—didn’t he find any fault with you for anything but those two things—carrying the case into court and refusing to fight?”
+s=wilson;e:wilson=serious
+
+He watched the young fellow’s face narrowly, but it was entirely reposeful, and so also was the voice that answered:
+s=none;e:wilson=wary;e:tom=neutral
+
+“No, he didn’t find any other fault with me. If he had had any to find, he would have begun yesterday, for he was just in the humor for it.”
+s=tom
+
+“He drove that jack-pair around town and showed them the sights, and when he came home he couldn’t find his father’s old silver watch that don’t keep time and he thinks so much of, and couldn’t remember what he did with it three or four days ago when he saw it last, and so when I arrived he was all in a sweat about it, and when I suggested that it probably wasn’t lost but stolen, it put him in a regular passion and he said I was a fool—which convinced me, without any trouble, that that was just what he was afraid *had* happened, himself, but did not want to believe it, because lost things stand a better chance of being found again than stolen ones.”
+
+
+“Whe-ew!” whistled Wilson; “score another on the list.”
+s=wilson;e:wilson=thinking
+
+“Another what?”
+s=tom;e:tom=confused
+
+“Another theft!”
+s=wilson;e:wilson=serious
+
+“Theft?”
+s=tom
+
+“Yes, theft. That watch isn’t lost, it’s stolen. There’s been another raid on the town—and just the same old mysterious sort of thing that has happened once before, as you remember.”
+s=wilson
+
+“You don’t mean it!”
+s=tom;e:tom=surprised
+
+“It’s as sure as you are born! Have you missed anything yourself?”
+s=wilson
+
+“No. That is, I did miss a silver pencil-case that Aunt Mary Pratt gave me last birthday—”
+s=tom;e:tom=thinking
+
+“You’ll find it stolen—that’s what you’ll find.”
+s=wilson
+
+“No, I shan’t; for when I suggested theft about the watch and got such a rap, I went and examined my room, and the pencil-case was missing, but it was only mislaid, and I found it again.”
+s=tom;e:tom=neutral
+
+“You are sure you missed nothing else?”
+s=wilson
+
+“Well, nothing of consequence. I missed a small plain gold ring worth two or three dollars, but that will turn up. I’ll look again.”
+s=tom
+
+“In my opinion you’ll not find it. There’s been a raid, I tell you. Come *in*!”
+s=wilson;e:wilson=serious
+
+Mr. Justice Robinson entered, followed by Buckstone and the town-constable, Jim Blake.
+n:blake=Constable Blake;s=none
+
+They sat down, and after some wandering and aimless weather-conversation Wilson said—
+e:wilson=neutral
+
+“By the way, we’ve just added another to the list of thefts, maybe two. Judge Driscoll’s old silver watch is gone, and Tom here has missed a gold ring.”
+s=wilson
+
+“Well, it is a bad business,” said the Justice, “and gets worse the further it goes.”
+s=robinson;e:robinson=serious
+
+“The Hankses, the Dobsons, the Pilligrews, the Ortons, the Grangers, the Hales, the Fullers, the Holcombs, in fact everybody that lives around about Patsy Cooper’s has been robbed of little things like trinkets and teaspoons and suchlike small valuables that are easily carried off.”
+e:robinson=thinking
+
+“It’s perfectly plain that the thief took advantage of the reception at Patsy Cooper’s when all the neighbors were in her house and all their niggers hanging around her fence for a look at the show, to raid the vacant houses undisturbed.”
+e:robinson=serious
+
+“Patsy is miserable about it; miserable on account of the neighbors, and particularly miserable on account of her foreigners, of course; so miserable on their account that she hasn’t any room to worry about her own little losses.”
+e:robinson=unhappy
+
+“It’s the same old raider,” said Wilson. “I suppose there isn’t any doubt about that.”
+s=wilson
+
+“Constable Blake doesn’t think so.”
+s=robinson
+
+“No, you’re wrong there,” said Blake; “the other times it was a man; there was plenty of signs of that, as we know, in the profession, though we never got hands on him; but this time it’s a woman.”
+s=blake;e:blake=serious
+
+Wilson thought of the mysterious girl straight off. She was always in his mind now. But she failed him again.
+s=none;e:wilson=thinking
+
+Blake continued:
+s=none
+
+“She’s a stoop-shouldered old woman with a covered basket on her arm, in a black veil, dressed in mourning. I saw her going aboard the ferryboat yesterday. Lives in Illinois, I reckon; but I don’t care where she lives, I’m going to get her—she can make herself sure of that.”
+s=blake
+
+“What makes you think she’s the thief?”
+s=wilson
+
+“Well, there ain’t any other, for one thing; and for another, some nigger draymen that happened to be driving along saw her coming out of or going into houses, and told me so—and it just happens that they was *robbed* houses, every time.”
+s=blake
+
+It was granted that this was plenty good enough circumstantial evidence.
+s=none
+
+A pensive silence followed, which lasted some moments, then Wilson said—
+
+
+“There’s one good thing, anyway. She can’t either pawn or sell Count Luigi’s costly Indian dagger.”
+s=wilson;e:wilson=neutral
+
+“My!” said Tom, “is *that* gone?”
+s=tom;e:tom=surprised
+
+“Yes.”
+s=wilson
+
+“Well, that was a haul! But why can’t she pawn it or sell it?”
+s=tom
+
+“Because when the twins went home from the Sons of Liberty meeting last night, news of the raid was sifting in from everywhere, and Aunt Patsy was in distress to know if they had lost anything.”
+s=wilson
+
+“They found that the dagger was gone, and they notified the police and pawnbrokers everywhere. It was a great haul, yes, but the old woman won’t get anything out of it, because she’ll get caught.”
+
+
+“Did they offer a reward?” asked Buckstone.
+s=buckstone;e:buckstone=neutral
+
+“Yes; five hundred dollars for the knife, and five hundred more for the thief.”
+s=wilson
+
+“What a leather-headed idea!” exclaimed the constable.
+s=blake;e:blake=scowling
+
+“The thief da’sn’t go near them, nor send anybody. Whoever goes is going to get himself nabbed, for there ain’t any pawnbroker that’s going to lose the chance to—”
+
+
+If anybody had noticed Tom’s face at that time, the gray-green color of it might have provoked curiosity; but nobody did.
+s=none;e:tom=fearful
+
+He said to himself: “I’m gone! I never can square up; the rest of the plunder won’t pawn or sell for half of the bill.”
+t=tom
+
+“Oh, I know it—I’m gone, I’m gone—and this time it’s for good. Oh, this is awful—I don’t know what to do, nor which way to turn!”
+
+
+“Softly, softly,” said Wilson to Blake. “I planned their scheme for them at midnight last night, and it was all finished up shipshape by two this morning. They’ll get their dagger back, and then I’ll explain to you how the thing was done.”
+s=wilson;e:wilson=smirking;t=none
+
+There were strong signs of a general curiosity, and Buckstone said—
+s=none;e:buckstone=excited
+
+“Well, you have whetted us up pretty sharp, Wilson, and I’m free to say that if you don’t mind telling us in confidence—”
+s=buckstone
+
+“Oh, I’d as soon tell as not, Buckstone, but as long as the twins and I agreed to say nothing about it, we must let it stand so.”
+s=wilson
+
+“But you can take my word for it you won’t be kept waiting three days. Somebody will apply for that reward pretty promptly, and I’ll show you the thief and the dagger both very soon afterward.”
+
+
+The constable was disappointed, and also perplexed. He said—
+s=none;e:blake=confused
+
+“It may all be—yes, and I hope it will, but I’m blamed if I can see my way through it. It’s too many for yours truly.”
+s=blake
+
+The subject seemed about talked out. Nobody seemed to have anything further to offer.
+s=none
+
+After a silence the justice of the peace informed Wilson that he and Buckstone and the constable had come as a committee, on the part of the Democratic party, to ask him to run for mayor—for the little town was about to become a city and the first charter election was approaching.
+
+
+It was the first attention which Wilson had ever received at the hands of any party; it was a sufficiently humble one, but it was a recognition of his début into the town’s life and activities at last; it was a step upward, and he was deeply gratified. He accepted, and the committee departed, followed by young Tom.
+e:wilson=happy
+
+## XIV. Roxana Insists Upon Reform
+
+
+> The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented. —*Pudd’nhead Wilson’s Calendar*
+
+
+About the time that Wilson was bowing the committee out, Pembroke Howard was entering the next house to report.
+
+
+He found the old Judge sitting grim and straight in his chair, waiting.
+e:york=serious
+
+“Well, Howard—the news?”
+s=york
+
+“The best in the world.”
+s=pembroke;e:pembroke=happy
+
+“Accepts, does he?” and the light of battle gleamed joyously in the Judge’s eye.
+s=york;e:york=excited
+
+“Accepts? Why, he jumped at it.”
+s=pembroke
+
+“Did, did he? Now that’s fine—that’s very fine. I like that. When is it to be?”
+s=york;e:york=happy
+
+“Now! Straight off! Tonight! An admirable fellow—admirable!”
+s=pembroke
+
+“Admirable? He’s a darling! Why, it’s an honor as well as a pleasure to stand up before such a man. Come—off with you! Go and arrange everything—and give him my heartiest compliments. A rare fellow, indeed; an admirable fellow, as you have said!”
+s=york
+
+Howard hurried away, saying—
+s=none
+
+“I’ll have him in the vacant stretch between Wilson’s and the haunted house within the hour, and I’ll bring my own pistols.”
+s=pembroke
+
+Judge Driscoll began to walk the floor in a state of pleased excitement; but presently he stopped, and began to think—began to think of Tom.
+s=none;e:york=thinking
+
+Twice he moved toward the secretary, and twice he turned away again; but finally he said—
+
+
+“This may be my last night in the world—I must not take the chance. He is worthless and unworthy, but it is largely my fault. He was entrusted to me by my brother on his dying bed, and I have indulged him to his hurt, instead of training him up severely, and making a man of him.”
+s=york;e:york=serious
+
+“I have violated my trust, and I must not add the sin of desertion to that. I have forgiven him once already, and would subject him to a long and hard trial before forgiving him again, if I could live; but I must not run that risk.”
+
+
+“No, I must restore the will. But if I survive the duel, I will hide it away, and he will not know, and I will not tell him until he reforms, and I see that his reformation is going to be permanent.”
+e:york=thinking
+
+He re-drew the will, and his ostensible nephew was heir to a fortune again.
+s=none
+
+As he was finishing his task, Tom, wearied with another brooding tramp, entered the house and went tiptoeing past the sitting-room door.
+e:tom=weary
+
+He glanced in, and hurried on, for the sight of his uncle had nothing but terrors for him tonight.
+e:tom=fearful
+
+But his uncle was writing! That was unusual at this late hour. What could he be writing?
+e:tom=wary
+
+A chill of anxiety settled down upon Tom’s heart. Did that writing concern him? He was afraid so.
+e:tom=fearful
+
+He reflected that when ill luck begins, it does not come in sprinkles, but in showers.
+
+
+He said he would get a glimpse of that document or know the reason why.
+e:tom=serious
+
+He heard someone coming, and stepped out of sight and hearing. It was Pembroke Howard. What could be hatching?
+e:tom=wary
+
+Howard said, with great satisfaction:
+s=none;e:pembroke=serious
+
+“Everything’s right and ready. He’s gone to the battleground with his second and the surgeon—also with his brother. I’ve arranged it all with Wilson—Wilson’s his second. We are to have three shots apiece.”
+s=pembroke
+
+“Good! How is the moon?”
+s=york;e:york=serious
+
+“Bright as day, nearly. Perfect, for the distance—fifteen yards. No wind—not a breath; hot and still.”
+s=pembroke
+
+“All good; all first-rate. Here, Pembroke, read this, and witness it.”
+s=york
+
+Pembroke read and witnessed the will, then gave the old man’s hand a hearty shake and said:
+s=none
+
+“Now that’s right, York—but I knew you would do it. You couldn’t leave that poor chap to fight along without means or profession, with certain defeat before him, and I knew you wouldn’t, for his father’s sake if not for his own.”
+s=pembroke
+
+“For his dead father’s sake I couldn’t, I know; for poor Percy—but you know what Percy was to me. But mind—Tom is not to know of this unless I fall tonight.”
+s=york
+
+“I understand. I’ll keep the secret.”
+s=pembroke
+
+The Judge put the will away, and the two started for the battleground.
+s=none
+
+In another minute the will was in Tom’s hands. His misery vanished, his feelings underwent a tremendous revulsion.
+e:tom=surprised
+
+He put the will carefully back in its place, and spread his mouth and swung his hat once, twice, three times around his head, in imitation of three rousing huzzas, no sound issuing from his lips.
+e:tom=excited
+
+He fell to communing with himself excitedly and joyously, but every now and then he let off another volley of dumb hurrahs.
+
+
+He said to himself: “I’ve got the fortune again, but I’ll not let on that I know about it. And this time I’m going to hang on to it. I take no more risks. I’ll gamble no more, I’ll drink no more, because—well, because I’ll not go where there is any of that sort of thing going on, again.”
+t=tom
+
+“It’s the sure way, and the only sure way; I might have thought of that sooner—well, yes, if I had wanted to. But now—dear me, I’ve had a scare this time, and I’ll take no more chances. Not a single chance more. Land! I persuaded myself this evening that I could fetch him around without any great amount of effort, but I’ve been getting more and more heavyhearted and doubtful straight along, ever since.”
+
+
+“If he tells me about this thing, all right; but if he doesn’t, I shan’t let on. I—well, I’d like to tell Pudd’nhead Wilson, but—no, I’ll think about that; perhaps I won’t.”
+e:tom=thinking
+
+He whirled off another dead huzza, and said, “I’m reformed, and this time I’ll stay so, sure!”
+s=tom;t=none
+
+He was about to close with a final grand silent demonstration, when he suddenly recollected that Wilson had put it out of his power to pawn or sell the Indian knife, and that he was once more in awful peril of exposure by his creditors for that reason.
+s=none;e:tom=surprised
+
+His joy collapsed utterly, and he turned away and moped toward the door moaning and lamenting over the bitterness of his luck.
+e:tom=unhappy
+
+He dragged himself upstairs, and brooded in his room a long time disconsolate and forlorn, with Luigi’s Indian knife for a text.
+
+
+At last he sighed and said:
+
+
+“When I supposed these stones were glass and this ivory bone, the thing hadn’t any interest for me because it hadn’t any value, and couldn’t help me out of my trouble. But now—why, now it is full of interest; yes, and of a sort to break a body’s heart.”
+s=tom
+
+“It’s a bag of gold that has turned to dirt and ashes in my hands. It could save me, and save me so easily, and yet I’ve got to go to ruin.”
+e:tom=serious
+
+“It’s like drowning with a life-preserver in my reach. All the hard luck comes to me, and all the good luck goes to other people—Pudd’nhead Wilson, for instance; even his career has got a sort of a little start at last, and what has he done to deserve it, I should like to know? Yes, he has opened his own road, but he isn’t content with that, but must block mine. It’s a sordid, selfish world, and I wish I was out of it.”
+e:tom=unhappy
+
+He allowed the light of the candle to play upon the jewels of the sheath, but the flashings and sparklings had no charm for his eye; they were only just so many pangs to his heart.
+s=none
+
+“I must not say anything to Roxy about this thing,” he said, “she is too daring. She would be for digging these stones out and selling them, and then—why, she would be arrested and the stones traced, and then—”
+s=tom;e:tom=wary
+
+The thought made him quake, and he hid the knife away, trembling all over and glancing furtively about, like a criminal who fancies that the accuser is already at hand.
+s=none;e:tom=fearful
+
+Should he try to sleep? Oh, no, sleep was not for him; his trouble was too haunting, too afflicting for that. He must have somebody to mourn with.
+e:tom=unhappy
+
+He would carry his despair to Roxy.
+
+
+He had heard several distant gunshots, but that sort of thing was not uncommon, and they had made no impression upon him.
+
+
+He went out at the back door, and turned westward.
+
+
+He passed Wilson’s house and proceeded along the lane, and presently saw several figures approaching Wilson’s place through the vacant lots.
+
+
+These were the duelists returning from the fight; he thought he recognized them, but as he had no desire for white people’s company, he stooped down behind the fence until they were out of his way.
+e:tom=wary
+
+Roxy was feeling fine. She said:
+e:roxana=happy
+
+“Whah was you, child? Warn’t you in it?”
+s=roxana
+
+“In what?”
+s=tom;e:tom=confused
+
+“In de duel.”
+s=roxana
+
+“Duel? Has there been a duel?”
+s=tom;e:tom=surprised
+
+“’Co’se dey has. De ole Jedge has be’n havin’ a duel wid one o’ dem twins.”
+s=roxana
+
+“Great Scott!”
+s=tom
+
+Then he added to himself: “That’s what made him remake the will; he thought he might get killed, and it softened him toward me. And that’s what he and Howard were so busy about.… Oh dear, if the twin had only killed him, I should be out of my—”
+e:tom=thinking
+
+“What is you mumblin’ bout, Chambers? Whah was you? Didn’t you know dey was gwyne to be a duel?”
+s=roxana;t=none;e:roxana=confused
+
+“No, I didn’t. The old man tried to get me to fight one with Count Luigi, but he didn’t succeed, so I reckon he concluded to patch up the family honor himself.”
+s=tom;e:tom=neutral
+
+He laughed at the idea, and went rambling on with a detailed account of his talk with the Judge, and how shocked and ashamed the Judge was to find that he had a coward in his family.
+s=none;e:tom=happy
+
+He glanced up at last, and got a shock himself.
+e:tom=surprised
+
+Roxana’s bosom was heaving with suppressed passion, and she was glowering down upon him with measureless contempt written in her face.
+e:roxana=angry
+
+“En you refuse’ to fight a man dat kicked you, ’stid o’ jumpin’ at de chance! En you ain’t got no mo’ feelin’ den to come en tell me, dat fetched sich a po’ low-down ornery rabbit into de worl’! Pah! it make me sick! It’s de nigger in you, dat’s what it is.”
+s=roxana
+
+“Thirty-one parts o’ you is white, en on’y one part nigger, en dat po’ little one part is yo’ *soul*. Tain’t wuth savin’; tain’t wuth totin’ out on a shovel en throwin’ in de gutter.”
+e:roxana=scowling
+
+“You has disgraced yo’ birth. What would yo’ pa think o’ you? It’s enough to make him turn in his grave.”
+e:roxana=angry
+
+The last three sentences stung Tom into a fury, and he said to himself that if his father were only alive and in reach of assassination his mother would soon find that he had a very clear notion of the size of his indebtedness to that man, and was willing to pay it up in full, and would do it too, even at risk of his life; but he kept this thought to himself; that was safest in his mother’s present state.
+s=none;e:tom=angry
+
+“Whatever has come o’ yo’ Essex blood? Dat’s what I can’t understan’. En it ain’t on’y jist Essex blood dat’s in you, not by a long sight—’deed it ain’t!”
+s=roxana
+
+“My great-great-great-gran’father en yo’ great-great-great-great-gran’father was Ole Cap’n John Smith, de highest blood dat Ole Virginny ever turned out, en *his* great-great-gran’mother or somers along back dah, was Pocahontas de Injun queen, en her husbun’ was a nigger king outen Africa—en yit here you is, a slinkin’ outen a duel en disgracin’ our whole line like a ornery low-down hound! Yes, it’s de nigger in you!”
+
+
+She sat down on her candle-box and fell into a reverie. Tom did not disturb her; he sometimes lacked prudence, but it was not in circumstances of this kind, Roxana’s storm went gradually down, but it died hard, and even when it seemed to be quite gone, it would now and then break out in a distant rumble, so to speak, in the form of muttered ejaculations.
+s=none;e:roxana=thinking
+
+One of these was, “Ain’t nigger enough in him to show in his fingernails, en dat takes mighty little—yit dey’s enough to paint his soul.”
+s=roxana
+
+Presently she muttered.
+s=none
+
+“Yassir, enough to paint a whole thimbleful of ’em.”
+s=roxana
+
+At last her ramblings ceased altogether, and her countenance began to clear—a welcome sign to Tom, who had learned her moods, and knew she was on the threshold of good-humor, now.
+s=none;e:roxana=neutral
+
+He noticed that from time to time she unconsciously carried her finger to the end of her nose.
+
+
+He looked closer and said:
+
+
+“Why, mammy, the end of your nose is skinned. How did that come?”
+s=tom;e:tom=confused
+
+She sent out the sort of wholehearted peal of laughter which God had vouchsafed in its perfection to none but the happy angels in heaven and the bruised and broken black slave on the earth, and said:
+s=none;e:roxana=happy
+
+“Dad fetch dat duel, I be’n in it myself.”
+s=roxana
+
+“Gracious! did a bullet do that?”
+s=tom;e:tom=surprised
+
+“Yassir, you bet it did!”
+s=roxana
+
+“Well, I declare! Why, how did that happen?”
+s=tom
+
+“Happened dis-away. I ’uz a-sett’n’ here kinder dozin’ in de dark, en *che-bang*! goes a gun, right out dah.”
+s=roxana;e:roxana=excited
+
+“I skips along out towards t’other end o’ de house to see what’s gwyne on, en stops by de ole winder on de side towards Pudd’nhead Wilson’s house dat ain’t got no sash in it—but dey ain’t none of ’em got any sashes, fur as dat’s concerned—en I stood dah in de dark en look out, en dar in de moonlight, right down under me ’uz one o’ de twins a-cussin’—not much, but jist a-cussin’ soft—it ’uz de brown one dat ’uz cussin’, ’ca’se he ’uz hit in de shoulder.”
+
+
+“En Doctor Claypool he ’uz a-workin’ at him, en Pudd’nhead Wilson he ’uz a-he’pin’, en ole Jedge Driscoll en Pem Howard ’uz a-standin’ out yonder a little piece waitin’ for ’em to git ready agin.”
+e:roxana=
+
+“En treckly dey squared off en give de word, en *bang-bang* went de pistols, en de twin he say, ‘Ouch!’—hit him on de han’ dis time—en I hear dat same bullet go *spat*! ag’in, de logs under de winder; en de nex’ time dey shoot, de twin say, ‘Ouch!’ ag’in, en I done it too, ’ca’se de bullet glance’ on his cheekbone en skip up here en glance on de side o’ de winder en whiz right acrost my face en tuck de hide off’n my nose—why, if I’d ’a’ be’n jist a inch or a inch en a half furder ’t would ’a’ tuck de whole nose en disfiggered me.”
+e:roxana=excited
+
+“Here’s de bullet; I hunted her up.”
+e:roxana=
+
+“Did you stand there all the time?”
+s=tom;e:tom=surprised
+
+“Dat’s a question to ask, ain’t it? What else would I do? Does I git a chance to see a duel every day?”
+s=roxana;e:roxana=smirking
+
+“Why, you were right in range! Weren’t you afraid?”
+s=tom
+
+The woman gave a sniff of scorn.
+s=none;e:roxana=scowling
+
+“’Fraid! De Smith-Pocahontases ain’t ’fraid o’ nothin’, let alone bullets.”
+s=roxana
+
+“They’ve got pluck enough, I suppose; what they lack is judgment. *I* wouldn’t have stood there.”
+s=tom;e:tom=weary
+
+“Nobody’s accusin’ you!”
+s=roxana
+
+“Did anybody else get hurt?”
+s=tom
+
+“Yes, we all got hit ’cep’ de blon’ twin en de doctor en de seconds.”
+s=roxana;e:roxana=happy
+
+“De Jedge didn’t git hurt, but I hear Pudd’nhead say de bullet snip some o’ his ha’r off.”
+
+
+“’George!” said Tom to himself, “to come so near being out of my trouble, and miss it by an inch.”
+s=tom;e:tom=fearful
+
+“Oh dear, dear, he will live to find me out and sell me to some nigger-trader yet—yes, and he would do it in a minute.”
+
+
+Then he said aloud, in a grave tone—
+s=none
+
+“Mother, we are in an awful fix.”
+s=tom;t=none;e:tom=serious
+
+Roxana caught her breath with a spasm, and said—
+s=none;e:roxana=surprised
+
+“Chile! What you hit a body so sudden for, like dat? What’s be’n en gone en happen’?”
+s=roxana
+
+“Well, there’s one thing I didn’t tell you. When I wouldn’t fight, he tore up the will again, and—”
+s=tom
+
+Roxana’s face turned a dead white, and she said—
+s=none;e:roxana=fearful
+
+“Now you’s *done*!—done forever! Dat’s de end. Bofe un us is gwyne to starve to—”
+s=roxana
+
+“Wait and hear me through, can’t you!”
+s=tom;e:tom=angry
+
+“I reckon that when he resolved to fight, himself, he thought he might get killed and not have a chance to forgive me any more in this life, so he made the will again, and I’ve seen it, and it’s all right. But—”
+e:tom=thinking
+
+“Oh, thank goodness, den we’s safe ag’in!—safe! en so what did you want to come here en talk sich dreadful—”
+s=roxana;e:roxana=happy
+
+“Hold *on*, I tell you, and let me finish.”
+s=tom;e:tom=angry
+
+“The swag I gathered won’t half square me up, and the first thing we know, my creditors—well, you know what’ll happen.”
+
+
+Roxana dropped her chin, and told her son to leave her alone—she must think this matter out. Presently she said impressively:
+s=none;e:roxana=thinking
+
+“You got to go mighty keerful now, I tell you!”
+s=roxana;e:roxana=serious
+
+“En here’s what you got to do. He didn’t git killed, en if you gives him de least reason, he’ll bust de will ag’in, en dat’s de *las’* time, now you hear me!”
+e:roxana=thinking
+
+“So—you’s got to show him what you kin do in de nex’ few days.”
+
+
+“You’s got to be pison good, en let him see it; you got to do everything dat’ll make him b’lieve in you, en you got to sweeten aroun’ ole Aunt Pratt, too—she’s pow’ful strong wid de Jedge, en de bes’ frien’ you got.”
+e:roxana=serious
+
+“Nex’, you’ll go ’long away to Sent Louis, en dat’ll *keep* him in yo’ favor. Den you go en make a bargain wid dem people. You tell ’em he ain’t gwyne to live long—en dat’s de fac’, too—en tell ’em you’ll pay ’em intrust, en big intrust, too—ten per—what you call it?”
+e:roxana=thinking
+
+“Ten percent a month?”
+s=tom;e:tom=surprised
+
+“Dat’s it. Den you take and sell yo’ truck aroun’, a little at a time, en pay de intrust.”
+s=roxana
+
+“How long will it las’?”
+e:roxana=
+
+“I think there’s enough to pay the interest five or six months.”
+s=tom
+
+“Den you’s all right. If he don’t die in six months, dat don’t make no diff’rence—Providence’ll provide.”
+s=roxana
+
+“You’s gwyne to be safe—if you behaves.”
+
+
+She bent an austere eye on him and added, “En you *is* gwyne to behave—does you know dat?”
+e:roxana=serious
+
+He laughed and said he was going to try, anyway. She did not unbend. She said gravely:
+s=none;e:tom=happy;e:roxana=serious
+
+“Tryin’ ain’t de thing.”
+s=roxana;e:roxana=angry
+
+“You’s gwyne to *do* it. You ain’t gwyne to steal a pin—’ca’se it ain’t safe no mo’; en you ain’t gwyne into no bad comp’ny—not even once, you understand; en you ain’t gwyne to drink a drop—nary single drop; en you ain’t gwyne to gamble one single gamble—not one!”
+
+
+“Dis ain’t what you’s gwyne to *try* to do, it’s what you’s gwyne to *do*. En I’ll tell you how I knows it. Dis is how.”
+e:roxana=serious
+
+“I’s gwyne to foller along to Sent Louis my own self; en you’s gwyne to come to me every day o’ yo’ life, en I’ll look you over; en if you fails in one single one o’ dem things—jist *one*—I take my oath I’ll come straight down to dis town en tell de Jedge you’s a nigger en a slave—en *prove* it!”
+
+
+She paused to let her words sink home.
+s=none
+
+Then she added, “Chambers, does you b’lieve me when I says dat?”
+s=roxana
+
+Tom was sober enough now. There was no levity in his voice when he answered:
+e:tom=serious;s=none
+
+“Yes, mother, I know, now, that I am reformed—and permanently.”
+s=tom
+
+“Permanently—and beyond the reach of any human temptation.”
+
+
+“Den g’ long home en begin!”
+s=roxana
+
+
