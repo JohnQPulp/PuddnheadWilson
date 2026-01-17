@@ -829,17 +829,17 @@ r=title;t=twain;e:twain=two
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
 
-<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I had to look it up: 2 Kings 2:23-25. (But I'd look up any reference for you, Twain!)</e>
+<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Based 2 Kings 2:23-25 reference.</e>
 
 
 This history must henceforth accommodate itself to the change which Roxana has consummated, and call the real heir “Chambers” and the usurping little slave “Thomas à Becket”﻿—shortening this latter name to “Tom,” for daily use, as the people about him did.
-n:tom=Thomas à Becket Driscoll;n:chambers=Chambers
+n:tom=Thomas à Becket Driscoll;n:chambers=Chambers;b=cradle-room-cradles
 
 “Tom” was a bad baby, from the very beginning of his usurpation.
 e:tom=angry
 
 He would cry for nothing; he would burst into storms of devilish temper without notice, and let go scream after scream and squall after squall, then climax the thing with “holding his breath”﻿—that frightful specialty of the teething nursling, in the throes of which the creature exhausts its lungs, then is convulsed with noiseless squirmings and twistings and kickings in the effort to get its breath, while the lips turn blue and the mouth stands wide and rigid, offering for inspection one wee tooth set in the lower rim of a hoop of red gums; and when the appalling stillness has endured until one is sure the lost breath will never return, a nurse comes flying, and dashes water in the child’s face, and﻿—presto! the lungs fill, and instantly discharge a shriek, or a yell, or a howl which bursts the listening ear and surprises the owner of it into saying words which would not go well with a halo if he had one.
-
+b=cradle-room-door
 
 The baby Tom would claw anybody who came within reach of his nails, and pound anybody he could reach with his rattle.
 
@@ -856,17 +856,17 @@ When he got to be old enough to begin to toddle about and say broken words and g
 Roxy got no rest while he was awake.
 e:roxana=weary
 
-He would call for anything and everything he saw, simply saying “Awnt it!” (want it), which was a command.
-
+He would call for anything and everything he saw, simply saying “Awnt it!” (want it), which was a command.<e>Twain giving a single unnecessary parenthetical here after endless paragraphs of colloquial dialogue.</e>
+t=twain;e:twain=three
 
 When it was brought, he said in a frenzy, and motioning it away with his hands, “Don’t awnt it! don’t awnt it!” and the moment it was gone he set up frantic yells of “Awnt it! awnt it! awnt it!” and Roxy had to give wings to her heels to get that thing back to him again before he could get time to carry out his intention of going into convulsions about it.
-e:roxana=fearful
+e:roxana=fearful;t=
 
 What he preferred above all other things was the tongs.
 e:tom=happy
 
 This was because his “father” had forbidden him to have them lest he break windows and furniture with them.
-
+b=percy-house-int
 
 The moment Roxy’s back was turned he would toddle to the presence of the tongs and say “Like it!” and cock his eye to one side to see if Roxy was observing; then, “Awnt it!” and cock his eye again; then, “Hab it!” with another furtive glance; and finally, “Take it!”﻿—and the prize was his.
 e:tom=smirking
@@ -877,10 +877,7 @@ e:roxana=angry
 Tom got all the petting, Chambers got none.
 e:tom=neutral;e:chambers=unhappy
 
-Tom got all the delicacies, Chambers got mush and milk, and clabber without sugar.
-
-
-In consequence Tom was a sickly child and Chambers wasn’t.
+Tom got all the delicacies, Chambers got mush and milk, and clabber without sugar. In consequence Tom was a sickly child and Chambers wasn’t.<e>Hah! A funny milk joke without making it into a weird degeneracy. Take note, Steinbeck <i>and</i> Updike.</e>
 
 
 Tom was “fractious,” as Roxy called it, and overbearing; Chambers was meek and docile.
@@ -896,19 +893,19 @@ He was her darling, her master, and her deity all in one, and in her worship of 
 
 
 In babyhood Tom cuffed and banged and scratched Chambers unrebuked, and Chambers early learned that between meekly bearing it and resenting it, the advantage all lay with the former policy.
-e:tom=angry;e:chambers=fearful
+e:tom=angry;e:chambers=fearful;b=cradle-room-door
 
 The few times that his persecutions had moved him beyond control and made him fight back had cost him very dear at headquarters; not at the hands of Roxy, for if she ever went beyond scolding him sharply for “forgitt’n’ who his young marster was,” she at least never extended her punishment beyond a box on the ear.
 e:chambers=angry;e:roxana=angry
 
 No, Percy Driscoll was the person. He told Chambers that under no provocation whatever was he privileged to lift his hand against his little master.
-e:percy=angry
+e:percy=angry;b=percy-house-int;c=percy
 
 Chambers overstepped the line three times, and got three such convincing canings from the man who was his father and didn’t know it, that he took Tom’s cruelties in all humility after that, and made no more experiments.
-e:chambers=fearful
+e:chambers=fearful;c=
 
 Outside of the house the two boys were together all through their boyhood.
-e:tom=neutral;e:chambers=neutral
+e:tom=neutral;e:chambers=neutral;b=dawson-wide
 
 Chambers was strong beyond his years, and a good fighter; strong because he was coarsely fed and hard worked about the house, and a good fighter because Tom furnished him plenty of practice﻿—on white boys whom he hated and was afraid of.
 
@@ -916,11 +913,11 @@ Chambers was strong beyond his years, and a good fighter; strong because he was 
 Chambers was his constant bodyguard, to and from school; he was present on the playground at recess to protect his charge.
 e:chambers=serious
 
-He fought himself into such a formidable reputation, by and by, that Tom could have changed clothes with him, and “ridden in peace,” like Sir Kay in Launcelot’s armor.<e>Take note: Steinbeck. It is possible to make Arthurian references without fully derailing your book.</e>
+He fought himself into such a formidable reputation, by and by, that Tom could have changed clothes with him, and “ridden in peace,” like Sir Kay in Launcelot’s armor.
 
 
 He was good at games of skill, too. Tom staked him with marbles to play “keeps” with, and then took all the winnings away from him.
-e:tom=smirking
+e:tom=smirking;b=light
 
 In the winter season Chambers was on hand, in Tom’s worn-out clothes, with “holy” red mittens, and “holy” shoes, and pants “holy” at the knees and seat, to drag a sled up the hill for Tom, warmly clad, to ride down on; but he never got a ride himself. He built snow men and snow fortifications under Tom’s directions.
 e:chambers=weary
@@ -932,13 +929,13 @@ Chambers carried Tom’s skates to the river and strapped them on him, then trot
 
 
 In summer the pet pastime of the boys of Dawson’s Landing was to steal apples, peaches, and melons from the farmers’ fruit-wagons﻿—mainly on account of the risk they ran of getting their heads laid open with the butt of the farmer’s whip.
-
+b=dawson-wide
 
 Tom was a distinguished adept at these thefts﻿—by proxy. Chambers did his stealing, and got the peach-stones, apple-cores, and melon-rinds for his share.
 
 
 Tom always made Chambers go in swimming with him, and stay by him as a protection.
-
+b=water
 
 When Tom had had enough, he would slip out and tie knots in Chambers’s shirt, dip the knots in the water and make them hard to undo, then dress himself and sit by and laugh while the naked shiverer tugged at the stubborn knots with his teeth.
 e:tom=happy;e:chambers=unhappy
@@ -962,10 +959,10 @@ Tom had never tried this joke as yet, but was supposed to be trying it now, so t
 e:chambers=fearful
 
 This was the last feather. Tom had managed to endure everything else, but to have to remain publicly and permanently under such an obligation as this to a nigger, and to this nigger of all niggers﻿—this was too much.
-e:tom=angry
+e:tom=angry;b=think
 
 He heaped insults upon Chambers for “pretending” to think he was in earnest in calling for help, and said that anybody but a block-headed nigger would have known he was funning and left him alone.
-
+b=dawson-main
 
 Tom’s enemies were in strong force here, so they came out with their opinions quite freely.
 e:tom=unhappy
@@ -974,7 +971,7 @@ They laughed at him, and called him coward, liar, sneak, and other sorts of pet 
 
 
 Tom grew frantic under these taunts, and shouted﻿—
-e:tom=angry
+e:tom=angry;a:tom=15;a:chambers=15
 
 “Knock their heads off, Chambers! knock their heads off! What do you stand there with your hands in your pockets for?”
 s=tom
@@ -989,13 +986,13 @@ s=tom
 s=chambers
 
 Tom sprang at him and drove his pocketknife into him two or three times before the boys could snatch him away and give the wounded lad a chance to escape.
-s=none
+s=none;b=action
 
 He was considerably hurt, but not seriously. If the blade had been a little longer his career would have ended there.
-
+b=light
 
 Tom had long ago taught Roxy “her place.” It had been many a day now since she had ventured a caress or a fondling epithet in his quarter.
-
+b=percy-house-int
 
 Such things, from a “nigger,” were repulsive to him, and she had been warned to keep her distance and remember who she was.
 
@@ -1013,7 +1010,7 @@ She was merely his chattel, now, his convenience, his dog, his cringing and help
 
 
 Sometimes she could not go to sleep, even when worn out with fatigue, because her rage boiled so high over the day’s experiences with her boy.
-e:roxana=angry
+e:roxana=angry;b=cradle-room-door
 
 She would mumble and mutter to herself﻿—
 
@@ -1022,7 +1019,7 @@ She would mumble and mutter to herself﻿—
 s=roxana
 
 “En he’s al’ays callin’ me nigger-wench, en hussy, en all dem mean names, when I’s doin’ de very bes’ I kin.”
-
+e:roxana=angry
 
 “Oh, Lord, I done so much for him﻿—I lift’ him away up to what he is﻿—en dis is what I git for it.”
 e:roxana=unhappy
@@ -1034,37 +1031,40 @@ So her schemes always went for nothing, and she laid them aside in impotent rage
 e:roxana=angry
 
 And yet the moment Tom happened to be good to her, and kind﻿—and this occurred every now and then﻿—all her sore places were healed, and she was happy; happy and proud, for this was her son, her nigger son, lording it among the whites and securely avenging their crimes against her race.
-e:roxana=smirking
+e:roxana=smirking;b=percy-house-int
 
-There were two grand funerals in Dawson’s Landing that fall﻿—the fall of 1845. One was that of Colonel Cecil Burleigh Essex, the other that of Percy Driscoll.
-e:percy=neutral
+There were two grand funerals in Dawson’s Landing that fall﻿—the fall of 1845.
+b=dawson-wide
+
+One was that of Colonel Cecil Burleigh Essex, the other that of Percy Driscoll.<e>Hey, Colonel Cecil Burleigh Essex <i>did</i> come back. And to think I doubted you, Twain!</e>
+e:percy=neutral;e:twain=;t=twain
 
 On his deathbed Driscoll set Roxy free and delivered his idolized ostensible son solemnly into the keeping of his brother, the Judge and his wife.
-e:roxana=neutral
+e:roxana=neutral;t=;b=light
 
 Those childless people were glad to get him. Childless people are not difficult to please.
-e:york=happy
+e:york=happy;e:yorkwife=happy;c=york,yorkwife
 
 Judge Driscoll had gone privately to his brother, a month before, and bought Chambers.
-
+c=
 
 He had heard that Tom had been trying to get his father to sell the boy down the river, and he wanted to prevent the scandal﻿—for public sentiment did not approve of that way of treating family servants for light cause or for no cause.
-e:tom=angry
+e:tom=angry;c=tom,chambers
 
 Percy Driscoll had worn himself out in trying to save his great speculative landed estate, and had died without succeeding.
-
+c=
 
 He was hardly in his grave before the boom collapsed and left his hitherto envied young devil of an heir a pauper.
-e:tom=unhappy
+e:tom=unhappy;c=tom
 
 But that was nothing; his uncle told him he should be his heir and have all his fortune when he died; so Tom was comforted.
-e:tom=happy
+e:tom=;c=,tom,york
 
 Roxy had no home, now; so she resolved to go around and say goodbye to her friends and then clear out and see the world﻿—that is to say, she would go chambermaiding on a steamboat, the darling ambition of her race and sex.
-e:roxana=happy
+e:roxana=happy;c=roxana
 
 Her last call was on the black giant, Jasper. She found him chopping Pudd’nhead Wilson’s winter provision of wood.
-
+c=
 
 Wilson was chatting with him when Roxy arrived. He asked her how she could bear to go off chambermaiding and leave her boys; and chaffingly offered to copy off a series of their fingerprints, reaching up to their twelfth year, for her to remember them by; but she sobered in a moment, wondering if he suspected anything; then she said she believed she didn’t want them.
 e:wilson=neutral;e:roxana=wary
