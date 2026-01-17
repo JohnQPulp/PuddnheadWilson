@@ -2527,7 +2527,7 @@ e:wilson=thinking
 ## XI. Pudd’nhead’s Startling Discovery
 r=title
 
-<i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You should see the new book Mark Twain's writing.</e>
+<i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You should read the new book Mark Twain's writing now.</e>
 
 
 <i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Take that, Updike!</e>
@@ -6392,4 +6392,7 @@ Everybody saw that there was reason in this. Everybody granted that if “Tom”
 
 
 As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e>The End and Get Fucked lmao.</e>
+
+
+<e>And remember <u>no</u> man is a failure who has <u>friends</u>. ♫<i>Should old acquaintance be forgot</i>♫</e>
 
