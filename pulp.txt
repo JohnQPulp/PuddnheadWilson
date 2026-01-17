@@ -2543,25 +2543,25 @@ b=calendar
 
 
 The twins arrived presently, and talk began. It flowed along chattily and sociably, and under its influence the new friendship gathered ease and strength.
-e:wilson=happy;e:luigi=happy;e:angelo=happy
+e:wilson=happy;e:luigi=happy;e:angelo=happy;b=wilson-house-int;c=angelo,luigi
 
 Wilson got out his *Calendar*, by request, and read a passage or two from it, which the twins praised quite cordially.
-
+c=
 
 This pleased the author so much that he complied gladly when they asked him to lend them a batch of the work to read at home.
-
+c=wilson
 
 In the course of their wide travels they had found out that there are three sure ways of pleasing an author; they were now working the best of the three.
-
+c=
 
 There was an interruption, now.
 
 
 Young Tom Driscoll appeared, and joined the party. He pretended to be seeing the distinguished strangers for the first time when they rose to shake hands; but this was only a blind, as he had already had a glimpse of them, at the reception, while robbing the house.
-e:tom=smirking
+e:tom=smirking;c=tom
 
 The twins made mental note that he was smooth-faced and rather handsome, and smooth and undulatory in his movements—graceful, in fact.
-e:luigi=thinking;e:angelo=neutral
+e:luigi=thinking;e:angelo=neutral;c=angelo,luigi
 
 Angelo thought he had a good eye; Luigi thought there was something veiled and sly about it.
 e:luigi=wary
@@ -2573,7 +2573,7 @@ Angelo thought he was a sufficiently nice young man; Luigi reserved his decision
 
 
 Tom’s first contribution to the conversation was a question which he had put to Wilson a hundred times before.
-
+c=
 
 It was always cheerily and good-naturedly put, and always inflicted a little pang, for it touched a secret sore; but this time the pang was sharp, since strangers were present.
 e:wilson=wary
@@ -2582,7 +2582,7 @@ e:wilson=wary
 s=tom;e:tom=smirking
 
 Wilson bit his lip, but answered, “No—not yet,” with as much indifference as he could assume.
-s=wilson;e:wilson=serious
+c=wilson;e:wilson=serious
 
 Judge Driscoll had generously left the law feature out of the Wilson biography which he had furnished to the twins.
 s=none
@@ -2621,7 +2621,7 @@ s=tom;e:tom=happy
 e:tom=smirking
 
 Wilson brought three of his glass strips, and said—
-s=none
+s=none;c=;o=strip
 
 “I get the subject to pass the fingers of his right hand through his hair, so as to get a little coating of the natural oil on them, and then press the balls of them on the glass.”
 s=wilson;e:wilson=neutral
@@ -2639,13 +2639,13 @@ s=wilson
 s=tom;e:tom=smirking
 
 He passed his fingers through his crop of short hair, and pressed them one at a time on the glass.
-s=none
+s=none;o=;c=tom
 
 Angelo made a print of his fingers on another glass, and Luigi followed with the third.
-
+e:angelo=;e:luigi=;c=angelo,luigi
 
 Wilson marked the glasses with names and date, and put them away.
-
+c=
 
 Tom gave one of his little laughs, and said—
 e:tom=happy
@@ -2666,16 +2666,16 @@ e:tom=smirking
 
 
 Wilson winced under this nagging and not very courteous chaff, and the twins suffered with him and for him.
-s=none;e:wilson=unhappy;e:luigi=unhappy;e:angelo=unhappy
+s=none;e:wilson=unhappy;e:luigi=unhappy;e:angelo=unhappy;c=angelo,luigi,,,wilson
 
 They rightly judged, now, that the best way to relieve him would be to take the thing in earnest and treat it with respect, ignoring Tom’s rather overdone raillery; so Luigi said—
-
+c=
 
 “We have seen something of palmistry in our wanderings, and know very well what astonishing things it can do. If it isn’t a science, and one of the greatest of them, too, I don’t know what its other name ought to be. In the Orient—”
 s=luigi;e:luigi=serious
 
 Tom looked surprised and incredulous. He said—
-s=none;e:tom=surprised
+s=none;e:tom=surprised;c=
 
 “That juggling a science? But really, you ain’t serious, are you?”
 s=tom
@@ -2696,19 +2696,19 @@ s=tom;e:tom=excited
 
 
 “On the whole, quite fairly,” said Luigi. “Two or three of the most striking things foretold have happened since; much the most striking one of all happened within that same year.”
-s=luigi;e:luigi=neutral
+s=luigi;e:luigi=neutral;c=luigi,
 
 “Some of the minor prophecies have come true; some of the minor and some of the major ones have not been fulfilled yet, and of course may never be: still, I should be more surprised if they failed to arrive than if they didn’t.”
-
+e:luigi=thinking
 
 Tom was entirely sobered, and profoundly impressed. He said, apologetically—
-s=none;e:tom=serious
+s=none;e:tom=serious;c=,tom
 
 “Dave, I wasn’t meaning to belittle that science; I was only chaffing—chattering, I reckon I’d better say. I wish you would look at their palms. Come, won’t you?”
 s=tom
 
 “Why certainly, if you want me to; but you know I’ve had no chance to become an expert, and don’t claim to be one. When a past event is somewhat prominently recorded in the palm I can generally detect that, but minor ones often escape me—not always, of course, but often—but I haven’t much confidence in myself when it comes to reading the future.”
-s=wilson;e:wilson=neutral
+s=wilson;e:wilson=neutral;c=wilson,
 
 “I am talking as if palmistry was a daily study with me, but that is not so. I haven’t examined half a dozen hands in the last half dozen years; you see, the people got to joking about it, and I stopped to let the talk die down.”
 e:wilson=thinking
@@ -2717,7 +2717,7 @@ e:wilson=thinking
 e:wilson=
 
 He took Luigi’s hand. Tom said—
-s=none
+s=none;c=
 
 “Wait—don’t look yet, Dave! Count Luigi, here’s paper and pencil. Set down that thing that you said was the most striking one that was foretold to you, and happened less than a year afterward, and give it to me so I can see if Dave finds it in your hand.”
 s=tom;e:tom=excited
@@ -2804,7 +2804,7 @@ e:tom=fearful
 
 
 “Oh,” said Luigi, reposefully, “I don’t mind it. I killed the man for good reasons, and I don’t regret it.”
-s=luigi;e:luigi=neutral
+s=luigi;e:luigi=neutral;c=luigi
 
 “What were the reasons?”
 s=tom;e:tom=confused
@@ -2813,7 +2813,7 @@ s=tom;e:tom=confused
 s=luigi
 
 “I’ll tell you why he did it, since he won’t say himself,” said Angelo, warmly.
-s=angelo;e:angelo=happy
+s=angelo;e:angelo=happy;c=angelo,luigi,
 
 “He did it to save my life, that’s what he did it for. So it was a noble act, and not a thing to be hid in the dark.”
 
@@ -2822,28 +2822,28 @@ s=angelo;e:angelo=happy
 s=wilson;e:wilson=happy
 
 “Now come,” said Luigi, “it is very pleasant to hear you say these things, but for unselfishness, or heroism, or magnanimity, the circumstances won’t stand scrutiny. You overlook one detail; suppose I hadn’t saved Angelo’s life, what would have become of mine? If I had let the man kill him, wouldn’t he have killed me, too? I saved my own life, you see.”
-s=luigi;e:luigi=neutral
+s=luigi;e:luigi=neutral;e:wilson=
 
 “Yes, that is your way of talking,” said Angelo, “but I know you—I don’t believe you thought of yourself at all.”
 s=angelo;e:angelo=serious
 
 “I keep that weapon yet that Luigi killed the man with, and I’ll show it to you sometime. That incident makes it interesting, and it had a history before it came into Luigi’s hands which adds to its interest.”
-e:angelo=excited
+e:angelo=happy
 
 “It was given to Luigi by a great Indian prince, the Gaikowar of Baroda, and it had been in his family two or three centuries. It killed a good many disagreeable people who troubled that hearthstone at one time and another. It isn’t much too look at, except that it isn’t shaped like other knives, or dirks, or whatever it may be called—here, I’ll draw it for you.”
-
+e:angelo=
 
 He took a sheet of paper and made a rapid sketch.
-s=none
+s=none;c=
 
 “There it is—a broad and murderous blade, with edges like a razor for sharpness. The devices engraved on it are the ciphers or names of its long line of possessors—I had Luigi’s name added in Roman letters myself with our coat of arms, as you see.”
-s=angelo;e:angelo=thinking
+s=angelo;e:angelo=thinking;o=dagger
 
 “You notice what a curious handle the thing has. It is solid ivory, polished like a mirror, and is four or five inches long—round, and as thick as a large man’s wrist, with the end squared off flat, for your thumb to rest on; for you grasp it, with your thumb resting on the blunt end—so—and lift it aloft and strike downward.”
-e:angelo=smirking
+e:angelo=
 
 “The Gaikowar showed us how the thing was done when he gave it to Luigi, and before that night was ended Luigi had used the knife, and the Gaikowar was a man short by reason of it. The sheath is magnificently ornamented with gems of great value. You will find the sheath more worth looking at than the knife itself, of course.”
-
+e:angelo=smirking
 
 Tom said to himself—
 s=none;e:tom=unhappy
@@ -2852,7 +2852,7 @@ s=none;e:tom=unhappy
 s=tom
 
 “But go on; don’t stop,” said Wilson. “Our curiosity is up now, to hear about the homicide. Tell us about that.”
-s=wilson;t=none;e:wilson=excited
+s=wilson;t=none;e:wilson=excited;o=
 
 “Well, briefly, the knife was to blame for that, all around. A native servant slipped into our room in the palace in the night, to kill us and steal the knife on account of the fortune incrusted on its sheath, without a doubt.”
 s=angelo;e:angelo=serious
@@ -2873,7 +2873,7 @@ s=none;e:wilson=neutral
 s=wilson;e:wilson=surprised
 
 Tom had snatched away his hand, and was looking a good deal confused.
-s=none;e:tom=fearful
+s=none;e:tom=fearful;c=,tom
 
 “Why, he’s blushing!” said Luigi.
 s=luigi;e:luigi=smirking
@@ -2884,26 +2884,29 @@ s=none;e:tom=angry
 “Well, if I am, it ain’t because I’m a murderer!”
 s=tom
 
-Luigi’s dark face flushed, but before he could speak or move, Tom added with anxious haste: “Oh, I beg a thousand pardons. I didn’t mean that; it was out before I thought, and I’m very, very sorry—you must forgive me!”
-s=tom;e:luigi=angry;e:tom=wary
+Luigi’s dark face flushed, but before he could speak or move, Tom added with anxious haste:
+c=luigi,tom;s=;e:luigi=angry
+
+“Oh, I beg a thousand pardons. I didn’t mean that; it was out before I thought, and I’m very, very sorry—you must forgive me!”
+s=tom;e:tom=wary
 
 Wilson came to the rescue, and smoothed things down as well as he could; and in fact was entirely successful as far as the twins were concerned, for they felt sorrier for the affront put upon him by his guest’s outburst of ill manners than for the insult offered to Luigi.
-s=none;e:wilson=neutral;e:luigi=neutral;e:angelo=neutral
+s=none;e:wilson=neutral;e:luigi=neutral;e:angelo=neutral;c=
 
 But the success was not so pronounced with the offender.
 
 
 Tom tried to seem at his ease, and he went through the motions fairly well, but at bottom he felt resentful toward all the three witnesses of his exhibition; in fact, he felt so annoyed at them for having witnessed it and noticed it that he almost forgot to feel annoyed at himself for placing it before them.
-e:tom=scowling
+e:tom=scowling;c=tom
 
 However, something presently happened which made him almost comfortable, and brought him nearly back to a state of charity and friendliness.
-e:tom=happy
+e:tom=happy;c=
 
 This was a little spat between the twins; not much of a spat, but still a spat; and before they got far with it they were in a decided condition of irritation with each other.
-e:luigi=angry;e:angelo=angry
+e:luigi=angry;e:angelo=angry;c=luigi,angelo
 
 Tom was charmed; so pleased, indeed, that he cautiously did what he could to increase the irritation while pretending to be actuated by more respectable motives.
-
+c=
 
 By his help the fire got warmed up to the blazing-point, and he might have had the happiness of seeing the flames show up, in another moment, but for the interruption of a knock on the door—an interruption which fretted him as much as it gratified Wilson.
 e:tom=unhappy;e:wilson=happy
@@ -2912,7 +2915,7 @@ Wilson opened the door.
 
 
 The visitor was a good-natured, ignorant, energetic, middle-aged Irishman named John Buckstone, who was a great politician in a small way, and always took a large share in public matters of every sort.
-n:buckstone=John Buckstone;e:buckstone=happy
+n:buckstone=John Buckstone;e:buckstone=happy;c=buckstone
 
 One of the town’s chief excitements, just now, was over the matter of rum.
 
@@ -2924,28 +2927,28 @@ Buckstone was training with the rum party, and he had been sent to hunt up the t
 
 
 He delivered his errand, and said the clans were already gathering in the big hall over the market-house.
-
+c=
 
 Luigi accepted the invitation cordially, Angelo less cordially, since he disliked crowds, and did not drink the powerful intoxicants of America.
-e:luigi=happy;e:angelo=weary
+e:luigi=happy;e:angelo=weary;c=luigi,angelo
 
 In fact, he was even a teetotaler sometimes—when it was judicious to be one.
 
 
 The twins left with Buckstone, and Tom Driscoll joined company with them uninvited.
-e:tom=neutral
+e:tom=neutral;c=
 
 In the distance one could see a long wavering line of torches drifting down the main street, and could hear the throbbing of the bass drum, the clash of cymbals, the squeaking of a fife or two, and the faint roar of remote hurrahs.
-
+b=think
 
 The tail-end of this procession was climbing the market-house stairs when the twins arrived in its neighborhood; when they reached the hall it was full of people, torches, smoke, noise and enthusiasm.
-
+b=hall
 
 They were conducted to the platform by Buckstone—Tom Driscoll still following—and were delivered to the chairman in the midst of a prodigious explosion of welcome.
 n:chairman=The Chairman;e:chairman=happy
 
 When the noise had moderated a little, the chair proposed that “our illustrious guests be at once elected, by complimentary acclamation, to membership in our ever-glorious organization, the paradise of the free and the perdition of the slave.”
-s=chairman
+
 
 This eloquent discharge opened the floodgates of enthusiasm again, and the election was carried with thundering unanimity.
 s=none
@@ -2963,10 +2966,13 @@ There was another storm of cries:
 e:angelo=serious
 
 “What’s the matter with the other one?”
+s=cit1
 
+“What is the blond one going back on us for?”
+s=cit2
 
-“What is the blond one going back on us for?” “Explain! Explain!”
-
+“Explain! Explain!”
+s=cit3
 
 The chairman inquired, and then reported—
 s=none
@@ -2990,10 +2996,16 @@ This speech was received with great applause, mixed with cries of—
 s=none
 
 “That’s the talk!”
+s=cit4
 
+“He’s a good fellow, anyway, if he *is* a teetotaler!”
+s=cit5
 
-“He’s a good fellow, anyway, if he *is* a teetotaler!” “Drink his health!” “Give him a rouser, and no heeltaps!”
+“Drink his health!”
+s=cit6
 
+“Give him a rouser, and no heeltaps!”
+s=cit1
 
 Glasses were handed around, and everybody on the platform drank Angelo’s health, while the house bellowed forth in song:
 s=none
@@ -3013,29 +3025,29 @@ The chairman was still standing at the front, the twins at his side.
 The extraordinarily close resemblance of the brothers to each other suggested a witticism to Tom Driscoll, and just as the chairman began a speech he skipped forward and said with an air of tipsy confidence to the audience—
 e:tom=smirking
 
-“Boys, I move that he keeps still and lets this human philopena snip you out a speech.”
+“Boys, I move that he keeps still and lets this human philopena snip you out a speech.”<e>Twain with the double-kernelled nut jest that his readership will no doubt be too stupid to understand.</e>
 s=tom
 
 The descriptive aptness of the phrase caught the house, and a mighty burst of laughter followed.
 s=none
 
-Luigi’s southern blood leaped to the boiling-point in a moment under the sharp humiliation of this insult delivered in the presence of four hundred strangers. It was not in the young man’s nature to let the matter pass, or to delay the squaring of the account.<e>Luigi no! Not again!</e>
-e:luigi=angry
+Luigi’s southern blood leaped to the boiling-point in a moment under the sharp humiliation of this insult delivered in the presence of four hundred strangers. It was not in the young man’s nature to let the matter pass, or to delay the squaring of the account.
+e:luigi=angry;b=light;c=luigi
 
 He took a couple of strides and halted behind the unsuspecting joker.
-
+c=;b=hall
 
 Then he drew back and delivered a kick of such titanic vigor that it lifted Tom clear over the footlights and landed him on the heads of the front row of the Sons of Liberty.
-e:tom=surprised
+e:tom=surprised;b=action
 
 Even a sober person does not like to have a human being emptied on him when he is not doing any harm; a person who is not sober cannot endure such an attention at all.
-
+b=think
 
 The nest of Sons of Liberty that Driscoll landed in had not a sober bird in it; in fact there was probably not an entirely sober one in the auditorium.
-
+b=hall
 
 Driscoll was promptly and indignantly flung on to the heads of Sons in the next row, and these Sons passed him on toward the rear, and then immediately began to pummel the front-row Sons who had passed him to them.
-
+b=action
 
 This course was strictly followed by bench after bench as Driscoll traveled in his tumultuous and airy flight toward the door; so he left behind him an ever lengthening wake of raging and plunging and fighting and swearing humanity.
 
@@ -3044,7 +3056,7 @@ Down went group after group of torches, and presently above the deafening clatte
 
 
 The fighting ceased instantly; the cursing ceased; for one distinctly defined moment there was a dead hush, a motionless calm, where the tempest had been; then with one impulse the multitude awoke to life and energy again, and went surging and struggling and swaying, this way and that, its outer edges melting away through windows and doors and gradually lessening the pressure and relieving the mass.
-
+b=light
 
 The fire-boys were never on hand so suddenly before; for there was no distance to go, this time, their quarters being in the rear end of the market-house.
 
@@ -3056,7 +3068,7 @@ Enough anti-rummies were loafing in quarters to man the engine and the ladders.
 
 
 In two minutes they had their red shirts and helmets on—they never stirred officially in unofficial costume—and as the mass meeting overhead smashed through the long row of windows and poured out upon the roof of the arcade, the deliverers were ready for them with a powerful stream of water which washed some of them off the roof and nearly drowned the rest.
-
+b=fire-boys
 
 But water was preferable to fire, and still the stampede from the windows continued, and still the pitiless drenching assailed it until the building was empty; then the fire-boys mounted to the hall and flooded it with water enough to annihilate forty times as much fire as there was there; for a village fire-company does not often get a chance to show off, and so when it does get a chance it makes the most of it.
 
