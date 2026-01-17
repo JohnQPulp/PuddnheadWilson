@@ -1106,13 +1106,13 @@ People argued from this that he preferred to be supported by his uncle until his
 b=york-house-ext
 
 He brought back one or two new habits with him, one of which he rather openly practised—tippling—but concealed another which was gambling.
-
+b=think
 
 It would not do to gamble where his uncle could hear of it; he knew that quite well.
 e:tom=wary
 
 Tom’s Eastern polish was not popular among the young people.
-e:tom=unhappy
+e:tom=unhappy;b=dawson-main
 
 They could have endured it, perhaps, if Tom had stopped there; but he wore gloves, and that they couldn’t stand, and wouldn’t; so he was mainly without society.
 
@@ -1124,13 +1124,13 @@ He enjoyed the feeling which he was exciting, and paraded the town serene and ha
 e:tom=surprised
 
 Tom surrendered, and after that clothed himself in the local fashion.
-e:tom=unhappy
+e:tom=unhappy;b=light;c=tom
 
 But the dull country town was tiresome to him, since his acquaintanceship with livelier regions, and it grew daily more and more so.
-e:tom=weary
+e:tom=weary;b=dawson-wide;c=
 
 He began to make little trips to St. Louis for refreshment.
-e:tom=happy
+e:tom=happy;b=louis-wide
 
 There he found companionship to suit him, and pleasures to his taste, along with more freedom, in some particulars, than he could have at home.
 
@@ -1145,19 +1145,19 @@ He was taking chances, privately, which might get him into trouble some day—in
 
 
 Judge Driscoll had retired from the bench and from all business activities in 1850, and had now been comfortably idle three years.
-e:york=neutral
+e:york=neutral;b=york-house-int;c=york
 
 He was president of the Freethinkers’ Society, and Pudd’nhead Wilson was the other member.
 
 
 The society’s weekly discussions were now the old lawyer’s main interest in life.
-
+c=
 
 Pudd’nhead was still toiling in obscurity at the bottom of the ladder, under the blight of that unlucky remark which he had let fall twenty-three years before about the dog.
-e:wilson=weary
+e:wilson=weary;b=wilson-house-int;c=wilson
 
 Judge Driscoll was his friend, and claimed that he had a mind above the average, but that was regarded as one of the Judge’s whims, and it failed to modify the public opinion.
-e:york=serious
+e:york=serious;c=
 
 Or rather, that was one of the reasons why it failed, but there was another and better one.
 
@@ -1165,20 +1165,20 @@ Or rather, that was one of the reasons why it failed, but there was another and 
 If the Judge had stopped with bare assertion, it would have had a good deal of effect; but he made the mistake of trying to prove his position.
 e:york=thinking
 
-For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.<e>Twain's so good he can get away with calling out how great his own quips are.</e>
-e:wilson=thinking;e:york=happy
+For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.<e>Only Twain could brag about his own quips form within the narrative <i>and get away it it</i>.</e>
+e:wilson=thinking;e:york=happy;o=calendar;t=twain;e:twain=two
 
 But irony was not for those people; their mental vision was not focused for it.
-e:wilson=unhappy
+e:wilson=unhappy;t=
 
 They read those playful trifles in the solidest earnest, and decided without hesitancy that if there had ever been any doubt that Dave Wilson was a pudd’nhead—which there hadn’t—this revelation removed that doubt for good and all.
 
 
 That is just the way in this world; an enemy can partly ruin a man, but it takes a good-natured injudicious friend to complete the thing and make it perfect.
-
+o=
 
 After this the Judge felt tenderer than ever toward Wilson, and surer than ever that his calendar had merit.
-e:york=neutral
+e:york=neutral;b=light
 
 Judge Driscoll could be a freethinker and still hold his place in society because he was the person of most consequence in the community, and therefore could venture to go his own way and follow out his own notions.
 
@@ -1190,31 +1190,31 @@ He was liked, he was welcome enough all around, but he simply didn’t count for
 e:wilson=neutral
 
 The widow Cooper—affectionately called “aunt Patsy” by everybody—lived in a snug and comely cottage with her daughter Rowena, who was nineteen, romantic, amiable, and very pretty, but otherwise of no consequence.
-n:patsy=Aunt Patsy Cooper;n:rowena=Rowena
+n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena
 
-Rowena had a couple of young brothers—also of no consequence.
-
+Rowena had a couple of young brothers—also of no consequence.<e>Why did we just start talking about completely new characters "of no consequence" with no scene transition or line/chapter break or anything? Because this is Mark Twain and he does whatever the fuck he wants, and you'll damn-well enjoy it.</e>
+c=;t=twain;e:twain=three
 
 The widow had a large spare room which she let to a lodger, with board, when she could find one, but this room had been empty for a year now, to her sorrow.
-e:patsy=unhappy
+e:patsy=unhappy;t=;c=patsy
 
 Her income was only sufficient for the family support, and she needed the lodging-money for trifling luxuries.
 
 
 But now, at last, on a flaming June day, she found herself happy; her tedious wait was ended; her year-worn advertisement had been answered; and not by a village applicant, oh, no!—this letter was from away off yonder in the dim great world to the North: it was from St. Louis.
-e:patsy=happy
+e:patsy=excited;c=
 
 She sat on her porch gazing out with unseeing eyes upon the shining reaches of the mighty Mississippi, her thoughts steeped in her good fortune.
-
+b=patsy-house-porch
 
 Indeed, it was specially good fortune, for she was to have two lodgers instead of one.
 
 
 She had read the letter to the family, and Rowena had danced away to see to the cleaning and airing of the room by the slave woman Nancy, and the boys had rushed abroad in the town to spread the great news, for it was matter of public interest, and the public would wonder and not be pleased if not informed.
-e:rowena=excited;n:nancy=Nancy
+e:rowena=excited;n:nancy=Nancy;b=dawson-wide
 
 Presently Rowena returned, all ablush with joyous excitement, and begged for a rereading of the letter.
-e:rowena=happy
+e:rowena=happy;b=patsy-house-int
 
 It was framed thus:
 
@@ -1244,13 +1244,13 @@ e:rowena=unhappy
 e:rowena=excited
 
 The Judge was full of congratulations and curiosity. The letter was read and discussed.
-s=none;e:york=happy
+s=none;e:york=happy;c=york,
 
 Soon Justice Robinson arrived with more congratulations, and there was a new reading and a new discussion.
-n:robinson=Justice Robinson
+n:robinson=Justice Robinson;c=,robinson
 
 This was the beginning.
-
+c=
 
 Neighbor after neighbor, of both sexes, followed, and the procession drifted in and out all day and evening and all Wednesday and Thursday.
 
@@ -1259,25 +1259,25 @@ The letter was read and reread until it was nearly worn out; everybody admired i
 e:patsy=happy;e:rowena=happy
 
 The boats were very uncertain in low water, in these primitive times.
-
+b=think
 
 This time the Thursday boat had not arrived at ten at night—so the people had waited at the landing all day for nothing; they were driven to their homes by a heavy storm without having had a view of the illustrious foreigners.
 e:rowena=unhappy;e:patsy=unhappy
 
 Eleven o’clock came; and the Cooper house was the only one in the town that still had lights burning.
-
+b=patsy-house-int
 
 The rain and thunder were booming yet, and the anxious family were still waiting, still hoping.
 
 
 At last there was a knock at the door and the family jumped to open it.
-e:patsy=excited;e:rowena=excited
+e:patsy=excited;e:rowena=excited;c=patsy,rowena
 
 Two Negro men entered, each carrying a trunk, and proceeded upstairs toward the guestroom.
-
+c=
 
 Then entered the twins—the handsomest, the best dressed, the most distinguished-looking pair of young fellows the West had ever seen.
-e:luigi=neutral;e:angelo=neutral
+e:luigi=neutral;e:angelo=neutral;c=luigi,angelo
 
 One was a little fairer than the other, but otherwise they were exact duplicates.
 
