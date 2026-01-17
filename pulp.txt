@@ -3083,7 +3083,7 @@ r=title
 b=calendar
 
 Judge Driscoll was in bed and asleep by ten o’clock on Friday night, and he was up and gone a-fishing before daylight in the morning with his friend Pembroke Howard.
-
+b=light
 
 These two had been boys together in Virginia when that State still ranked as the chief and most imposing member of the Union, and they still coupled the proud and affectionate adjective “old” with her name when they spoke of her.
 
@@ -3092,10 +3092,10 @@ In Missouri a recognized superiority attached to any person who hailed from Old 
 
 
 The Howards and Driscolls were of this aristocracy. In their eyes it was a nobility.
-
+b=light;c=york,pembroke
 
 It had its unwritten laws, and they were as clearly defined and as strict as any that could be found among the printed statutes of the land.
-
+c=
 
 The F.F.V. was born a gentleman; his highest duty in life was to watch over that great inheritance and keep it unsmirched.
 
@@ -3122,7 +3122,7 @@ They were men whose opinions were their own property and not subject to revision
 
 
 The day’s fishing finished, they came floating down stream in their skiff, talking national politics and other high matters, and presently met a skiff coming up from town, with a man in it who said:
-e:york=happy;e:pembroke=neutral
+e:york=happy;e:pembroke=neutral;b=skiffs
 
 “I reckon you know one of the new twins gave your nephew a kicking last night, Judge?”
 n:messenger=Man;s=messenger;e:messenger=neutral
@@ -3145,11 +3145,17 @@ s=york
 The man did it.
 s=none
 
-At the finish the Judge was silent a minute, turning over in his mind the shameful picture of Tom’s flight over the footlights; then he said, as if musing aloud—“H’m—I don’t understand it. I was asleep at home. He didn’t wake me. Thought he was competent to manage his affair without my help, I reckon.”
-e:york=thinking
+At the finish the Judge was silent a minute, turning over in his mind the shameful picture of Tom’s flight over the footlights; then he said, as if musing aloud—
 
-His face lit up with pride and pleasure at that thought, and he said with a cheery complacency, “I like that—it’s the true old blood—hey, Pembroke?”
-e:york=happy
+
+“H’m—I don’t understand it. I was asleep at home. He didn’t wake me. Thought he was competent to manage his affair without my help, I reckon.”
+s=york;e:york=serious
+
+His face lit up with pride and pleasure at that thought, and he said with a cheery complacency,
+s=
+
+“I like that—it’s the true old blood—hey, Pembroke?”
+e:york=happy;s=york
 
 Howard smiled an iron smile, and nodded his head approvingly.
 s=none;e:pembroke=smirking
@@ -3196,20 +3202,23 @@ s=none
 “You know it’s a lie as well as I do, old friend. He is of the best blood of the Old Dominion.”
 s=pembroke;e:pembroke=serious
 
-“God bless you for saying it!” said the old gentleman, fervently. “Ah, Pembroke, it was such a blow!”
+“God bless you for saying it!” said the old gentleman, fervently.
+s=york;e:york=scowling
+
+“Ah, Pembroke, it was such a blow!”
 s=york;e:york=unhappy
 
 Howard stayed by his friend, and saw him home, and entered the house with him.
-s=none
+s=none;b=light
 
 It was dark, and past suppertime, but the Judge was not thinking of supper; he was eager to hear the slander refuted from headquarters, and as eager to have Howard hear it, too.
-e:york=serious
+e:york=serious;b=york-house-int
 
 Tom was sent for, and he came immediately. He was bruised and lame, and was not a happy-looking object.
-e:tom=unhappy
+e:tom=unhappy;c=tom
 
 His uncle made him sit down, and said—
-s=none
+s=none;c=
 
 “We have been hearing about your adventure, Tom, with a handsome lie added to it for embellishment. Now pulverize that lie to dust! What measures have you taken? How does the thing stand?”
 s=york;e:york=serious
@@ -3218,7 +3227,7 @@ Tom answered guilelessly: “It don’t stand at all; it’s all over. I had him
 s=tom;e:tom=neutral
 
 Howard and the Judge sprang to their feet with the opening sentence—why, neither knew; then they stood gazing vacantly at each other. Howard stood a moment, then sat mournfully down without saying anything.
-s=none;e:york=surprised;e:pembroke=unhappy
+s=none;e:york=surprised;e:pembroke=unhappy;c=pembroke,york
 
 The Judge’s wrath began to kindle, and he burst out—
 e:york=angry
@@ -3227,28 +3236,28 @@ e:york=angry
 s=york
 
 Tom’s head drooped, and he answered with an eloquent silence.
-s=none;e:tom=wary
+s=none;e:tom=wary;c=tom
 
 His uncle stared at him with a mixed expression of amazement and shame and incredulity that was sorrowful to see. At last he said—
 
 
 “Which of the twins was it?”
-s=york
+s=york;e:york=serious
 
 “Count Luigi.”
 s=tom
 
 “You have challenged him?”
-s=york
+s=york;e:york=scowling
 
 “N—no,” hesitated Tom, turning pale.
 s=tom;e:tom=fearful
 
 “You will challenge him tonight. Howard will carry it.”
-s=york
+s=york;e:york=serious
 
 Tom began to turn sick, and to show it.
-s=none
+s=none;c=
 
 He turned his hat round and round in his hand, his uncle glowering blacker and blacker upon him as the heavy seconds drifted by; then at last he began to stammer, and said piteously—
 
@@ -3263,16 +3272,16 @@ s=none;e:york=angry
 s=york
 
 He tottered to his secretary in the corner repeating that lament again and again in heartbreaking tones, and got out of a drawer a paper, which he slowly tore to bits scattering the bits absently in his track as he walked up and down the room, still grieving and lamenting. At last he said—
-s=none;e:york=unhappy
+s=none;e:york=unhappy;b=york-house-secretary
 
 “There it is, shreds and fragments once more—my will. Once more you have forced me to disinherit you, you base son of a most noble father! Leave my sight! Go—before I spit on you!”
 s=york;e:york=angry
 
 The young man did not tarry. Then the Judge turned to Howard:
-s=none
+s=none;b=york-house-int
 
 “You will be my second, old friend?”
-s=york;e:york=serious
+s=york;e:york=serious;c=york
 
 “Of course.”
 s=pembroke;e:pembroke=serious
@@ -3284,13 +3293,13 @@ s=york
 s=pembroke
 
 Tom was very heavyhearted.
-s=none;e:tom=unhappy
+s=none;e:tom=unhappy;c=;b=light
 
 His appetite was gone with his property and his self-respect.
 
 
 He went out the back way and wandered down the obscure lane grieving, and wondering if any course of future conduct, however discreet and carefully perfected and watched over, could win back his uncle’s favor and persuade him to reconstruct once more that generous will which had just gone to ruin before his eyes.
-e:tom=thinking
+e:tom=thinking;b=dawson-street
 
 He finally concluded that it could. He said to himself that he had accomplished this sort of triumph once already, and that what had been done once could be done again.
 
@@ -3311,7 +3320,7 @@ e:tom=angry
 e:tom=thinking
 
 “I’m entering on my last reform—I know it—yes, and I’ll win; but after that, if I ever slip again I’m gone.”
-
+e:tom=wary
 
 ## XIII. Tom Stares at Ruin
 r=title
