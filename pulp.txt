@@ -19,7 +19,7 @@ e:twain=
 Given under my hand this second day of January, 1893, at the Villa Viviani, village of Settignano, three miles back of Florence, on the hills—the same certainly affording the most charming view to be found on this planet, and with it the most dreamlike and enchanting sunsets to be found in any planet or even in any solar system—and given, too, in the swell room of the house, with the busts of Cerretani senators and other grandees of this line looking approvingly down upon me as they used to look down upon Dante, and mutely asking me to adopt them into my family, which I do with pleasure, for my remotest ancestors are but spring chickens compared with these robed and stately antiques, and it will be a great and satisfying lift for me, that six hundred years will.
 e:twain=two
 
-<div class='upper'>Mark Twain.</div>
+<div class='upper'>—Mark Twain</div>
 e:twain=three
 
 ## I. Pudd’nhead Wins His Name
@@ -227,7 +227,7 @@ The nickname soon ceased to carry any harsh or unfriendly feeling with it, but i
 r=title
 
 <i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Twain using this book as a dumping ground for the quips that didn't make the <book>Extracts from Adam's Diary</book> cut. Showing that even his leftover quips are iconic.</e>
-r=calendar
+b=calendar
 
 Pudd’nhead Wilson had a trifle of money when he arrived, and he bought a small house on the extreme western verge of the town.
 e:wilson=neutral;b=wilson-house-ext
@@ -236,7 +236,7 @@ Between it and Judge Driscoll’s house there was only a grassy yard, with a pal
 
 
 He hired a small office down in the town and hung out a tin sign with these words on it:
-
+b=dawson-main
 
 <div class='upper center'><span class='big'>David Wilson.</span><br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.</div>
 
@@ -245,7 +245,7 @@ But his deadly remark had ruined his chance﻿—at least in the law.
 e:wilson=unhappy
 
 No clients came. He took down his sign, after a while, and put it up on his own house with the law features knocked out of it.
-
+b=wilson-house-ext
 
 It offered his services now in the humble capacities of land-surveyor and expert accountant.
 
@@ -260,7 +260,7 @@ Poor fellow, he could not foresee that it was going to take him such a weary lon
 
 
 He had a rich abundance of idle time, but it never hung heavy on his hands, for he interested himself in every new thing that was born into the universe of ideas, and studied it and experimented upon it at his house.
-e:wilson=thinking
+e:wilson=thinking;b=wilson-house-int
 
 One of his pet fads was palmistry. To another one he gave no name, neither would he explain to anybody what its purpose was, but merely said it was an amusement.
 
@@ -272,7 +272,7 @@ The fad without a name was one which dealt with people’s fingermarks.
 
 
 He carried in his coat pocket a shallow box with grooves in it, and in the grooves strips of glass five inches long and three inches wide.
-
+o=strip
 
 Along the lower edge of each strip was pasted a slip of white paper.
 
@@ -290,19 +290,19 @@ and add the day of the month and the year, then take Smith’s left hand on anot
 
 
 The strips were now returned to the grooved box, and took their place among what Wilson called his “records.”
-
+o=
 
 He often studied his records, examining and poring over them with absorbing interest until far into the night; but what he found there﻿—if he found anything﻿—he revealed to no one.
 
 
 Sometimes he copied on paper the involved and delicate pattern left by the ball of a finger, and then vastly enlarged it with a pantograph so that he could examine its web of curving lines with ease and convenience.
-
+o=pantograph
 
 One sweltering afternoon﻿—it was the first day of July, 1830﻿—he was at work over a set of tangled account-books in his workroom, which looked westward over a stretch of vacant lots, when a conversation outside disturbed him.
-e:wilson=weary
+e:wilson=weary;o=
 
 It was carried on in yells, which showed that the people engaged in it were not close together:
-
+b=wilson-house-window
 
 “Say, Roxy, how does yo’ baby come on?”
 n:jasper=Jasper;s=jasper;e:jasper=happy
@@ -316,7 +316,7 @@ s=roxana;e:roxana=happy
 “Oh, I’s middlin’; hain’t got noth’n’ to complain of. I’s gwine to come a-court’n’ you bimeby, Roxy.”
 s=jasper;e:jasper=smirking
 
-“*You* is, you black mudcat! Yah﻿—yah﻿—yah! I got somep’n’ better to do den ’sociat’n’ wid niggers as black as you is.”<e>I'll just do a quick Ctrl+F here and… 75 hits. Seems low if anything for a Twain novel.</e>
+“*You* is, you black mudcat! Yah﻿—yah﻿—yah! I got somep’n’ better to do den ’sociat’n’ wid niggers as black as you is.”<e>Ctrl+F here and… 75 hits. Who else but Twain!</e>
 s=roxana;e:roxana=smirking
 
 “Is ole Miss Cooper’s Nancy done give you de mitten?”
@@ -350,25 +350,25 @@ From Roxy’s manner of speech, a stranger would have expected her to be black, 
 e:roxana=neutral
 
 Only one sixteenth of her was black, and that sixteenth did not show.
-
+b=light;c=roxana
 
 She was of majestic form and stature, her attitudes were imposing and statuesque, and her gestures and movements distinguished by a noble and stately grace.
 
 
 Her complexion was very fair, with the rosy glow of vigorous health in the cheeks, her face was full of character and expression, her eyes were brown and liquid, and she had a heavy suit of fine soft hair which was also brown, but the fact was not apparent because her head was bound about with a checkered handkerchief and the hair was concealed under it.
-
+e:roxana=smirking
 
 Her face was shapely, intelligent and comely﻿—even beautiful. She had an easy, independent carriage﻿—when she was among her own caste﻿—and a high and “sassy” way, withal; but of course she was meek and humble enough where white people were.
 
 
 To all intents and purposes Roxy was as white as anybody, but the one sixteenth of her which was black outvoted the other fifteen parts and made her a Negro.
-
+e:roxana=
 
 She was a slave, and salable as such. Her child was thirty-one parts white, and he, too, was a slave, and by a fiction of law and custom a Negro.
-
+c=
 
 He had blue eyes and flaxen curls like his white comrade, but even the father of the white child was able to tell the children apart﻿—little as he had commerce with them﻿—by their clothes: for the white babe wore ruffled soft muslin and a coral necklace, while the other wore merely a coarse tow-linen shirt which barely reached to its knees, and no jewelry.
-
+o=babes-wagon
 
 The white child’s name was Thomas à Becket Driscoll, the other’s name was Valet de Chambre: no surname﻿—slaves hadn’t the privilege.
 
@@ -380,16 +380,16 @@ It soon got shorted to “Chambers,” of course.
 
 
 Wilson knew Roxy by sight, and when the duel of wit began to play out, he stepped outside to gather in a record or two.
-
+o=;b=wilson-house-int
 
 Jasper went to work energetically, at once, perceiving that his leisure was observed.
-
+b=wilson-house-ext
 
 Wilson inspected the children and asked﻿—
 
 
 “How old are they, Roxy?”
-s=wilson;e:wilson=neutral
+s=wilson;e:wilson=neutral;c=wilson,roxana
 
 “Bofe de same age, sir﻿—five months. Bawn de fust o’ Feb’uary.”
 s=roxana
@@ -404,7 +404,7 @@ s=none;e:roxana=happy
 s=roxana
 
 “How do you tell them apart, Roxy, when they haven’t any clothes on?”
-s=wilson;e:wilson=thinking
+s=wilson;e:wilson=thinking;c=;b=light;o=babes-wagon
 
 Roxy laughed a laugh proportioned to her size, and said:
 s=none;e:roxana=happy
@@ -413,19 +413,19 @@ s=none;e:roxana=happy
 s=roxana;e:roxana=smirking
 
 Wilson chatted along for awhile, and presently got Roxy’s fingerprints for his collection﻿—right hand and left﻿—on a couple of his glass strips; then labeled and dated them, and took the “records” of both children, and labeled and dated them also.
-s=none;e:wilson=neutral
+s=none;e:wilson=neutral;o=;b=wilson-house-ext
 
 Two months later, on the 3rd of September, he took this trio of fingermarks again.
-
+b=wilson-house-int
 
 He liked to have a “series,” two or three “takings” at intervals during the period of childhood, these to be followed by others at intervals of several years.
 
 
 The next day﻿—that is to say, on the 4th of September﻿—something occurred which profoundly impressed Roxana.
-e:roxana=fearful
+e:roxana=fearful;b=light
 
 Mr. Driscoll missed another small sum of money﻿—which is a way of saying that this was not a new thing, but had happened before.
-n:percy=Percy Driscoll;e:percy=unhappy
+n:percy=Percy Driscoll;e:percy=unhappy;b=percy-house-int;c=percy
 
 In truth it had happened three times before. Driscoll’s patience was exhausted.
 e:percy=angry
@@ -434,16 +434,16 @@ He was a fairly humane man toward slaves and other animals; he was an exceedingl
 
 
 Theft he could not abide, and plainly there was a thief in his house.
-
+c=
 
 Necessarily the thief must be one of his Negroes. Sharp measures must be taken. He called his servants before him.
 
 
 There were three of these, besides Roxy: a man, a woman, and a boy twelve years old.
-n:servant1=Servant;n:servant2=Servant;n:servant3=Servant;e:servant1=fearful;e:servant2=fearful;e:servant3=fearful
+n:servant1=Servant;n:servant2=Servant;n:servant3=Servant;e:servant1=fearful;e:servant2=fearful;e:servant3=fearful;c=roxana,servant1,servant2,servant3
 
 They were not related. Mr. Driscoll said:
-
+c=
 
 “You have all been warned before. It has done no good. This time I will teach you a lesson. I will sell the thief. Which of you is the guilty one?”
 s=percy
@@ -461,13 +461,13 @@ He answered each in turn with a stern “Name the thief!”
 
 
 The truth was, all were guilty but Roxana; she suspected that the others were guilty, but she did not know them to be so.
-
+b=think
 
 She was horrified to think how near she had come to being guilty herself; she had been saved in the nick of time by a revival in the colored Methodist Church, a fortnight before, at which time and place she “got religion.”
 e:roxana=fearful
 
 The very next day after that gracious experience, while her change of style was fresh upon her and she was vain of her purified condition, her master left a couple dollars lying unprotected on his desk, and she happened upon that temptation when she was polishing around with a dust-rag.
-
+b=percy-house-desk
 
 She looked at the money awhile with a steady rising resentment, then she burst out with﻿—
 e:roxana=angry
@@ -476,7 +476,7 @@ e:roxana=angry
 s=roxana
 
 Then she covered the tempter with a book, and another member of the kitchen cabinet got it.
-s=none
+s=none;b=think
 
 She made this sacrifice as a matter of religious etiquette; as a thing necessary just now, but by no means to be wrested into a precedent; no, a week or two would limber up her piety, then she would be rational again, and the next two dollars that got left out in the cold would find a comforter﻿—and she could name the comforter.
 e:roxana=neutral
@@ -488,7 +488,7 @@ No. They had an unfair show in the battle of life, and they held it no sin to ta
 
 
 They would smouch provisions from the pantry whenever they got a chance; or a brass thimble, or a cake of wax, or an emery-bag, or a paper of needles, or a silver spoon, or a dollar bill, or small articles of clothing, or any other property of light value; and so far were they from considering such reprisals sinful, that they would go to church and shout and pray the loudest and sincerest with their plunder in their pockets.
-
+b=dawson-wide
 
 A farm smokehouse had to be kept heavily padlocked, for even the colored deacon himself could not resist a ham when Providence showed him in a dream, or otherwise, where such a thing hung lonesome and longed for someone to love.
 
@@ -497,10 +497,10 @@ But with a hundred hanging before him the deacon would not take two﻿—that is
 
 
 On frosty nights the humane Negro prowler would warm the end of a plank and put it up under the cold claws of chickens roosting in a tree; a drowsy hen would step on to the comfortable board, softly clucking her gratitude, and the prowler would dump her into his bag, and later into his stomach, perfectly sure that in taking this trifle from the man who daily robbed him of an inestimable treasure﻿—his liberty﻿—he was not committing any sin that God would remember against him in the Last Great Day.
-
+f:b:dawson-wide=brightness(85%)
 
 “Name the thief!”
-s=percy
+s=percy;b=percy-house-int
 
 For the fourth time Mr. Driscoll had said it, and always in the same hard tone.
 s=none
@@ -509,10 +509,10 @@ And now he added these words of awful import:
 
 
 “I give you one minute”﻿—he took out his watch.
-s=percy
+s=percy;e:percy=serious
 
 “If at the end of that time you have not confessed, I will not only sell all four of you, *but*﻿—I will sell you **down the river**!”
-
+e:percy=angry
 
 It was equivalent to condemning them to hell! No Missouri Negro doubted this.
 s=none
@@ -545,7 +545,7 @@ e:percy=happy
 r=title
 
 <i>Whoever has lived long enough to find out what life is, knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 Percy Driscoll slept well the night he saved his house-minions from going down the river, but no wink of sleep visited Roxy’s eyes.
 e:roxana=fearful
