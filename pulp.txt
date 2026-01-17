@@ -80,7 +80,7 @@ The town was sleepy and comfortable and contented. It was fifty years old, and w
 
 
 The chief citizen was York Leicester Driscoll, about forty years old, judge of the county court.
-n:york=Judge Driscoll;e:york=serious;c=york;a:york=40;b=court-ext
+n:york=Judge York Leicester Driscoll;e:york=serious;c=york;a:york=40;b=court-ext
 
 He was very proud of his old Virginian ancestry, and in his hospitalities and his rather formal and stately manners he kept up its traditions.
 
@@ -92,7 +92,7 @@ He was respected, esteemed and beloved by all the community.
 
 
 He was well off, and was gradually adding to his store.
-c=;b=judge-house-int
+c=;b=york-house-int
 
 He and his wife were very nearly happy, but not quite, for they had no children. The longing for the treasure of a child had grown stronger and stronger as the years slipped away, but the blessing never came﻿—and was never to come.
 e:york=;n:yorkwife=Mrs. Driscoll;c=york,yorkwife
@@ -305,13 +305,13 @@ It was carried on in yells, which showed that the people engaged in it were not 
 b=wilson-house-window
 
 “Say, Roxy, how does yo’ baby come on?”
-n:jasper=Jasper;s=jasper;e:jasper=happy
+n:jasper=?;s=jasper;e:jasper=happy
 
 This from the distant voice.
 s=none
 
 “Fust-rate; how does *you* come on, Jasper?” This yell was from close by.
-s=roxana;e:roxana=happy
+s=roxana;e:roxana=happy;n:jasper=Jasper
 
 “Oh, I’s middlin’; hain’t got noth’n’ to complain of. I’s gwine to come a-court’n’ you bimeby, Roxy.”
 s=jasper;e:jasper=smirking
@@ -425,7 +425,7 @@ The next day﻿—that is to say, on the 4th of September﻿—something occurre
 e:roxana=fearful;b=light
 
 Mr. Driscoll missed another small sum of money﻿—which is a way of saying that this was not a new thing, but had happened before.
-n:percy=Percy Driscoll;e:percy=unhappy;b=percy-house-int;c=percy
+e:percy=unhappy;b=percy-house-int;c=percy
 
 In truth it had happened three times before. Driscoll’s patience was exhausted.
 e:percy=angry
@@ -971,7 +971,7 @@ They laughed at him, and called him coward, liar, sneak, and other sorts of pet 
 
 
 Tom grew frantic under these taunts, and shouted﻿—
-e:tom=angry;a:tom=15;a:chambers=15
+e:tom=angry;a:tom=15;a:chambers=15;a:york=old;a:wilson=old;a:roxana=old;a:percy=old;a:pembroke=old;a:yorkwife=old;a:rachel=old;a:jasper=old
 
 “Knock their heads off, Chambers! knock their heads off! What do you stand there with your hands in your pockets for?”
 s=tom
@@ -1082,13 +1082,13 @@ b=calendar
 
 
 Mrs. York Driscoll enjoyed two years of bliss with that prize, Tom—bliss that was troubled a little at times, it is true, but bliss nevertheless; then she died, and her husband and his childless sister, Mrs. Pratt, continued the bliss-business at the old stand.
-n:rachel=Mrs. Rachel Pratt
+b=york-house-int
 
 Tom was petted and indulged and spoiled to his entire content—or nearly that.
 e:tom=happy
 
 This went on till he was nineteen, then he was sent to Yale.
-
+a:tom=19;a:chambers=19;b=yale
 
 He went handsomely equipped with “conditions,” but otherwise he was not an object of distinction there.
 
@@ -1097,13 +1097,13 @@ He remained at Yale two years, and then threw up the struggle.
 
 
 He came home with his manners a good deal improved; he had lost his surliness and brusqueness, and was rather pleasantly soft and smooth, now; he was furtively, and sometimes openly, ironical of speech, and given to gently touching people on the raw, but he did it with a good-natured semiconscious air that carried it off safely, and kept him from getting into trouble.
-e:tom=smirking
+e:tom=smirking;b=dawson-wide
 
 He was as indolent as ever and showed no very strenuous desire to hunt up an occupation.
 e:tom=neutral
 
 People argued from this that he preferred to be supported by his uncle until his uncle’s shoes should become vacant.
-n:york=Judge Driscoll
+b=york-house-ext
 
 He brought back one or two new habits with him, one of which he rather openly practised—tippling—but concealed another which was gambling.
 
