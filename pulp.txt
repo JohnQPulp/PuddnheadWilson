@@ -230,7 +230,7 @@ The nickname soon ceased to carry any harsh or unfriendly feeling with it, but i
 
 
 ## II. Driscoll Spares His Slaves
-
+r=title
 
 <i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -545,7 +545,7 @@ He knew, himself, that he had done a noble and gracious thing, and was privately
 e:percy=happy
 
 ## III. Roxy Plays a Shrewd Trick
-
+r=title
 
 <i>Whoever has lived long enough to find out what life is, knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -815,7 +815,7 @@ He discovered nothing; and she went home jubilant, and dropped all concern about
 e:roxana=happy
 
 ## IV. The Ways of the Changelings
-
+r=title
 
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -1064,7 +1064,7 @@ Wilson said to himself, “The drop of black blood in her is superstitious; she 
 s=wilson;e:wilson=thinking
 
 ## V. The Twins Thrill Dawson’s Landing
-s=none
+s=none;r=title
 
 <i>Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -1274,7 +1274,7 @@ One was a little fairer than the other, but otherwise they were exact duplicates
 
 
 ## VI. Swimming in Glory
-
+r=title
 
 <i>Let us endeavor so to live that when we come to die even the undertaker will be sorry.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -1469,7 +1469,7 @@ They realized that for once in their lives they were hearing masters.
 
 
 ## VII. The Unknown Nymph
-
+r=title
 
 <i>One of the most striking differences between a cat and a lie is that a cat has only nine lives.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -1571,7 +1571,7 @@ He was now waiting for the twins, and still puzzling over the problem of who tha
 e:wilson=thinking
 
 ## VIII. Marse Tom Tramples His Chance
-
+r=title
 
 <i>The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -2027,7 +2027,7 @@ Tom humbly held the door for her, and she marched out as grim and erect as a gre
 s=none
 
 ## IX. Tom Practises Sycophancy
-
+r=title
 
 <i>Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -2321,7 +2321,7 @@ e:roxana=neutral
 
 
 ## X. The Nymph Revealed
-s=none
+r=title
 
 <i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -2513,7 +2513,7 @@ After this long digression we have now arrived once more at the point where Pudd
 e:wilson=thinking
 
 ## XI. Pudd’nhead’s Startling Discovery
-
+r=title
 
 <i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -3044,7 +3044,7 @@ Such citizens of that village as were of a thoughtful and judicious temperament 
 
 
 ## XII. The Shame of Judge Driscoll
-
+r=title
 
 <i>Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -3281,7 +3281,7 @@ e:tom=thinking
 
 
 ## XIII. Tom Stares at Ruin
-s=
+r=title
 
 <i>When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -3578,7 +3578,7 @@ It was the first attention which Wilson had ever received at the hands of any pa
 e:wilson=happy
 
 ## XIV. Roxana Insists Upon Reform
-
+r=title
 
 <i>The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -4013,7 +4013,7 @@ s=tom
 s=roxana
 
 ## XV. The Robber Robbed
-s=
+r=title
 
 <i>Nothing so needs reforming as other people’s habits.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -4418,7 +4418,7 @@ But when he got up in the morning, luck was against him again: A brother-thief h
 e:tom=unhappy
 
 ## XVI. Sold Down the River
-
+r=title
 
 <i>If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -4571,7 +4571,7 @@ e:roxana=fearful
 s=roxana
 
 ## XVII. The Judge Utters Dire Prophecy
-s=
+r=title
 
 <i>Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -4649,7 +4649,7 @@ They avoided the people, and went out for exercise only late at night, when the 
 
 
 ## XVIII. Roxana Commands
-
+r=title
 
 <i>Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -5126,7 +5126,7 @@ e:tom=weary
 e:tom=serious
 
 ## XIX. The Prophecy Realized
-
+r=title
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -5528,7 +5528,7 @@ This charmed the doting Mrs. Pratt, who realized now, “as she had never done b
 e:rachel=happy
 
 ## XX. The Murderer Chuckles
-
+r=title
 
 <i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -5810,7 +5810,7 @@ He took a single swift glance at them and cried out—
 s=wilson
 
 ## XXI. Doom
-s=
+r=title
 
 <i>He is useless on top of the ground; he ought to be under it, inspiring the cabbages.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -6308,7 +6308,7 @@ The court rose; the new prisoner, handcuffed, was removed.
 
 
 ## Conclusion
-
+r=title
 
 <i>It is often the case that the man who can’t tell a lie thinks he is the best judge of one.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
