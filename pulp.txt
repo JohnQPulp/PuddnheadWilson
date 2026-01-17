@@ -548,7 +548,7 @@ r=title
 b=calendar
 
 Percy Driscoll slept well the night he saved his house-minions from going down the river, but no wink of sleep visited Roxy’s eyes.
-e:roxana=fearful
+e:roxana=fearful;b=think
 
 A profound terror had taken possession of her. Her child could grow up and be sold down the river!
 e:roxana=fearful
@@ -557,9 +557,12 @@ The thought crazed her with horror.
 e:roxana=fearful
 
 If she dozed and lost herself for a moment, the next moment she was on her feet flying to her child’s cradle to see if it was still there.
+b=cradle-room-cradles
+
+Then she would gather it to her heart and pour out her love upon it in a frenzy of kisses, moaning, crying, and saying,
 
 
-Then she would gather it to her heart and pour out her love upon it in a frenzy of kisses, moaning, crying, and saying, “Dey shan’t, oh, dey *shan’t!*—yo’ po’ mammy will kill you fust!”
+“Dey shan’t, oh, dey *shan’t!*—yo’ po’ mammy will kill you fust!”
 e:roxana=crying;s=roxana
 
 Once, when she was tucking it back in its cradle again, the other child nestled in its sleep and attracted her attention.
@@ -569,7 +572,7 @@ She went and stood over it a long time communing with herself:
 e:roxana=thinking
 
 “What has my po’ baby done, dat he couldn’t have yo’ luck? He hain’t done noth’n’.”
-s=roxana
+s=roxana;e:roxana=unhappy
 
 “God was good to you; why warn’t he good to him? Dey can’t sell *you* down de river.”
 
@@ -580,8 +583,11 @@ e:roxana=angry
 “I hates him, en I could kill him!”
 s=roxana
 
-She paused awhile, thinking; then she burst into wild sobbings again, and turned away, saying, “Oh, I got to kill my chile, dey ain’t no yuther way—killin’ *him* wouldn’t save de chile fum goin’ down de river.”
-e:roxana=crying
+She paused awhile, thinking; then she burst into wild sobbings again, and turned away, saying,
+s=none
+
+“Oh, I got to kill my chile, dey ain’t no yuther way—killin’ *him* wouldn’t save de chile fum goin’ down de river.”
+e:roxana=crying;s=roxana
 
 “Oh, I got to do it, yo’ po’ mammy’s got to kill you to save you, honey”—she gathered her baby to her bosom, now, and began to smother it with caresses—“Mammy’s got to kill you—how *kin* I do it!”
 
@@ -593,7 +599,7 @@ e:roxana=unhappy
 
 
 She started toward the door, crooning to the child and hushing it; midway she stopped, suddenly.
-s=none;e:roxana=surprised
+s=none;e:roxana=surprised;b=cradle-room-door
 
 She had caught sight of her new Sunday gown—a cheap curtain-calico thing, a conflagration of gaudy colors and fantastic figures.
 e:roxana=neutral
@@ -604,8 +610,11 @@ e:roxana=unhappy
 “Hain’t ever wore it yet,” she said, “en it’s jist lovely.”
 s=roxana
 
-Then she nodded her head in response to a pleasant idea, and added, “No, I ain’t gwine to be fished out, wid everybody lookin’ at me, in dis mis’able ole linsey-woolsey.”
-e:roxana=happy
+Then she nodded her head in response to a pleasant idea, and added,
+s=
+
+“No, I ain’t gwine to be fished out, wid everybody lookin’ at me, in dis mis’able ole linsey-woolsey.”
+e:roxana=happy;s=roxana
 
 She put down the child and made the change.
 s=none
@@ -620,16 +629,16 @@ She took off her handkerchief-turban and dressed her glossy wealth of hair “li
 
 
 Then she was ready for the tomb.
-
+a:roxana=gown;c=roxana
 
 She gathered up her baby once more; but when her eye fell upon its miserably short little gray tow-linen shirt and noted the contrast between its pauper shabbiness and her own volcanic irruption of infernal splendors, her mother-heart was touched, and she was ashamed.
-e:roxana=unhappy
+e:roxana=unhappy;c=
 
 “No, dolling, mammy ain’t gwine to treat you so.”
 s=roxana
 
 “De angels is gwine to ’mire you jist as much as dey does yo’ mammy.”
-
+e:roxana=
 
 “Ain’t gwine to have ’em putt’n’ dey han’s up ’fo’ dey eyes en sayin’ to David en Goliah en dem yuther prophets, ‘Dat chile is dress’ too indelicate fo’ dis place.’ ”
 
@@ -638,13 +647,13 @@ By this time she had stripped off the shirt.
 s=none
 
 Now she clothed the naked little creature in one of Thomas à Becket’s snowy long baby-gowns, with its bright blue bows and dainty flummery of ruffles.
-
+o=fancy-baby
 
 “Dah—now you’s fixed.”
 s=roxana;e:roxana=happy
 
 She propped the child in a chair and stood off to inspect it.
-s=none
+s=none;o=
 
 Straightway her eyes began to widen with astonishment and admiration, and she clapped her hands and cried out,
 
@@ -664,17 +673,17 @@ e:roxana=thinking
 She seemed in a trance; when she came out of it she muttered,
 
 
-“When I ’uz a-washin’ ’em in de tub, yistiddy, his own pappy asked me which of ’em was his’n.”<e>Reminds me of <book>Rabbit, Run</book>.</e>
+“When I ’uz a-washin’ ’em in de tub, yistiddy, his own pappy asked me which of ’em was his’n.”
 s=roxana
 
 She began to move about like one in a dream.
 s=none
 
 She undressed Thomas à Becket, stripping him of everything, and put the tow-linen shirt on him.
-
+o=basic-baby
 
 She put his coral necklace on her own child’s neck.
-
+o=
 
 Then she placed the children side by side, and after earnest inspection she muttered—
 e:roxana=serious
@@ -683,7 +692,7 @@ e:roxana=serious
 s=roxana
 
 “Dog my cats if it ain’t all *I* kin do to tell t’other fum which, let alone his pappy.”
-s=roxana
+s=roxana;e:roxana=
 
 She put her cub in Tommy’s elegant cradle and said—
 s=none
@@ -691,11 +700,11 @@ s=none
 “You’s young Marse *Tom* fum dis out, en I got to practise and git used to ’memberin’ to call you dat, honey, or I’s gwine to make a mistake some time en git us bofe into trouble.”
 s=roxana
 
-“Dah—now you lay still en don’t fret no mo’, Marse Tom—oh, thank de good Lord in heaven, you’s saved, you’s saved!—dey ain’t no man kin ever sell mammy’s po’ little honey down de river now!”<e>Based Twain writing <book>Prince and the Pauper|the same book</book> twice.</e>
+“Dah—now you lay still en don’t fret no mo’, Marse Tom—oh, thank de good Lord in heaven, you’s saved, you’s saved!—dey ain’t no man kin ever sell mammy’s po’ little honey down de river now!”
 e:roxana=happy
 
 She put the heir of the house in her own child’s unpainted pine cradle, and said, contemplating its slumbering form uneasily—
-s=none;e:roxana=wary
+s=none;e:roxana=wary;b=cradle-room-cradles
 
 “I’s sorry for you, honey; I’s sorry, God knows I is—but what *kin* I do, what *could* I do?”
 s=roxana;e:roxana=unhappy
@@ -761,7 +770,7 @@ e:roxana=thinking
 s=roxana
 
 “When I takes de chillen out to git de air, de minute I’s roun’ de corner I’s gwine to gaum dey mouths all roun’ wid jam, den dey can’t *nobody* notice dey’s changed.”
-
+e:roxana=
 
 “Yes, I gwineter do dat till I’s safe, if it’s a year.”
 
@@ -770,7 +779,7 @@ s=roxana
 e:roxana=wary
 
 “Dey calls him a pudd’nhead, en says he’s a fool. My lan’, dat man ain’t no mo’ fool den I is!”
-
+e:roxana=serious
 
 “He’s de smartes’ man in dis town, less’n it’s Jedge Driscoll or maybe Pem Howard.”
 
@@ -778,20 +787,17 @@ e:roxana=wary
 “Blame dat man, he worries me wid dem ornery glasses o’ hisn; *I* b’lieve he’s a witch.”
 e:roxana=fearful
 
-“But nemmine, I’s gwine to happen aroun’ dah one o’ dese days en let on dat I reckon he wants to print de chillen’s fingers ag’in;”
+“But nemmine, I’s gwine to happen aroun’ dah one o’ dese days en let on dat I reckon he wants to print de chillen’s fingers ag’in; en if *he* don’t notice dey’s changed, I bound dey ain’t nobody gwine to notice it, en den I’s safe, sho’.”
 e:roxana=thinking
-
-“en if *he* don’t notice dey’s changed, I bound dey ain’t nobody gwine to notice it, en den I’s safe, sho’.”
-e:roxana=happy
 
 “But I reckon I’ll tote along a hoss-shoe to keep off de witch-work.”
 
 
 The new Negroes gave Roxy no trouble, of course.
-s=none;e:roxana=neutral
+s=none;e:roxana=neutral;b=percy-house-ext
 
 The master gave her none, for one of his speculations was in jeopardy, and his mind was so occupied that he hardly saw the children when he looked at them, and all Roxy had to do was to get them both into a gale of laughter when he came about; then their faces were mainly cavities exposing gums, and he was gone again before the spasm passed and the little creatures resumed a human aspect.
-
+b=percy-house-int
 
 Within a few days the fate of the speculation became so dubious that Mr. Percy went away with his brother the Judge, to see what could be done with it.
 
@@ -803,7 +809,7 @@ The men were gone seven weeks.
 
 
 Before they got back Roxy had paid her visit to Wilson, and was satisfied.
-
+b=wilson-house-int
 
 Wilson took the fingerprints, labeled them with the names and with the date—October the first—put them carefully away and continued his chat with Roxy, who seemed very anxious that he should admire the great advance in flesh and beauty which the babies had made since he took their fingerprints a month before.
 e:roxana=wary
@@ -817,11 +823,11 @@ But he didn’t.
 He discovered nothing; and she went home jubilant, and dropped all concern about the matter permanently out of her mind.
 e:roxana=happy
 
-## IV. The Ways of the Changelings
-r=title
+## IV. The Ways of the Changelings<e>The ol' identical-appearance-children-swapped plot. The balls on Twain to write <book>Prince and the Pauper|the exact same book</book> twice.</e>
+r=title;t=twain;e:twain=two
 
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-b=calendar
+b=calendar;t=
 
 <i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I had to look it up: 2 Kings 2:23-25. (But I'd look up any reference for you, Twain!)</e>
 
