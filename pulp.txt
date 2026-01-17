@@ -1166,7 +1166,7 @@ If the Judge had stopped with bare assertion, it would have had a good deal of e
 e:york=thinking
 
 For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.<e>Only Twain could brag about his own quips form within the narrative <i>and get away it it</i>.</e>
-e:wilson=thinking;e:york=happy;o=calendar;t=twain;e:twain=two
+e:wilson=thinking;e:york=happy;b=calendar;t=twain;e:twain=two
 
 But irony was not for those people; their mental vision was not focused for it.
 e:wilson=unhappy;t=
@@ -1175,7 +1175,7 @@ They read those playful trifles in the solidest earnest, and decided without hes
 
 
 That is just the way in this world; an enemy can partly ruin a man, but it takes a good-natured injudicious friend to complete the thing and make it perfect.
-o=
+
 
 After this the Judge felt tenderer than ever toward Wilson, and surer than ever that his calendar had merit.
 e:york=neutral;b=light
@@ -1292,7 +1292,7 @@ b=calendar
 
 
 At breakfast in the morning the twins’ charm of manner and easy and polished bearing made speedy conquest of the family’s good graces.
-e:luigi=happy;e:angelo=happy;e:patsy=happy;e:rowena=happy
+e:luigi=happy;e:angelo=happy;e:patsy=happy;e:rowena=happy;b=patsy-house-int
 
 All constraint and formality quickly disappeared, and the friendliest feeling succeeded.
 
@@ -1310,7 +1310,7 @@ As the talk wandered along the old lady watched for the right place to drop in a
 
 
 “If it ain’t asking what I ought not to ask, Mr. Angelo, how did you come to be so friendless and in such trouble when you were little?”
-s=patsy
+s=patsy;e:patsy=
 
 “Do you mind telling? But don’t if you do.”
 
@@ -1376,25 +1376,25 @@ She indicated the twins with a nod of her head, and tucked it back out of sight 
 s=none
 
 It was a proud occasion for the widow, and she promised herself high satisfaction in showing off her fine foreign birds before her neighbors and friends—simple folk who had hardly ever seen a foreigner of any kind, and never one of any distinction or style.
-e:patsy=happy
+e:patsy=happy;b=light;c=patsy
 
 Yet her feeling was moderate indeed when contrasted with Rowena’s.
-
+c=
 
 Rowena was in the clouds, she walked on air; this was to be the greatest day, the most romantic episode, in the colorless history of that dull country town.
-e:rowena=happy
+e:rowena=happy;c=rowena
 
 She was to be familiarly near the source of its glory and feel the full flood of it pour over her and about her; the other girls could only gaze and envy, not partake.
 e:rowena=excited
 
 The widow was ready, Rowena was ready, so also were the foreigners.
-e:luigi=happy;e:angelo=happy
+e:luigi=happy;e:angelo=happy;c=
 
 The party moved along the hall, the twins in advance, and entered the open parlor door, whence issued a low hum of conversation.
 
 
 The twins took a position near the door, the widow stood at Luigi’s side, Rowena stood beside Angelo, and the march-past and the introductions began.
-
+b=patsy-house-parlor
 
 The widow was all smiles and contentment. She received the procession and passed it on to Rowena.
 
@@ -1403,7 +1403,7 @@ The widow was all smiles and contentment. She received the procession and passed
 n:higgins=Mr. Higgins;s=higgins
 
 “Good morning, Brother Higgins—Count Luigi Capello, Mr. Higgins”—handshake, followed by a devouring stare and “I’m glad to see ye,” on the part of Higgins, and a courteous inclination of the head and a pleasant “Most happy!” on the part of Count Luigi.
-s=patsy
+s=
 
 “Good mornin’, Roweny”—handshake.
 s=higgins
@@ -1412,7 +1412,7 @@ s=higgins
 s=rowena
 
 Handshake, admiring stare, “Glad to see ye,”—courteous nod, smily “Most happy!” and Higgins passes on.
-s=higgins;e:angelo=happy
+s=;e:angelo=happy
 
 None of these visitors was at ease, but, being honest people, they didn’t pretend to be.
 s=none
@@ -1427,25 +1427,25 @@ Now and then, as happens at all receptions everywhere, a more than ordinary frie
 
 
 General conversation followed, and the twins drifted about from group to group, talking easily and fluently and winning approval, compelling admiration and achieving favor from all.
-e:luigi=happy;e:angelo=happy
+e:luigi=happy;e:angelo=happy;c=luigi,angelo
 
 The widow followed their conquering march with a proud eye, and every now and then Rowena said to herself with deep satisfaction,
-
+c=patsy,rowena;e:patsy=happy;e:rowena=happy
 
 “And to think they are ours—all ours!”
-s=rowena;e:patsy=happy;e:rowena=happy
+s=rowena
 
 There were no idle moments for mother or daughter.
-s=none
+s=none;c=
 
 Eager inquiries concerning the twins were pouring into their enchanted ears all the time; each was the constant center of a group of breathless listeners; each recognized that she knew now for the first time the real meaning of that great word Glory, and perceived the stupendous value of it, and understood why men in all ages had been willing to throw away meaner happinesses, treasure, life itself, to get a taste of its sublime and supreme joy.
 e:rowena=excited
 
-Napoleon and all his kind stood accounted for—and justified.<e>Look, a philisophical aside about Napoleon that's funny and doesn't take 50 fucking pages. You see how it's done, <book>War and Peace|Tolstoy</book>?</e>
+Napoleon and all his kind stood accounted for—and justified.<e>An aside about Napoleon that's funny and doesn't take 50 tedious pages. Take note, <book>War and Peace|Tolstoy</book>.</e>
 
 
 When Rowena had at last done all her duty by the people in the parlor, she went upstairs to satisfy the longings of an overflow-meeting there, for the parlor was not big enough to hold all the comers.
-
+b=patsy-house-int
 
 Again she was besieged by eager questioners and again she swam in sunset seas of glory.
 
@@ -1460,10 +1460,10 @@ If the twins could but do some crowning act, now, to climax it, something unusua
 e:rowena=thinking
 
 Here a prodigious slam-banging broke out below, and everybody rushed down to see.
-e:rowena=surprised
+e:rowena=surprised;b=light
 
 It was the twins knocking out a classic four-handed piece on the piano, in great style.
-e:luigi=happy;e:angelo=happy
+e:luigi=happy;e:angelo=happy;b=piano-duet
 
 Rowena was satisfied—satisfied down to the bottom of her heart.
 e:rowena=happy
@@ -1484,7 +1484,7 @@ r=title
 b=calendar
 
 The company broke up reluctantly, and drifted toward their several homes, chatting with vivacity, and all agreeing that it would be many a long day before Dawson’s Landing would see the equal of this one again.
-
+b=dawson-street
 
 The twins had accepted several invitations while the reception was in progress, and had also volunteered to play some duets at an amateur entertainment for the benefit of a local charity.
 
@@ -1493,10 +1493,10 @@ Society was eager to receive them to its bosom. Judge Driscoll had the good fort
 e:york=happy
 
 They entered his buggy with him, and were paraded down the main street, everybody flocking to the windows and sidewalks to see.
-
+b=dawson-main
 
 The Judge showed the strangers the new graveyard, and the jail, and where the richest man lived, and the Freemasons’ hall, and the Methodist church, and the Presbyterian church, and where the Baptist church was going to be when they got some money to build it with, and showed them the town hall and the slaughterhouse, and got out the independent fire company in uniform and had them put out an imaginary fire; then he let them inspect the muskets of the militia company, and poured out an exhaustless stream of enthusiasm over all these splendors, and seemed very well satisfied with the responses he got, for the twins admired his admiration, and paid him back the best they could, though they could have done better if some fifteen or sixteen hundred thousand previous experiences of this sort in various countries had not already rubbed off a considerable part of the novelty of it.
-e:york=excited
+e:york=excited;b=dawson-wide
 
 The Judge laid himself out hospitably to make them have a good time, and if there was a defect anywhere it was not his fault.
 e:york=happy
@@ -1514,34 +1514,34 @@ He would call for the brothers in the evening if they would like to attend a mee
 
 
 Accordingly he called for them, and on the way he told them all about Pudd’nhead Wilson, in order that they might get a favorable impression of him in advance and be prepared to like him.
-e:york=neutral
+e:york=neutral;b=light;c=wilson
 
 This scheme succeeded—the favorable impression was achieved.
-
+c=
 
 Later it was confirmed and solidified when Wilson proposed that out of courtesy to the strangers the usual topics be put aside and the hour be devoted to conversation upon ordinary subjects and the cultivation of friendly relations and good-fellowship—a proposition which was put to vote and carried.
-e:wilson=happy
+e:wilson=happy;c=wilson
 
 The hour passed quickly away in lively talk, and when it was ended the lonesome and neglected Wilson was richer by two friends than he had been when it began.
-
+c=
 
 He invited the twins to look in at his lodgings, presently, after disposing of an intervening engagement, and they accepted with pleasure.
 
 
 Toward the middle of the evening they found themselves on the road to his house.
-
+b=wilson-house-ext
 
 Pudd’nhead was at home waiting for them and putting in his time puzzling over a thing which had come under his notice that morning.
-e:wilson=thinking
+e:wilson=thinking;b=wilson-house-int;c=wilson
 
 The matter was this: He happened to be up very early—at dawn, in fact; and he crossed the hall which divided his cottage through the center, and entered a room to get something there.
 
 
 The window of the room had no curtains, for that side of the house had long been unoccupied, and through this window he caught sight of something which surprised and interested him.
-e:wilson=surprised
+e:wilson=surprised;c=
 
 It was a young woman—a young woman where properly no young woman belonged; for she was in Judge Driscoll’s house, and in the bedroom over the Judge’s private study or sitting-room.
-
+b=wilson-house-woman-window
 
 This was young Tom Driscoll’s bedroom. He and the Judge, the Judge’s widowed sister Mrs. Pratt and three Negro servants were the only people who belonged in the house.
 
@@ -1565,16 +1565,16 @@ Wilson had quickly chosen a position from which he could watch the girl without 
 
 
 But she disappointed him. After a matter of twenty minutes she disappeared, and although he stayed at his post half an hour longer, she came no more.
-e:wilson=unhappy
+e:wilson=unhappy;b=wilson-house-window
 
 Toward noon he dropped in at the Judge’s and talked with Mrs. Pratt about the great event of the day, the levee of the distinguished foreigners at Aunt Patsy Cooper’s.
-e:wilson=neutral
+e:wilson=neutral;b=york-house-int
 
 He asked after her nephew Tom, and she said he was on his way home, and that she was expecting him to arrive a little before night; and added that she and the Judge were gratified to gather from his letters that he was conducting himself very nicely and creditably—at which Wilson winked to himself privately.
 e:wilson=smirking
 
 Wilson did not ask if there was a newcomer in the house, but he asked questions that would have brought light-throwing answers as to that matter if Mrs. Pratt had had any light to throw; so he went away satisfied that he knew of things that were going on in her house of which she herself was not aware.
-e:wilson=neutral
+e:wilson=neutral;b=think
 
 He was now waiting for the twins, and still puzzling over the problem of who that girl might be, and how she happened to be in that young fellow’s room at daybreak in the morning.
 e:wilson=thinking
