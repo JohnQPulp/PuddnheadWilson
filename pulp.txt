@@ -1,4 +1,4 @@
-*Pudd’nhead Wilson* by Mark Twain
+*Pudd’nhead Wilson* by Mark Twain<e>Normally the editor's notes are where I quip about the current book and author. However, Twain is of course impossible to out-quip. Therefore, the editor's notes for this book will be dedicated to making fun of <i>other</i> authors instead, via example of Twain doing well what they all fail at.</e>
 n:twain=;t=twain
 
 ## A Whisper to the Reader<e>…By Mark Twain. Not me, the editor. Only the text following "Editor's Note:" is by me, the editor.</e>
@@ -25,7 +25,7 @@ Mark Twain.
 ## I. Pudd’nhead Wins His Name
 t=;r=title
 
-<i>Tell the truth or trump﻿—but get the trick.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
+<i>Tell the truth or trump﻿—but get the trick.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Art of the deal.</e>
 
 
 The scene of this chronicle is the town of Dawson’s Landing, on the Missouri side of the Mississippi, half a day’s journey, per steamboat, below St. Louis.
@@ -232,7 +232,7 @@ The nickname soon ceased to carry any harsh or unfriendly feeling with it, but i
 ## II. Driscoll Spares His Slaves
 r=title
 
-<i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
+<i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Twain using this book as a dumping ground for the quips that didn't make the <book>Extracts from Adam's Diary</book> cut. Showing that even his leftover quips are iconic.</e>
 
 
 Pudd’nhead Wilson had a trifle of money when he arrived, and he bought a small house on the extreme western verge of the town.
@@ -322,8 +322,11 @@ s=roxana;e:roxana=happy
 “Oh, I’s middlin’; hain’t got noth’n’ to complain of. I’s gwine to come a-court’n’ you bimeby, Roxy.”
 s=jasper;e:jasper=smirking
 
-“*You* is, you black mudcat! Yah﻿—yah﻿—yah! I got somep’n’ better to do den ’sociat’n’ wid niggers as black as you is. Is ole Miss Cooper’s Nancy done give you de mitten?”
+“*You* is, you black mudcat! Yah﻿—yah﻿—yah! I got somep’n’ better to do den ’sociat’n’ wid niggers as black as you is.”<e>I'll just do a quick Ctrl+F here and… 75 hits. Seems low if anything for a Twain novel.</e>
 s=roxana;e:roxana=smirking
+
+“Is ole Miss Cooper’s Nancy done give you de mitten?”
+
 
 Roxy followed this sally with another discharge of carefree laughter.
 s=none;e:roxana=happy
@@ -649,7 +652,10 @@ s=roxana;e:roxana=happy
 She propped the child in a chair and stood off to inspect it.
 s=none
 
-Straightway her eyes began to widen with astonishment and admiration, and she clapped her hands and cried out, “Why, it do beat all!—I *never* knowed you was so lovely.”
+Straightway her eyes began to widen with astonishment and admiration, and she clapped her hands and cried out,
+
+
+“Why, it do beat all!—I *never* knowed you was so lovely.”
 e:roxana=excited;s=roxana
 
 “Marse Tommy ain’t a bit puttier—not a single bit.”
@@ -661,7 +667,10 @@ s=none;e:roxana=neutral
 Now a strange light dawned in her eyes, and in a moment she was lost in thought.
 e:roxana=thinking
 
-She seemed in a trance; when she came out of it she muttered, “When I ’uz a-washin’ ’em in de tub, yistiddy, his own pappy asked me which of ’em was his’n.”
+She seemed in a trance; when she came out of it she muttered,
+
+
+“When I ’uz a-washin’ ’em in de tub, yistiddy, his own pappy asked me which of ’em was his’n.”<e>Reminds me of <book>Rabbit, Run</book>.</e>
 s=roxana
 
 She began to move about like one in a dream.
@@ -688,7 +697,7 @@ s=none
 “You’s young Marse *Tom* fum dis out, en I got to practise and git used to ’memberin’ to call you dat, honey, or I’s gwine to make a mistake some time en git us bofe into trouble.”
 s=roxana
 
-“Dah—now you lay still en don’t fret no mo’, Marse Tom—oh, thank de good Lord in heaven, you’s saved, you’s saved!—dey ain’t no man kin ever sell mammy’s po’ little honey down de river now!”
+“Dah—now you lay still en don’t fret no mo’, Marse Tom—oh, thank de good Lord in heaven, you’s saved, you’s saved!—dey ain’t no man kin ever sell mammy’s po’ little honey down de river now!”<e>Based Twain writing <book>Prince and the Pauper|the same book</book> twice.</e>
 e:roxana=happy
 
 She put the heir of the house in her own child’s unpainted pine cradle, and said, contemplating its slumbering form uneasily—
@@ -820,7 +829,7 @@ r=title
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
-<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
+<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I had to look it up: 2 Kings 2:23-25. (But I'd look up any reference for you, Twain!)</e>
 
 
 This history must henceforth accommodate itself to the change which Roxana has consummated, and call the real heir “Chambers” and the usurping little slave “Thomas à Becket”﻿—shortening this latter name to “Tom,” for daily use, as the people about him did.
@@ -907,7 +916,7 @@ Chambers was strong beyond his years, and a good fighter; strong because he was 
 Chambers was his constant bodyguard, to and from school; he was present on the playground at recess to protect his charge.
 e:chambers=serious
 
-He fought himself into such a formidable reputation, by and by, that Tom could have changed clothes with him, and “ridden in peace,” like Sir Kay in Launcelot’s armor.
+He fought himself into such a formidable reputation, by and by, that Tom could have changed clothes with him, and “ridden in peace,” like Sir Kay in Launcelot’s armor.<e>Take note: Steinbeck. It is possible to make Arthurian references without fully derailing your book.</e>
 
 
 He was good at games of skill, too. Tom staked him with marbles to play “keeps” with, and then took all the winnings away from him.
@@ -1156,7 +1165,7 @@ Or rather, that was one of the reasons why it failed, but there was another and 
 If the Judge had stopped with bare assertion, it would have had a good deal of effect; but he made the mistake of trying to prove his position.
 e:york=thinking
 
-For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.
+For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.<e>Twain's so good he can get away with calling out how great his own quips are.</e>
 e:wilson=thinking;e:york=happy
 
 But irony was not for those people; their mental vision was not focused for it.
@@ -1432,7 +1441,7 @@ s=none
 Eager inquiries concerning the twins were pouring into their enchanted ears all the time; each was the constant center of a group of breathless listeners; each recognized that she knew now for the first time the real meaning of that great word Glory, and perceived the stupendous value of it, and understood why men in all ages had been willing to throw away meaner happinesses, treasure, life itself, to get a taste of its sublime and supreme joy.
 e:rowena=excited
 
-Napoleon and all his kind stood accounted for—and justified.
+Napoleon and all his kind stood accounted for—and justified.<e>Look, a philisophical aside about Napoleon that's funny and doesn't take 50 fucking pages. You see how it's done, <book>War and Peace|Tolstoy</book>?</e>
 
 
 When Rowena had at last done all her duty by the people in the parlor, she went upstairs to satisfy the longings of an overflow-meeting there, for the parlor was not big enough to hold all the comers.
@@ -1612,7 +1621,10 @@ When the boat touched the levee at New Orleans she bade goodbye to her comrades 
 But she was back in a hour. The bank had gone to smash and carried her four hundred dollars with it.
 e:roxana=surprised
 
-She was a pauper, and homeless. Also disabled bodily, at least for the present.
+She was a pauper, and homeless.<e>Twain loves the word "pauper" almost as much as—</e>
+
+
+Also disabled bodily, at least for the present.
 e:roxana=unhappy
 
 The officers were full of sympathy for her in her trouble, and made up a little purse for her.
@@ -2515,10 +2527,10 @@ e:wilson=thinking
 ## XI. Pudd’nhead’s Startling Discovery
 r=title
 
-<i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
+<i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You should see the new book Mark Twain's writing.</e>
 
 
-<i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
+<i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Take that, Updike!</e>
 
 
 The twins arrived presently, and talk began. It flowed along chattily and sociably, and under its influence the new friendship gathered ease and strength.
@@ -2998,7 +3010,7 @@ s=tom
 The descriptive aptness of the phrase caught the house, and a mighty burst of laughter followed.
 s=none
 
-Luigi’s southern blood leaped to the boiling-point in a moment under the sharp humiliation of this insult delivered in the presence of four hundred strangers. It was not in the young man’s nature to let the matter pass, or to delay the squaring of the account.
+Luigi’s southern blood leaped to the boiling-point in a moment under the sharp humiliation of this insult delivered in the presence of four hundred strangers. It was not in the young man’s nature to let the matter pass, or to delay the squaring of the account.<e>Luigi no! Not again!</e>
 e:luigi=angry
 
 He took a couple of strides and halted behind the unsuspecting joker.
@@ -4414,7 +4426,7 @@ s=roxana
 Tom went aboard one of the big transient boats that night with his heavy satchel of miscellaneous plunder, and slept the sleep of the unjust, which is serener and sounder than the other kind, as we know by the hanging-eve history of a million rascals.
 s=none;e:tom=neutral
 
-But when he got up in the morning, luck was against him again: A brother-thief had robbed him while he slept, and gone ashore at some intermediate landing.
+But when he got up in the morning, luck was against him again: A brother-thief had robbed him while he slept, and gone ashore at some intermediate landing.<e>Twain spoiling in the chapter title what happens only in the very last sentence of the chapter. Based.</e>
 e:tom=unhappy
 
 ## XVI. Sold Down the River
@@ -6361,7 +6373,7 @@ The poor fellow could not endure the terrors of the white man’s parlor, and fe
 The family pew was a misery to him, yet he could nevermore enter into the solacing refuge of the “nigger gallery”—that was closed to him for good and all.
 
 
-But we cannot follow his curious fate further—that would be a long story.
+But we cannot follow his curious fate further—that would be a long story.<e>See how it's possible to end a story, Updike?</e>
 
 
 The false heir made a full confession and was sentenced to imprisonment for life. But now a complication came up.
@@ -6379,5 +6391,5 @@ They rightly claimed that “Tom” was lawfully their property and had been so 
 Everybody saw that there was reason in this. Everybody granted that if “Tom” were white and free it would be unquestionably right to punish him—it would be no loss to anybody; but to shut up a valuable slave for life—that was quite another matter.
 
 
-As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.
+As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e>The End and Get Fucked lmao.</e>
 
