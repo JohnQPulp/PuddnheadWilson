@@ -821,7 +821,7 @@ e:roxana=happy
 r=title
 
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I had to look it up: 2 Kings 2:23-25. (But I'd look up any reference for you, Twain!)</e>
 
@@ -1070,7 +1070,7 @@ s=wilson;e:wilson=thinking
 s=none;r=title
 
 <i>Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>Remark of Dr. Baldwin’s, concerning upstarts: We don’t care to eat toadstools that think they are truffles.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -1280,7 +1280,7 @@ One was a little fairer than the other, but otherwise they were exact duplicates
 r=title
 
 <i>Let us endeavor so to live that when we come to die even the undertaker will be sorry.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -1475,7 +1475,7 @@ They realized that for once in their lives they were hearing masters.
 r=title
 
 <i>One of the most striking differences between a cat and a lie is that a cat has only nine lives.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 The company broke up reluctantly, and drifted toward their several homes, chatting with vivacity, and all agreeing that it would be many a long day before Dawson’s Landing would see the equal of this one again.
 
@@ -1577,7 +1577,7 @@ e:wilson=thinking
 r=title
 
 <i>The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>Consider well the proportions of things. It is better to be a young June-bug than an old bird of paradise.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -2036,7 +2036,7 @@ s=none
 r=title
 
 <i>Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>It is easy to find fault, if one has that disposition. There was once a man who, not being able to find any other fault with his coal, complained that there were too many prehistoric toads in it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -2330,7 +2330,7 @@ e:roxana=neutral
 r=title
 
 <i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -2522,7 +2522,7 @@ e:wilson=thinking
 r=title
 
 <i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You should read the new book Mark Twain's writing now.</e>
-
+b=calendar
 
 <i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Take that, Updike!</e>
 
@@ -3053,7 +3053,7 @@ Such citizens of that village as were of a thoughtful and judicious temperament 
 r=title
 
 <i>Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 Judge Driscoll was in bed and asleep by ten o’clock on Friday night, and he was up and gone a-fishing before daylight in the morning with his friend Pembroke Howard.
 
@@ -3290,7 +3290,7 @@ e:tom=thinking
 r=title
 
 <i>When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -3587,7 +3587,7 @@ e:wilson=happy
 r=title
 
 <i>The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 About the time that Wilson was bowing the committee out, Pembroke Howard was entering the next house to report.
 
@@ -4022,7 +4022,7 @@ s=roxana
 r=title
 
 <i>Nothing so needs reforming as other people’s habits.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>Behold, the fool saith, “Put not all thine eggs in the one basket”﻿—which is but a manner of saying, “Scatter your money and your attention;” but the wise man saith, “Put all your eggs in the one basket and﻿—**watch that basket.**”</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -4427,7 +4427,7 @@ e:tom=unhappy
 r=title
 
 <i>If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>We know all about the habits of the ant, we know all about the habits of the bee, but we know nothing at all about the habits of the oyster. It seems almost certain that we have been choosing the wrong time for studying the oyster.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -4580,7 +4580,7 @@ s=roxana
 r=title
 
 <i>Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>*July 4*. Statistics show that we lose more fools on this day than in all the other days of the year put together. This proves, by the number left in stock, that one Fourth of July per year is now inadequate, the country has grown so.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -4658,7 +4658,7 @@ They avoided the people, and went out for exercise only late at night, when the 
 r=title
 
 <i>Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>*Thanksgiving Day*. Let all give humble, hearty, and sincere thanks, now, but the turkeys. In the island of Fiji they do not use turkeys; they use plumbers. It does not become you and me to sneer at Fiji.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -5135,7 +5135,7 @@ e:tom=serious
 r=title
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>It were not best that we should all think alike; it is difference of opinion that makes horse-races.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -5537,7 +5537,7 @@ e:rachel=happy
 r=title
 
 <i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 The weeks dragged along, no friend visiting the jailed twins but their counsel and Aunt Patsy Cooper, and the day of trial came at last—the heaviest day in Wilson’s life; for with all his tireless diligence he had discovered no sign or trace of the missing confederate.
 
@@ -5819,7 +5819,7 @@ s=wilson
 r=title
 
 <i>He is useless on top of the ground; he ought to be under it, inspiring the cabbages.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>*April 1.* This is the day upon which we are reminded of what we are on the other three hundred and sixty-four.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
@@ -6317,7 +6317,7 @@ The court rose; the new prisoner, handcuffed, was removed.
 r=title
 
 <i>It is often the case that the man who can’t tell a lie thinks he is the best judge of one.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+b=calendar
 
 <i>*October 12, the Discovery*. It was wonderful to find America, but it would have been more wonderful to miss it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
