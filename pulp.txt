@@ -2938,11 +2938,11 @@ c=
 Luigi accepted the invitation cordially, Angelo less cordially, since he disliked crowds, and did not drink the powerful intoxicants of America.
 e:luigi=happy;e:angelo=weary;c=luigi,angelo
 
-In fact, he was even a teetotaler sometimes—when it was judicious to be one.
-
+In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e>As stupid as these sprites for the twins might be, this is as good a time as any to mention how in Twain's original version of twins, they were conjoined. The concept for this book eventually spiraled out into its own story, so Twain cut out the goofy conjoined part. However, he kept it for a shorter spinoff novella, <book>Those Extraordinary Twins</book>, which was packaged up with this book, illustrated by the same two guys, giving us some more great <book>Alice in Wonderland</book>-type knockoff art.</e>
+o=margin20
 
 The twins left with Buckstone, and Tom Driscoll joined company with them uninvited.
-e:tom=neutral;c=
+e:tom=neutral;c=;o=
 
 In the distance one could see a long wavering line of torches drifting down the main street, and could hear the throbbing of the bass drum, the clash of cymbals, the squeaking of a fife or two, and the faint roar of remote hurrahs.
 b=think
@@ -6052,7 +6052,7 @@ s=wilson
 “If you will look at the balls of your fingers—you that have very sharp eyesight—you will observe that these dainty curving lines lie close together, like those that indicate the borders of oceans in maps, and that they form various clearly defined patterns, such as arches, circles, long curves, whorls, etc., and that these patterns differ on the different fingers.”
 e:wilson=smirking
 
-[Every man in the room had his hand up to the light, now, and his head canted to one side, and was minutely scrutinizing the balls of his fingers; there were whispered ejaculations of ‘Why, it’s so—I never noticed that before!’]
+[Every man in the room had his hand up to the light, now, and his head canted to one side, and was minutely scrutinizing the balls of his fingers; there were whispered ejaculations of ‘Why, it’s so—I never noticed that before!’]<e>As the reader, you may be wondering why everyone except Wilson appears to be retarded in this final chapter. But the uniqueness of fingerprints actually wasn't known until the 1890s (somehow). So with this set in 1850 or so, Twain's portrayal of their reaction is period-accurate.</e>
 s=none
 
 “The patterns on the right hand are not the same as those on the left.”
@@ -6364,11 +6364,11 @@ s=none
 The court rose; the new prisoner, handcuffed, was removed.
 
 
-## Conclusion
-r=title
+## Conclusion<e>And <i>that</i> is how you write a courtroom ending to your book: quick, fun, and cathartic. Suck on it, <book>Brothers Karamazov</book>, with your hundred pages of tedious philosophizing.</e>
+r=title;t=twain
 
 <i>It is often the case that the man who can’t tell a lie thinks he is the best judge of one.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-b=calendar
+b=calendar;t=
 
 <i>*October 12, the Discovery*. It was wonderful to find America, but it would have been more wonderful to miss it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
