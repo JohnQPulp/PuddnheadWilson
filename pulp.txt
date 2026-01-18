@@ -4739,7 +4739,7 @@ He tried to order the man out, but the words refused to come, and the other man 
 c=
 
 “Keep still—I’s yo’ mother!”<e>Yep. She's in blackface. And I really need to note get my image generator account banned, so: original illustrations, take it away!</e>
-s=roxana;a:roxana=black;o=margin13
+s=roxana;x:roxana=black;o=margin13
 
 Tom sunk in a heap on a chair, and gasped out—
 s=none;c=
@@ -5189,7 +5189,7 @@ e:tom=weary
 e:tom=serious
 
 ## XIX. The Prophecy Realized<e>Twain making this VN as difficult to compile as possible. But at least that's over.</e>
-r=title;a:roxana=old;t=twain;e:twain=two
+r=title;t=twain;e:twain=two
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
@@ -5291,7 +5291,7 @@ Tom Driscoll had landed at Hackett’s Store, two miles below Dawson’s, just a
 b=light
 
 He pulled down his window-blinds and lighted his candle.
-e:tom=serious;b=york-house-room;a:roxana=old
+e:tom=serious;b=york-house-room
 
 He laid off his coat and hat and began his preparations.
 
@@ -5381,7 +5381,7 @@ By the time he was passing through the backyard, Mrs. Pratt, her servants, and a
 e:rachel=fearful;c=luigi,angelo,,,rachel
 
 As Tom, quaking as with a palsy, passed out at the gate, three women came flying from the house on the opposite side of the lane.
-b=york-house-ext;f:b:york-house-ext=brightness(85%);a:tom=blackgirl
+b=york-house-ext;f:b:york-house-ext=brightness(85%);x:tom=girl,black
 
 They rushed by him and in at the gate, asking him what the trouble was there, but not waiting for an answer.
 c=
@@ -5390,7 +5390,7 @@ Tom said to himself, “Those old maids waited to dress—they did the same thin
 s=tom;e:tom=smirking
 
 In a few minutes he was in the haunted house. He lighted a candle and took off his girl-clothes.
-s=;e:tom=serious;a:tom=19;b=haunted-int
+s=;e:tom=serious;x:tom=;b=haunted-int
 
 There was blood on him all down his left side, and his right hand was red with the stains of the blood-soaked notes which he had crushed in it; but otherwise he was free from this sort of evidence.
 
