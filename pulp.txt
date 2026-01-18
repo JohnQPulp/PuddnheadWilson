@@ -2837,7 +2837,7 @@ He took a sheet of paper and made a rapid sketch.
 s=none;c=
 
 “There it is—a broad and murderous blade, with edges like a razor for sharpness. The devices engraved on it are the ciphers or names of its long line of possessors—I had Luigi’s name added in Roman letters myself with our coat of arms, as you see.”
-s=angelo;e:angelo=thinking;o=dagger
+s=angelo;e:angelo=thinking;o=dagger-drawing
 
 “You notice what a curious handle the thing has. It is solid ivory, polished like a mirror, and is four or five inches long—round, and as thick as a large man’s wrist, with the end squared off flat, for your thumb to rest on; for you grasp it, with your thumb resting on the blunt end—so—and lift it aloft and strike downward.”
 e:angelo=
@@ -3626,7 +3626,7 @@ r=title
 b=calendar
 
 About the time that Wilson was bowing the committee out, Pembroke Howard was entering the next house to report.
-
+b=york-house-int
 
 He found the old Judge sitting grim and straight in his chair, waiting.
 e:york=serious
@@ -3662,13 +3662,13 @@ Judge Driscoll began to walk the floor in a state of pleased excitement; but pre
 s=none;e:york=thinking
 
 Twice he moved toward the secretary, and twice he turned away again; but finally he said—
-
+b=york-house-secretary
 
 “This may be my last night in the world—I must not take the chance. He is worthless and unworthy, but it is largely my fault. He was entrusted to me by my brother on his dying bed, and I have indulged him to his hurt, instead of training him up severely, and making a man of him.”
-s=york;e:york=serious
+s=york;e:york=thinking
 
 “I have violated my trust, and I must not add the sin of desertion to that. I have forgiven him once already, and would subject him to a long and hard trial before forgiving him again, if I could live; but I must not run that risk.”
-
+e:york=serious
 
 “No, I must restore the will. But if I survive the duel, I will hide it away, and he will not know, and I will not tell him until he reforms, and I see that his reformation is going to be permanent.”
 e:york=thinking
@@ -3677,7 +3677,7 @@ He re-drew the will, and his ostensible nephew was heir to a fortune again.
 s=none
 
 As he was finishing his task, Tom, wearied with another brooding tramp, entered the house and went tiptoeing past the sitting-room door.
-e:tom=weary
+e:tom=weary;b=york-house-hall
 
 He glanced in, and hurried on, for the sight of his uncle had nothing but terrors for him tonight.
 e:tom=fearful
@@ -3707,7 +3707,7 @@ s=pembroke
 s=york;e:york=serious
 
 “Bright as day, nearly. Perfect, for the distance—fifteen yards. No wind—not a breath; hot and still.”
-s=pembroke
+s=pembroke;e:pembroke=
 
 “All good; all first-rate. Here, Pembroke, read this, and witness it.”
 s=york
@@ -3716,31 +3716,31 @@ Pembroke read and witnessed the will, then gave the old man’s hand a hearty sh
 s=none
 
 “Now that’s right, York—but I knew you would do it. You couldn’t leave that poor chap to fight along without means or profession, with certain defeat before him, and I knew you wouldn’t, for his father’s sake if not for his own.”
-s=pembroke
+s=pembroke;e:pembroke=happy
 
 “For his dead father’s sake I couldn’t, I know; for poor Percy—but you know what Percy was to me. But mind—Tom is not to know of this unless I fall tonight.”
-s=york
+s=york;e:york=
 
 “I understand. I’ll keep the secret.”
-s=pembroke
+s=pembroke;e:pembroke=
 
 The Judge put the will away, and the two started for the battleground.
-s=none
+s=none;b=light
 
 In another minute the will was in Tom’s hands. His misery vanished, his feelings underwent a tremendous revulsion.
-e:tom=surprised
+e:tom=surprised;b=york-house-secretary
 
 He put the will carefully back in its place, and spread his mouth and swung his hat once, twice, three times around his head, in imitation of three rousing huzzas, no sound issuing from his lips.
 e:tom=excited
 
-He fell to communing with himself excitedly and joyously, but every now and then he let off another volley of dumb hurrahs.
-
+He fell to communing with himself excitedly and joyously, but every now and then he let off another volley of dumb hurrahs.<e>Twain actively editorializing his own characters.</e>
+t=twain;e:twain=three
 
 He said to himself: “I’ve got the fortune again, but I’ll not let on that I know about it. And this time I’m going to hang on to it. I take no more risks. I’ll gamble no more, I’ll drink no more, because—well, because I’ll not go where there is any of that sort of thing going on, again.”
-s=tom
+s=tom;t=;e:tom=thinking
 
 “It’s the sure way, and the only sure way; I might have thought of that sooner—well, yes, if I had wanted to. But now—dear me, I’ve had a scare this time, and I’ll take no more chances. Not a single chance more. Land! I persuaded myself this evening that I could fetch him around without any great amount of effort, but I’ve been getting more and more heavyhearted and doubtful straight along, ever since.”
-
+e:tom=
 
 “If he tells me about this thing, all right; but if he doesn’t, I shan’t let on. I—well, I’d like to tell Pudd’nhead Wilson, but—no, I’ll think about that; perhaps I won’t.”
 e:tom=thinking
@@ -3749,16 +3749,16 @@ He whirled off another dead huzza, and said,
 s=
 
 “I’m reformed, and this time I’ll stay so, sure!”
-s=tom;t=none
+s=tom;t=none;e:tom=excited
 
 He was about to close with a final grand silent demonstration, when he suddenly recollected that Wilson had put it out of his power to pawn or sell the Indian knife, and that he was once more in awful peril of exposure by his creditors for that reason.
 s=none;e:tom=surprised
 
 His joy collapsed utterly, and he turned away and moped toward the door moaning and lamenting over the bitterness of his luck.
-e:tom=unhappy
+e:tom=unhappy;b=york-house-hall
 
 He dragged himself upstairs, and brooded in his room a long time disconsolate and forlorn, with Luigi’s Indian knife for a text.
-
+b=york-house-bedroom
 
 At last he sighed and said:
 
@@ -3769,17 +3769,20 @@ s=tom
 “It’s a bag of gold that has turned to dirt and ashes in my hands. It could save me, and save me so easily, and yet I’ve got to go to ruin.”
 e:tom=serious
 
-“It’s like drowning with a life-preserver in my reach. All the hard luck comes to me, and all the good luck goes to other people—Pudd’nhead Wilson, for instance; even his career has got a sort of a little start at last, and what has he done to deserve it, I should like to know? Yes, he has opened his own road, but he isn’t content with that, but must block mine. It’s a sordid, selfish world, and I wish I was out of it.”
+“It’s like drowning with a life-preserver in my reach. All the hard luck comes to me, and all the good luck goes to other people—Pudd’nhead Wilson, for instance; even his career has got a sort of a little start at last, and what has he done to deserve it, I should like to know?”
+e:tom=wary
+
+“Yes, he has opened his own road, but he isn’t content with that, but must block mine. It’s a sordid, selfish world, and I wish I was out of it.”
 e:tom=unhappy
 
 He allowed the light of the candle to play upon the jewels of the sheath, but the flashings and sparklings had no charm for his eye; they were only just so many pangs to his heart.
-s=none
+s=none;o=dagger
 
 “I must not say anything to Roxy about this thing,” he said, “she is too daring. She would be for digging these stones out and selling them, and then—why, she would be arrested and the stones traced, and then—”
 s=tom;e:tom=wary
 
 The thought made him quake, and he hid the knife away, trembling all over and glancing furtively about, like a criminal who fancies that the accuser is already at hand.
-s=none;e:tom=fearful
+s=none;e:tom=fearful;o=
 
 Should he try to sleep? Oh, no, sleep was not for him; his trouble was too haunting, too afflicting for that. He must have somebody to mourn with.
 e:tom=unhappy
@@ -3791,16 +3794,16 @@ He had heard several distant gunshots, but that sort of thing was not uncommon, 
 
 
 He went out at the back door, and turned westward.
-
+b=dark
 
 He passed Wilson’s house and proceeded along the lane, and presently saw several figures approaching Wilson’s place through the vacant lots.
-
+b=wilson-house-ext;f:b:wilson-house-ext=brightness(85%)
 
 These were the duelists returning from the fight; he thought he recognized them, but as he had no desire for white people’s company, he stooped down behind the fence until they were out of his way.
 e:tom=wary
 
 Roxy was feeling fine. She said:
-e:roxana=happy
+e:roxana=;b=haunted-int
 
 “Whah was you, child? Warn’t you in it?”
 s=roxana
@@ -3820,7 +3823,7 @@ s=roxana
 “Great Scott!”
 s=tom
 
-Then he added to himself: “That’s what made him remake the will; he thought he might get killed, and it softened him toward me. And that’s what he and Howard were so busy about.… Oh dear, if the twin had only killed him, I should be out of my—”
+Then he added to himself: “That’s what made him remake the will; he thought he might get killed, and it softened him toward me. And that’s what he and Howard were so busy about… Oh dear, if the twin had only killed him, I should be out of my—”
 e:tom=thinking
 
 “What is you mumblin’ bout, Chambers? Whah was you? Didn’t you know dey was gwyne to be a duel?”
@@ -3848,28 +3851,34 @@ e:roxana=scowling
 e:roxana=angry
 
 The last three sentences stung Tom into a fury, and he said to himself that if his father were only alive and in reach of assassination his mother would soon find that he had a very clear notion of the size of his indebtedness to that man, and was willing to pay it up in full, and would do it too, even at risk of his life; but he kept this thought to himself; that was safest in his mother’s present state.
-s=none;e:tom=angry
+s=none;e:tom=angry;c=tom
 
 “Whatever has come o’ yo’ Essex blood? Dat’s what I can’t understan’. En it ain’t on’y jist Essex blood dat’s in you, not by a long sight—’deed it ain’t!”
 s=roxana
 
-“My great-great-great-gran’father en yo’ great-great-great-great-gran’father was Ole Cap’n John Smith, de highest blood dat Ole Virginny ever turned out, en *his* great-great-gran’mother or somers along back dah, was Pocahontas de Injun queen, en her husbun’ was a nigger king outen Africa—en yit here you is, a slinkin’ outen a duel en disgracin’ our whole line like a ornery low-down hound! Yes, it’s de nigger in you!”
+“My great-great-great-gran’father en yo’ great-great-great-great-gran’father was Ole Cap’n John Smith, de highest blood dat Ole Virginny ever turned out, en *his* great-great-gran’mother or somers along back dah, was Pocahontas de Injun queen, en her husbun’ was a nigger king outen Africa—en yit here you is, a slinkin’ outen a duel en disgracin’ our whole line like a ornery low-down hound!”
+e:roxana=scowling
 
+“Yes, it’s de nigger in you!”
+e:roxana=angry
 
-She sat down on her candle-box and fell into a reverie. Tom did not disturb her; he sometimes lacked prudence, but it was not in circumstances of this kind, Roxana’s storm went gradually down, but it died hard, and even when it seemed to be quite gone, it would now and then break out in a distant rumble, so to speak, in the form of muttered ejaculations.
-s=none;e:roxana=thinking
+She sat down on her candle-box and fell into a reverie.
+s=
+
+Tom did not disturb her; he sometimes lacked prudence, but it was not in circumstances of this kind, Roxana’s storm went gradually down, but it died hard, and even when it seemed to be quite gone, it would now and then break out in a distant rumble, so to speak, in the form of muttered ejaculations.
+s=none;e:roxana=thinking;e:tom=unhappy
 
 One of these was, “Ain’t nigger enough in him to show in his fingernails, en dat takes mighty little—yit dey’s enough to paint his soul.”
 s=roxana
 
 Presently she muttered.
-s=none
+s=none;e:tom=wary
 
 “Yassir, enough to paint a whole thimbleful of ’em.”
 s=roxana
 
 At last her ramblings ceased altogether, and her countenance began to clear—a welcome sign to Tom, who had learned her moods, and knew she was on the threshold of good-humor, now.
-s=none;e:roxana=neutral
+s=none;e:roxana=neutral;e:tom=
 
 He noticed that from time to time she unconsciously carried her finger to the end of her nose.
 
@@ -3878,7 +3887,7 @@ He looked closer and said:
 
 
 “Why, mammy, the end of your nose is skinned. How did that come?”
-s=tom;e:tom=confused
+s=tom;e:tom=
 
 She sent out the sort of wholehearted peal of laughter which God had vouchsafed in its perfection to none but the happy angels in heaven and the bruised and broken black slave on the earth, and said:
 s=none;e:roxana=happy
@@ -3896,7 +3905,7 @@ s=roxana
 s=tom
 
 “Happened dis-away. I ’uz a-sett’n’ here kinder dozin’ in de dark, en *che-bang*! goes a gun, right out dah.”
-s=roxana;e:roxana=excited
+s=roxana;e:roxana=excited;c=;b=duel
 
 “I skips along out towards t’other end o’ de house to see what’s gwyne on, en stops by de ole winder on de side towards Pudd’nhead Wilson’s house dat ain’t got no sash in it—but dey ain’t none of ’em got any sashes, fur as dat’s concerned—en I stood dah in de dark en look out, en dar in de moonlight, right down under me ’uz one o’ de twins a-cussin’—not much, but jist a-cussin’ soft—it ’uz de brown one dat ’uz cussin’, ’ca’se he ’uz hit in de shoulder.”
 
@@ -3908,7 +3917,7 @@ e:roxana=
 e:roxana=excited
 
 “Here’s de bullet; I hunted her up.”
-e:roxana=
+e:roxana=;b=haunted-int
 
 “Did you stand there all the time?”
 s=tom;e:tom=surprised
@@ -3938,16 +3947,16 @@ s=tom
 s=roxana;e:roxana=happy
 
 “De Jedge didn’t git hurt, but I hear Pudd’nhead say de bullet snip some o’ his ha’r off.”
-
+e:roxana=
 
 “’George!” said Tom to himself, “to come so near being out of my trouble, and miss it by an inch.”
-s=tom;e:tom=fearful
+s=;t=tom;e:tom=fearful
 
 “Oh dear, dear, he will live to find me out and sell me to some nigger-trader yet—yes, and he would do it in a minute.”
 
 
 Then he said aloud, in a grave tone—
-s=none
+t=none
 
 “Mother, we are in an awful fix.”
 s=tom;t=none;e:tom=serious
@@ -4018,17 +4027,20 @@ s=roxana
 “You’s gwyne to be safe—if you behaves.”
 
 
-She bent an austere eye on him and added, “En you *is* gwyne to behave—does you know dat?”
-e:roxana=serious
+She bent an austere eye on him and added,
+s=
+
+“En you *is* gwyne to behave—does you know dat?”
+s=roxana;e:roxana=serious
 
 He laughed and said he was going to try, anyway. She did not unbend. She said gravely:
 s=none;e:tom=happy;e:roxana=serious
 
 “Tryin’ ain’t de thing.”
-s=roxana;e:roxana=angry
+s=roxana;e:roxana=serious
 
 “You’s gwyne to *do* it. You ain’t gwyne to steal a pin—’ca’se it ain’t safe no mo’; en you ain’t gwyne into no bad comp’ny—not even once, you understand; en you ain’t gwyne to drink a drop—nary single drop; en you ain’t gwyne to gamble one single gamble—not one!”
-
+e:roxana=scowling
 
 “Dis ain’t what you’s gwyne to *try* to do, it’s what you’s gwyne to *do*. En I’ll tell you how I knows it. Dis is how.”
 e:roxana=serious
@@ -4049,7 +4061,7 @@ e:tom=serious;s=none
 s=tom
 
 “Permanently—and beyond the reach of any human temptation.”
-
+e:tom=weary
 
 “Den g’ long home en begin!”
 s=roxana
