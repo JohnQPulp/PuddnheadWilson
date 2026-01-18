@@ -5590,32 +5590,29 @@ e:rachel=happy;c=tom,rachel
 ## XX. The Murderer Chuckles
 r=title
 
-<i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-b=calendar
+<i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Heh heh… stupid women.</e>
+b=calendar;t=twain
 
 The weeks dragged along, no friend visiting the jailed twins but their counsel and Aunt Patsy Cooper, and the day of trial came at last—the heaviest day in Wilson’s life; for with all his tireless diligence he had discovered no sign or trace of the missing confederate.
-
+t=;b=wilson-house-int
 
 “Confederate” was the term he had long ago privately accepted for that person—not as being unquestionably the right term, but as being at least possibly the right one, though he was never able to understand why the twins did not vanish and escape, as the confederate had done, instead of remaining by the murdered man and getting caught there.
 e:wilson=thinking
 
 The courthouse was crowded, of course, and would remain so to the finish, for not only in the town itself, but in the country for miles around, the trial was the one topic of conversation among the people.
-
+b=court-judge
 
 Mrs. Pratt, in deep mourning, and Tom with a weed on his hat, had seats near Pembroke Howard, the public prosecutor, and back of them sat a great array of friends of the family.
-e:rachel=unhappy;e:tom=serious
+e:rachel=unhappy;e:tom=serious;b=light;a:rachel=mourning;a:tom=mourning;c=rachel,tom,pembroke
 
-The twins had but one friend present to keep their counsel in countenance, their poor old sorrowing landlady.
-e:patsy=unhappy
-
-She sat near Wilson, and looked her friendliest.
-e:patsy=happy
+The twins had but one friend present to keep their counsel in countenance, their poor old sorrowing landlady. She sat near Wilson, and looked her friendliest.
+c=luigi,angelo,wilson,patsy
 
 In the “nigger corner” sat Chambers; also Roxy, with good clothes on, and her bill of sale in her pocket.
-e:chambers=serious;e:roxana=serious
+e:chambers=serious;e:roxana=serious;c=chambers,roxana
 
 It was her most precious possession, and she never parted with it, day or night.
-
+c=
 
 Tom had allowed her thirty-five dollars a month ever since he came into his property, and had said that he and she ought to be grateful to the twins for making them rich; but had roused such a temper in her by this speech that he did not repeat the argument afterward.
 e:roxana=angry
@@ -5624,7 +5621,7 @@ She said the old Judge had treated her child a thousand times better than he des
 
 
 She was here to watch the trial, now, and was going to lift up just one “hooraw” over it if the County Judge put her in jail a year for it.
-e:roxana=excited
+e:roxana=excited;b=court-judge
 
 She gave her turbaned head a toss and said,
 
@@ -5633,7 +5630,7 @@ She gave her turbaned head a toss and said,
 s=roxana
 
 Pembroke Howard briefly sketched the State’s case.
-s=none;e:pembroke=serious
+s=none;e:pembroke=serious;b=court-prosecution
 
 He said he would show by a chain of circumstantial evidence without break or fault in it anywhere, that the principal prisoner at the bar committed the murder; that the motive was partly revenge, and partly a desire to take his own life out of jeopardy, and that his brother, by his presence, was a consenting accessory to the crime; a crime which was the basest known to the calendar of human misdeeds—assassination; that it was conceived by the blackest of hearts and consummated by the cowardliest of hands; a crime which had broken a loving sister’s heart, blighted the happiness of a young nephew who was as dear as a son, brought inconsolable grief to many friends, and sorrow and loss to the whole community.
 
@@ -5645,7 +5642,7 @@ He would reserve further remark until his closing speech.
 
 
 He was strongly moved, and so also was the whole house; Mrs. Pratt and several other women were weeping when he sat down, and many an eye that was full of hate was riveted upon the unhappy prisoners.
-e:rachel=crying;e:luigi=unhappy;e:angelo=unhappy
+e:rachel=crying;e:luigi=unhappy;e:angelo=unhappy;b=light
 
 Witness after witness was called by the State, and questioned at length; but the cross-questioning was brief.
 
@@ -5660,7 +5657,7 @@ This was not news, but now it was seen to have been sorrowfully prophetic, and a
 
 
 The public prosecutor rose and said that it was within his knowledge, through a conversation held with Judge Driscoll on the last day of his life, that counsel for the defense had brought him a challenge from the person charged at this bar with murder; that he had refused to fight with a confessed assassin—“that is, on the field of honor,” but had added significantly, that he would be ready for him elsewhere.
-e:pembroke=serious
+e:pembroke=serious;b=court-prosecution
 
 Presumably the person here charged with murder was warned that he must kill or be killed the first time he should meet Judge Driscoll.
 
@@ -5669,10 +5666,10 @@ If counsel for the defense chose to let the statement stand so, he would not cal
 
 
 Mr. Wilson said he would offer no denial. [Murmurs in the house—“It is getting worse and worse for Wilson’s case.”]
-e:wilson=serious
+e:wilson=serious;b=court-defense
 
 Mrs. Pratt testified that she heard no outcry, and did not know what woke her up, unless it was the sound of rapid footsteps approaching the front door.
-e:rachel=crying
+e:rachel=crying;b=court-witness-rachel
 
 She jumped up and ran out in the hall just as she was, and heard the footsteps flying up the front steps and then following behind her as she ran to the sitting-room.
 
@@ -5684,7 +5681,7 @@ Cross-examined by Wilson, she said the twins proclaimed their innocence; declare
 
 
 Confirmatory evidence followed from Rogers and Buckstone.
-
+b=light
 
 The finding of the knife was verified, the advertisement minutely describing it and offering a reward for it was put in evidence, and its exact correspondence with that description proved.
 
@@ -5693,13 +5690,13 @@ Then followed a few minor details, and the case for the State was closed.
 
 
 Wilson said that he had three witnesses, the Misses Clarkson, who would testify that they met a veiled young woman leaving Judge Driscoll’s premises by the back gate a few minutes after the cries for help were heard, and that their evidence, taken with certain circumstantial evidence which he would call the court’s attention to, would in his opinion convince the court that there was still one person concerned in this crime who had not yet been found, and also that a stay of proceedings ought to be granted, in justice to his clients, until that person should be discovered.
-e:wilson=serious
+e:wilson=serious;b=court-defense
 
 As it was late, he would ask leave to defer the examination of his three witnesses until the next morning.
 
 
 The crowd poured out of the place and went flocking away in excited groups and couples, talking the events of the session over with vivacity and consuming interest, and everybody seemed to have had a satisfactory and enjoyable day except the accused, their counsel, and their old-lady friend.
-
+b=court-ext
 
 There was no cheer among these, and no substantial hope.
 e:patsy=unhappy;e:luigi=unhappy;e:angelo=unhappy;e:wilson=unhappy
@@ -5726,7 +5723,7 @@ s=none
 s=tom;e:tom=happy
 
 “No more than a bird leaves when it flies through the air—yes, through the night, you may say.”
-
+e:tom=
 
 “The man that can track a bird through the air in the dark and find that bird is the man to track me out and find the Judge’s assassin—no other need apply. And that is the job that has been laid out for poor Pudd’nhead Wilson, of all people in the world!”
 e:tom=smirking
@@ -5747,7 +5744,7 @@ He made up his mind that it would be good entertainment to look in on Wilson tha
 e:tom=smirking
 
 Wilson wanted no supper, he had no appetite. He got out all the fingerprints of girls and women in his collection of records and pored gloomily over them an hour or more, trying to convince himself that that troublesome girl’s marks were there somewhere and had been overlooked.
-e:wilson=unhappy
+e:wilson=unhappy;b=wilson-house-int
 
 But it was not so. He drew back his chair, clasped his hands over his head, and gave himself up to dull and arid musings.
 
@@ -5762,7 +5759,7 @@ s=tom
 s=tom
 
 “Did you think you could win always?”
-s=tom
+s=tom;e:tom=smirking
 
 “Oh, no,” said Wilson, with a sigh, “I didn’t expect that, but I can’t believe Luigi killed your uncle, and I feel very sorry for him. It makes me blue. And you would feel as I do, Tom, if you were not prejudiced against those young fellows.”
 s=wilson;e:wilson=unhappy
@@ -5771,7 +5768,7 @@ s=wilson;e:wilson=unhappy
 s=tom;e:tom=serious
 
 He took up another strip of glass, and exclaimed—
-s=none;e:tom=surprised
+s=none;e:tom=surprised;o=strip
 
 “Why, here’s old Roxy’s label! Are you going to ornament the royal palaces with nigger paw-marks, too?”
 s=tom;e:tom=smirking
@@ -5780,7 +5777,7 @@ s=tom;e:tom=smirking
 e:tom=neutral
 
 “That is common,” said the bored man, wearily.
-s=wilson;e:wilson=weary
+s=wilson;e:wilson=weary;o=
 
 “Scar of a cut or a scratch, usually”—and he took the strip of glass indifferently, and raised it toward the lamp.
 s=wilson
@@ -5795,13 +5792,13 @@ Tom sprang for a glass of water and offered it, but Wilson shrank shuddering fro
 s=none;e:wilson=fearful
 
 “No, no!—take it away!”
-s=wilson
+s=wilson;c=
 
 His breast was rising and falling, and he moved his head about in a dull and wandering way, like a person who had been stunned.
 s=none
 
 Presently he said, “I shall feel better when I get to bed; I have been overwrought today; yes, and over worked for many days.”
-s=wilson;e:wilson=weary
+s=wilson;e:wilson=serious
 
 “Then I’ll leave you and let you to get to your rest. Good night, old man.”
 s=tom;e:tom=neutral
@@ -5810,25 +5807,25 @@ But as Tom went out he couldn’t deny himself a small parting gibe:
 s=none
 
 “Don’t take it so hard; a body can’t win every time; you’ll hang somebody yet.”
-s=tom;e:tom=smirking
+s=tom;e:tom=smirking;e:wilson=scowling
 
 Wilson muttered to himself, “It is no lie to say I am sorry I have to begin with you, miserable dog though you are!”
 s=wilson;e:wilson=serious
 
 He braced himself up with a glass of cold whisky, and went to work again.
-s=none;e:wilson=thinking
+s=none;e:wilson=thinking;c=
 
 He did not compare the new fingermarks unintentionally left by Tom a few minutes before on Roxy’s glass with the tracings of the marks left on the knife-handle, there being no need for that (for his trained eye), but busied himself with another matter, muttering from time to time,
-
+o=strip
 
 “Idiot that I was!—Nothing but a *girl* would do me—a man in girl’s clothes never occurred to me.”
-s=wilson;e:wilson=serious
+s=wilson;e:wilson=serious;o=
 
 First, he hunted out the plate containing the fingerprints made by Tom when he was twelve years old, and laid it by itself; then he brought forth the marks made by Tom’s baby fingers when he was a suckling of seven months, and placed these two plates with the one containing this subject’s newly (and unconsciously) made record.
 s=none;e:wilson=thinking
 
 “Now the series is complete,” he said with satisfaction, and sat down to inspect these things and enjoy them.
-s=wilson;e:wilson=happy
+s=wilson;e:wilson=serious
 
 But his enjoyment was brief. He stared a considerable time at the three strips, and seemed stupefied with astonishment. At last he put them down and said,
 s=none;e:wilson=surprised
@@ -5843,10 +5840,10 @@ He sat down and puzzled over these things a good while, but kept muttering,
 
 
 “It’s no use; I can’t understand it. They don’t tally right, and yet I’ll swear the names and dates are right, and so of course they *ought* to tally.”
-s=wilson
+s=wilson;e:wilson=confused
 
 “I never labeled one of these things carelessly in my life. There is a most extraordinary mystery here.”
-
+e:wilson=thinking
 
 He was tired out, now, and his brains were beginning to clog.
 s=none;e:wilson=weary
@@ -5855,16 +5852,16 @@ He said he would sleep himself fresh, and then see what he could do with this ri
 
 
 He slept through a troubled and unrestful hour, then unconsciousness began to shred away, and presently he rose drowsily to a sitting posture.
-
+b=dream
 
 “Now what was that dream?” he said, trying to recall it; “what was that dream?—it seemed to unravel that puz—”
 s=wilson;e:wilson=thinking
 
 He landed in the middle of the floor at a bound, without finishing the sentence, and ran and turned up his light and seized his “records.”
-s=none;e:wilson=excited
+s=none;e:wilson=excited;b=wilson-house-int
 
 He took a single swift glance at them and cried out—
-
+e:wilson=surprised
 
 “It’s so! Heavens, what a revelation! And for twenty-three years no man has ever suspected it!”
 s=wilson
