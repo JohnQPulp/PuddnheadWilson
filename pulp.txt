@@ -4484,19 +4484,19 @@ b=calendar
 
 
 When Roxana arrived, she found her son in such despair and misery that her heart was touched and her motherhood rose up strong in her.
-e:roxana=unhappy;e:tom=unhappy
+e:roxana=unhappy;e:tom=unhappy;b=haunted-int
 
 He was ruined past hope, now; his destruction would be immediate and sure, and he would be an outcast and friendless.
-
+c=,tom
 
 That was reason enough for a mother to love a child; so she loved him, and told him so.
-
+c=
 
 It made him wince, secretly—for she was a “nigger.” That he was one himself was far from reconciling him to that despised race.
-e:tom=scowling
+e:tom=scowling;c=,tom
 
 Roxana poured out endearments upon him, to which he responded uncomfortably, but as well as he could.
-e:roxana=happy
+e:roxana=happy;c=
 
 And she tried to comfort him, but that was not possible.
 
@@ -4505,13 +4505,13 @@ These intimacies quickly became horrible to him, and within the hour he began to
 e:tom=weary
 
 But he was afraid of her; and besides, there came a lull, now, for she had begun to think.
-e:tom=fearful;e:roxana=thinking
+e:tom=fearful;e:roxana=thinking;c=roxana,
 
 She was trying to invent a saving plan. Finally she started up, and said she had found a way out.
 e:roxana=serious
 
 Tom was almost suffocated by the joy of this sudden good news. Roxana said:
-e:tom=excited
+e:tom=surprised;c=roxana,tom
 
 “Here is de plan, en she’ll win, sure. I’s a nigger, en nobody ain’t gwyne to doubt it dat hears me talk. I’s wuth six hund’d dollahs. Take en sell me, en pay off dese gamblers.”
 s=roxana
@@ -4529,7 +4529,7 @@ s=tom
 s=roxana;e:roxana=neutral
 
 “Who made ’em so? De Lord done it. En who made de niggers? De Lord made ’em. In de inside, mothers is all de same.”
-
+e:roxana=thinking
 
 “De good Lord he made ’em so. I’s gwyne to be sole into slavery, en in a year you’s gwyne to buy yo’ ole mammy free ag’in. I’ll show you how. Dat’s de plan.”
 e:roxana=serious
@@ -4541,13 +4541,13 @@ s=none;e:tom=excited
 s=tom
 
 “Say it ag’in! En keep on sayin’ it! It’s all de pay a body kin want in dis worl’, en it’s mo’ den enough.”
-s=roxana;e:roxana=happy
+s=roxana;e:roxana=happy;e:tom=wary
 
 “Laws bless you, honey, when I’s slavin’ aroun’, en dey ’buses me, if I knows you’s a-sayin’ dat, ’way off yonder somers, it’ll heal up all de sore places, en I kin stan’ ’em.”
 
 
 “I *do* say it again, mammy, and I’ll keep on saying it, too. But how am I going to sell you? You’re free, you know.”
-s=tom;e:tom=thinking
+s=tom;e:tom=serious
 
 “Much diff’rence dat make! White folks ain’t partic’lar. De law kin sell me now if dey tell me to leave de State in six months en I don’t go.”
 s=roxana;e:roxana=serious
@@ -4559,7 +4559,7 @@ s=roxana;e:roxana=serious
 e:roxana=smirking
 
 Tom forged a bill of sale and sold his mother to an Arkansas cotton-planter for a trifle over six hundred dollars.
-s=none;e:tom=neutral
+s=none;e:tom=neutral;c=;b=light
 
 He did not want to commit this treachery, but luck threw the man in his way, and this saved him the necessity of going up country to hunt up a purchaser, with the added risk of having to answer a lot of questions, whereas this planter was so pleased with Roxy that he asked next to none at all.
 
@@ -4577,7 +4577,7 @@ And then he kept diligently saying to himself all the time:
 
 
 “It’s for only a year. In a year I buy her free again; she’ll keep that in mind, and it’ll reconcile her.”
-s=tom
+s=tom;e:tom=serious
 
 Yes; the little deception could do no harm, and everything would come out right and pleasant in the end, anyway.
 s=none
@@ -4598,13 +4598,13 @@ For a whole week he was not able to sleep well, so much the villainy which he ha
 e:tom=wary
 
 —
-
+b=dream
 
 The boat bore Roxy away from St. Louis at four in the afternoon, and she stood on the lower guard abaft the paddle-box and watched Tom through a blur of tears until he melted into the throng of people and disappeared; then she looked no more, but sat there on a coil of cable crying till far into the night.
-e:roxana=crying
+e:roxana=crying;b=louis-wide
 
 When she went to her foul steerage-bunk at last, between the clashing engines, it was not to sleep, but only to wait for the morning, and, waiting, grieve.
-e:roxana=weary
+e:roxana=weary;b=steamboats
 
 It had been imagined that she “would not know,” and would think she was traveling up stream.
 
@@ -4637,7 +4637,7 @@ b=calendar
 
 
 The summer weeks dragged by, and then the political campaign opened—opened in pretty warm fashion, and waxed hotter and hotter daily.
-
+b=dawson-main
 
 The twins threw themselves into it with their whole heart, for their self-love was engaged.
 
@@ -4658,18 +4658,15 @@ Therefore they worked hard, but not harder than Judge Driscoll and Tom worked ag
 
 
 Tom’s conduct had remained so letter-perfect during two whole months, now, that his uncle not only trusted him with money with which to persuade voters, but trusted him to go and get it himself out of the safe in the private sitting-room.
-e:tom=happy
+e:tom=happy;b=york-house-secretary
 
 The closing speech of the campaign was made by Judge Driscoll, and he made it against both of the foreigners.
-
+b=speech
 
 It was disastrously effective. He poured out rivers of ridicule upon them, and forced the big mass-meeting to laugh and applaud.
 e:york=excited
 
-He scoffed at them as adventurers, mountebanks, sideshow riffraff, dime museum freaks; he assailed their showy titles with measureless derision;
-
-
-he said they were back-alley barbers disguised as nobilities, peanut peddlers masquerading as gentlemen, organ-grinders bereft of their brother monkey.
+He scoffed at them as adventurers, mountebanks, sideshow riffraff, dime museum freaks; he assailed their showy titles with measureless derision; he said they were back-alley barbers disguised as nobilities, peanut peddlers masquerading as gentlemen, organ-grinders bereft of their brother monkey.
 e:york=smirking
 
 At last he stopped and stood still. He waited until the place had become absolutely silent and expectant, then he delivered his deadliest shot; delivered it with ice-cold seriousness and deliberation, with a significant emphasis upon the closing words: he said that he believed that the reward offered for the lost knife was humbug and buncombe, and that its owner would know where to find it whenever he should have occasion *to assassinate somebody*.
@@ -4679,7 +4676,7 @@ Then he stepped from the stand, leaving a startled and impressive hush behind hi
 
 
 The strange remark flew far and wide over the town and made an extraordinary sensation.
-
+b=dawson-wide
 
 Everybody was asking, “What could he mean by that?” And everybody went on asking that question, but in vain; for the Judge only said he knew what he was talking about, and stopped there; Tom said he hadn’t any idea what his uncle meant, and Wilson, whenever he was asked what he thought it meant, parried the question by asking the questioner what *he* thought it meant.
 e:tom=thinking;e:wilson=thinking
@@ -4688,22 +4685,22 @@ Wilson was elected, the twins were defeated—crushed, in fact, and left forlorn
 
 
 Tom went back to St. Louis happy.
-e:tom=happy
+e:tom=happy;b=louis-wide
 
 Dawson’s Landing had a week of repose, now, and it needed it.
-
+b=light
 
 But it was in an expectant state, for the air was full of rumors of a new duel.
 
 
 Judge Driscoll’s election labors had prostrated him, but it was said that as soon as he was well enough to entertain a challenge he would get one from Count Luigi.
-
+c=york;e:york=thinking
 
 The brothers withdrew entirely from society, and nursed their humiliation in privacy.
-
+c=luigi,angelo;e:luigi=unhappy;e:angelo=unhappy
 
 They avoided the people, and went out for exercise only late at night, when the streets were deserted.
-
+c=
 
 ## XVIII. Roxana Commands
 r=title
