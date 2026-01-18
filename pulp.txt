@@ -301,8 +301,8 @@ o=
 He often studied his records, examining and poring over them with absorbing interest until far into the night; but what he found there﻿—if he found anything﻿—he revealed to no one.
 
 
-Sometimes he copied on paper the involved and delicate pattern left by the ball of a finger, and then vastly enlarged it with a pantograph so that he could examine its web of curving lines with ease and convenience.
-o=pantograph
+Sometimes he copied on paper the involved and delicate pattern left by the ball of a finger, and then vastly enlarged it with a pantograph so that he could examine its web of curving lines with ease and convenience.<e>Original margin illustration for the pantograph to save myself the trouble of having to generate an accurate image for it. (Is the margin illustration accurate? Who the hell knows.)</e>
+o=margin2
 
 One sweltering afternoon﻿—it was the first day of July, 1830﻿—he was at work over a set of tangled account-books in his workroom, which looked westward over a stretch of vacant lots, when a conversation outside disturbed him.
 e:wilson=weary;o=
@@ -346,11 +346,11 @@ s=none
 Wilson stepped to the window to observe the combatants; he could not work while their chatter continued.
 e:wilson=thinking
 
-Over in the vacant lots was Jasper, young, coal-black and of magnificent build, sitting on a wheelbarrow in the pelting sun﻿—at work, supposably, whereas he was in fact only preparing for it by taking an hour’s rest before beginning.
-
+Over in the vacant lots was Jasper, young, coal-black and of magnificent build, sitting on a wheelbarrow in the pelting sun﻿—at work, supposably, whereas he was in fact only preparing for it by taking an hour’s rest before beginning.<e>Aw come on now, original-illustrators-whose-names-I-forgot. You can't do that. (And they get way worse too, but I won't include those.)</e>
+o=margin3
 
 In front of Wilson’s porch stood Roxy, with a local handmade baby-wagon, in which sat her two charges﻿—one at each end and facing each other.
-
+o=
 
 From Roxy’s manner of speech, a stranger would have expected her to be black, but she was not.
 e:roxana=neutral
@@ -1387,11 +1387,11 @@ e:patsy=happy;b=light;c=patsy
 Yet her feeling was moderate indeed when contrasted with Rowena’s.
 c=
 
-Rowena was in the clouds, she walked on air; this was to be the greatest day, the most romantic episode, in the colorless history of that dull country town.
-e:rowena=happy;c=rowena
+Rowena was in the clouds, she walked on air; this was to be the greatest day, the most romantic episode, in the colorless history of that dull country town.<e>You know what, illustrators? I like it.</e>
+e:rowena=happy;o=margin4
 
 She was to be familiarly near the source of its glory and feel the full flood of it pour over her and about her; the other girls could only gaze and envy, not partake.
-e:rowena=excited
+e:rowena=excited;c=rowena;o=
 
 The widow was ready, Rowena was ready, so also were the foreigners.
 e:luigi=happy;e:angelo=happy;c=
@@ -1981,11 +1981,11 @@ s=none
 “Oh, Roxy, you wouldn’t require your young master to do such a horrible thing. You can’t mean it.”
 s=tom
 
-“I’ll let you know mighty quick whether I means it or not! You call me names, en as good as spit on me when I comes here po’ en ornery en ’umble, to praise you for bein’ growed up so fine en handsome, en tell you how I used to nuss you en tend you en watch you when you ’uz sick en hadn’t no mother but me in de whole worl’, en beg you to give de po’ ole nigger a dollah for to git her som’n’ to eat, en you call me names—*names*, dad blame you!”
-s=roxana;e:roxana=angry
+“I’ll let you know mighty quick whether I means it or not! You call me names, en as good as spit on me when I comes here po’ en ornery en ’umble, to praise you for bein’ growed up so fine en handsome, en tell you how I used to nuss you en tend you en watch you when you ’uz sick en hadn’t no mother but me in de whole worl’, en beg you to give de po’ ole nigger a dollah for to git her som’n’ to eat, en you call me names—*names*, dad blame you!”<e>You know you scan still buy a soup for a dollah. Not really sure what the plate is meant to be though. Steak?</e>
+s=roxana;e:roxana=angry;o=margin5
 
 “Yassir, I gives you jes one chance mo’, and dat’s *now*, en it las’ on’y a half a second—you hear?”
-
+o=
 
 Tom slumped to his knees and began to beg, saying—
 s=none;e:tom=unhappy
@@ -2353,11 +2353,11 @@ r=title
 <i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar
 
-<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-
+<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I <i>think</i> this illustration was meant for this line. Not… super confident though.</e>
+o=margin6
 
 Every now and then, after Tom went to bed, he had sudden wakings out of his sleep, and his first thought was,
-b=dream
+b=dream;o=
 
 “Oh, joy, it was all a dream!”
 t=tom;e:tom=happy
@@ -2404,11 +2404,11 @@ e:tom=thinking
 Some of his low places he found lifted to ideals, some of his ideals had sunk to the valleys, and lay there with the sackcloth and ashes of pumice-stone and sulphur on their ruined heads.
 e:tom=unhappy
 
-For days he wandered in lonely places, thinking, thinking, thinking﻿—trying to get his bearings. It was new work.
-e:tom=thinking;b=dawson-wide
+For days he wandered in lonely places, thinking, thinking, thinking﻿—trying to get his bearings. It was new work.<e>I mean, it's easy to mock proportions when I don't have to do any of the illustrating manually myself. So I will!</e>
+e:tom=thinking;b=dawson-wide;o=margin7
 
 If he met a friend, he found that the habit of a lifetime had in some mysterious way vanished﻿—his arm hung limp, instead of involuntarily extending the hand for a shake.
-
+o=
 
 It was the “nigger” in him asserting its humility, and he blushed and was abashed.
 e:tom=wary;b=dawson-main
@@ -2695,11 +2695,11 @@ s=tom;e:tom=confused
 “There was this much in it,” said Angelo: “what was told us of our characters was minutely exact—we could not have bettered it ourselves. Next, two or three memorable things that had happened to us were laid bare—things which no one present but ourselves could have known about.”
 s=angelo;e:angelo=serious
 
-“Why, it’s rank sorcery!” exclaimed Tom, who was now becoming very much interested.
-s=tom;e:tom=excited
+“Why, it’s rank sorcery!” exclaimed Tom, who was now becoming very much interested.<e>Illustrators taking <i>Tom's</i> side here — what the fuck.</e>
+s=tom;e:tom=excited;o=margin8
 
 “And how did they make out with what was going to happen to you in the future?”
-
+o=
 
 “On the whole, quite fairly,” said Luigi. “Two or three of the most striking things foretold have happened since; much the most striking one of all happened within that same year.”
 s=luigi;e:luigi=neutral;c=luigi,
@@ -3073,14 +3073,11 @@ There was an engine company and a hook-and-ladder company. Half of each was comp
 Enough anti-rummies were loafing in quarters to man the engine and the ladders.
 
 
-In two minutes they had their red shirts and helmets on—they never stirred officially in unofficial costume—and as the mass meeting overhead smashed through the long row of windows and poured out upon the roof of the arcade, the deliverers were ready for them with a powerful stream of water which washed some of them off the roof and nearly drowned the rest.
-b=fire-boys
+In two minutes they had their red shirts and helmets on—they never stirred officially in unofficial costume—and as the mass meeting overhead smashed through the long row of windows and poured out upon the roof of the arcade, the deliverers were ready for them with a powerful stream of water which washed some of them off the roof and nearly drowned the rest. But water was preferable to fire, and still the stampede from the windows continued, and still the pitiless drenching assailed it until the building was empty; then the fire-boys mounted to the hall and flooded it with water enough to annihilate forty times as much fire as there was there; for a village fire-company does not often get a chance to show off, and so when it does get a chance it makes the most of it.<e>Illustration seems rather darker in tone than what I think Twain intended.</e>
+o=margin9
 
-But water was preferable to fire, and still the stampede from the windows continued, and still the pitiless drenching assailed it until the building was empty; then the fire-boys mounted to the hall and flooded it with water enough to annihilate forty times as much fire as there was there; for a village fire-company does not often get a chance to show off, and so when it does get a chance it makes the most of it.
-
-
-Such citizens of that village as were of a thoughtful and judicious temperament did not insure against fire; they insured against the fire-company.
-
+Such citizens of that village as were of a thoughtful and judicious temperament did not insure against fire; they insured against the fire-company.<e>See?</e>
+o=;t=twain
 
 ## XII. The Shame of Judge Driscoll
 r=title
@@ -3919,11 +3916,11 @@ s=roxana;e:roxana=excited;c=;b=duel
 “En Doctor Claypool he ’uz a-workin’ at him, en Pudd’nhead Wilson he ’uz a-he’pin’, en ole Jedge Driscoll en Pem Howard ’uz a-standin’ out yonder a little piece waitin’ for ’em to git ready agin.”
 e:roxana=
 
-“En treckly dey squared off en give de word, en *bang-bang* went de pistols, en de twin he say, ‘Ouch!’—hit him on de han’ dis time—en I hear dat same bullet go *spat*! ag’in, de logs under de winder; en de nex’ time dey shoot, de twin say, ‘Ouch!’ ag’in, en I done it too, ’ca’se de bullet glance’ on his cheekbone en skip up here en glance on de side o’ de winder en whiz right acrost my face en tuck de hide off’n my nose—why, if I’d ’a’ be’n jist a inch or a inch en a half furder ’t would ’a’ tuck de whole nose en disfiggered me.”
-e:roxana=excited
+“En treckly dey squared off en give de word, en *bang-bang* went de pistols, en de twin he say, ‘Ouch!’—hit him on de han’ dis time—en I hear dat same bullet go *spat*! ag’in, de logs under de winder; en de nex’ time dey shoot, de twin say, ‘Ouch!’ ag’in, en I done it too, ’ca’se de bullet glance’ on his cheekbone en skip up here en glance on de side o’ de winder en whiz right acrost my face en tuck de hide off’n my nose—why, if I’d ’a’ be’n jist a inch or a inch en a half furder ’t would ’a’ tuck de whole nose en disfiggered me.”<e>Boink.</e>
+e:roxana=excited;o=margin10
 
 “Here’s de bullet; I hunted her up.”
-e:roxana=;b=haunted-int
+e:roxana=;b=haunted-int;o=
 
 “Did you stand there all the time?”
 s=tom;e:tom=surprised
@@ -5056,11 +5053,11 @@ s=none;e:roxana=scowling
 “What could you do? You could be Judas to yo’ own mother to save yo’ wuthless hide! Would anybody b’lieve it? No—a dog couldn’t!”
 s=roxana;e:roxana=angry
 
-“You is de low-downest orneriest hound dat was ever pup’d into dis worl’—en I’s ’sponsible for it!”—and she spat on him.
-
+“You is de low-downest orneriest hound dat was ever pup’d into dis worl’—en I’s ’sponsible for it!”—and she spat on him.<e>Chud dog.</e>
+o=margin11
 
 He made no effort to resent this. Roxy reflected a moment, then she said—
-s=none;e:roxana=thinking
+s=none;e:roxana=thinking;o=
 
 “Now I’ll tell you what you’s gwine to do.”
 s=roxana;e:roxana=serious
