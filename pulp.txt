@@ -3332,7 +3332,7 @@ b=calendar
 
 
 Thus mournfully communing with himself Tom moped along the lane past Pudd’nhead Wilson’s house, and still on and on between fences enclosing vacant country on each hand till he neared the haunted house, then he came moping back again, with many sighs and heavy with trouble.
-e:tom=unhappy
+e:tom=unhappy;b=light
 
 He sorely wanted cheerful company. Rowena!
 e:tom=excited
@@ -3341,13 +3341,13 @@ His heart gave a bound at the thought, but the next thought quieted it—the det
 e:tom=unhappy
 
 He was on the inhabited side of Wilson’s house, and now as he approached it he noticed that the sitting-room was lighted.
-
+b=wilson-house-ext
 
 This would do; others made him feel unwelcome sometimes, but Wilson never failed in courtesy toward him, and a kindly courtesy does at least save one’s feelings, even if it is not professing to stand for a welcome.
 
 
 Wilson heard footsteps at his threshold, then the clearing of a throat.
-
+b=wilson-house-int
 
 “It’s that fickle-tempered, dissipated young goose—poor devil, he find friends pretty scarce today, likely, after the disgrace of carrying a personal-assault case into a law-court.”
 s=wilson;e:wilson=thinking
@@ -3356,7 +3356,7 @@ A dejected knock.
 s=none
 
 “Come in!”
-s=wilson
+s=wilson;e:wilson=serious
 
 Tom entered, and drooped into a chair, without saying anything.
 e:tom=unhappy;s=none
@@ -3395,10 +3395,10 @@ s=tom;e:tom=angry
 s=wilson;e:wilson=thinking
 
 “It’s no place for it. It was not like him. I couldn’t understand it. How did it happen?”
-
+e:wilson=
 
 “It happened because he didn’t know anything about it. He was asleep when I got home last night.”
-s=tom
+s=tom;e:tom=wary
 
 “And you didn’t wake him? Tom, is that possible?”
 s=wilson;e:wilson=surprised
@@ -3413,7 +3413,7 @@ s=none
 s=tom;e:tom=neutral
 
 “He was going a-fishing before dawn, with Pembroke Howard, and if I got the twins into the common calaboose—and I thought sure I could—I never dreamed of their slipping out on a paltry fine for such an outrageous offense—well, once in the calaboose they would be disgraced, and uncle wouldn’t want any duels with that sort of characters, and wouldn’t allow any.”
-
+e:tom=wary
 
 “Tom, I am ashamed of you! I don’t see how you could treat your good old uncle so.”
 s=wilson;e:wilson=angry
@@ -3434,13 +3434,13 @@ Tom looked at him a moment or two, then shook his head sorrowfully and said—
 s=none;e:tom=thinking
 
 “I believe you—upon my word I do. I don’t know why I do, but I do. Pudd’nhead Wilson, I think you’re the biggest fool I ever saw.”
-s=tom
+s=tom;e:tom=wary
 
 “Thank you.”
 s=wilson
 
 “Don’t mention it.”
-s=tom;e:tom=
+s=tom
 
 “Well, he has been requiring you to fight the Italian and you have refused. You degenerate remnant of an honorable line! I’m thoroughly ashamed of you, Tom!”
 s=wilson;e:wilson=angry
@@ -3458,7 +3458,7 @@ s=none;e:wilson=wary;e:tom=neutral
 s=tom
 
 “He drove that jack-pair around town and showed them the sights, and when he came home he couldn’t find his father’s old silver watch that don’t keep time and he thinks so much of, and couldn’t remember what he did with it three or four days ago when he saw it last, and so when I arrived he was all in a sweat about it, and when I suggested that it probably wasn’t lost but stolen, it put him in a regular passion and he said I was a fool—which convinced me, without any trouble, that that was just what he was afraid *had* happened, himself, but did not want to believe it, because lost things stand a better chance of being found again than stolen ones.”
-
+e:tom=serious
 
 “Whe-ew!” whistled Wilson; “score another on the list.”
 s=wilson;e:wilson=thinking
@@ -3485,7 +3485,7 @@ s=wilson
 s=tom;e:tom=thinking
 
 “You’ll find it stolen—that’s what you’ll find.”
-s=wilson
+s=wilson;e:wilson=
 
 “No, I shan’t; for when I suggested theft about the watch and got such a rap, I went and examined my room, and the pencil-case was missing, but it was only mislaid, and I found it again.”
 s=tom;e:tom=neutral
@@ -3500,10 +3500,10 @@ s=tom
 s=wilson;e:wilson=serious
 
 Mr. Justice Robinson entered, followed by Buckstone and the town-constable, Jim Blake.
-n:blake=Constable Blake;s=none
+n:blake=Constable Blake;s=none;c=robinson,buckstone,blake
 
 They sat down, and after some wandering and aimless weather-conversation Wilson said—
-e:wilson=neutral
+e:wilson=neutral;c=
 
 “By the way, we’ve just added another to the list of thefts, maybe two. Judge Driscoll’s old silver watch is gone, and Tom here has missed a gold ring.”
 s=wilson
@@ -3542,7 +3542,7 @@ s=blake
 s=wilson
 
 “Well, there ain’t any other, for one thing; and for another, some nigger draymen that happened to be driving along saw her coming out of or going into houses, and told me so—and it just happens that they was *robbed* houses, every time.”
-s=blake
+s=blake;e:blake=scowling
 
 It was granted that this was plenty good enough circumstantial evidence.
 s=none
@@ -3563,10 +3563,10 @@ s=wilson
 s=tom
 
 “Because when the twins went home from the Sons of Liberty meeting last night, news of the raid was sifting in from everywhere, and Aunt Patsy was in distress to know if they had lost anything.”
-s=wilson
+s=wilson;e:wilson=serious
 
 “They found that the dagger was gone, and they notified the police and pawnbrokers everywhere. It was a great haul, yes, but the old woman won’t get anything out of it, because she’ll get caught.”
-
+e:wilson=
 
 “Did they offer a reward?” asked Buckstone.
 s=buckstone;e:buckstone=neutral
@@ -3584,13 +3584,13 @@ If anybody had noticed Tom’s face at that time, the gray-green color of it mig
 s=none;e:tom=fearful
 
 He said to himself: “I’m gone! I never can square up; the rest of the plunder won’t pawn or sell for half of the bill.”
-s=tom
+t=tom
 
 “Oh, I know it—I’m gone, I’m gone—and this time it’s for good. Oh, this is awful—I don’t know what to do, nor which way to turn!”
-
+e:tom=wary
 
 “Softly, softly,” said Wilson to Blake. “I planned their scheme for them at midnight last night, and it was all finished up shipshape by two this morning. They’ll get their dagger back, and then I’ll explain to you how the thing was done.”
-s=wilson;e:wilson=smirking;t=none
+t=;s=wilson;e:wilson=smirking;t=none
 
 There were strong signs of a general curiosity, and Buckstone said—
 s=none;e:buckstone=excited
@@ -3602,7 +3602,7 @@ s=buckstone
 s=wilson
 
 “But you can take my word for it you won’t be kept waiting three days. Somebody will apply for that reward pretty promptly, and I’ll show you the thief and the dagger both very soon afterward.”
-
+e:wilson=
 
 The constable was disappointed, and also perplexed. He said—
 s=none;e:blake=confused
