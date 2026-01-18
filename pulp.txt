@@ -1,11 +1,17 @@
-*Pudd’nhead Wilson* by Mark Twain<e>Normally the editor's notes are where I quip about the current book and author. However, Twain is of course impossible to out-quip. Therefore, the editor's notes for this book will be dedicated to making fun of <i>other</i> authors instead, via example of Twain doing well what they all fail at.</e>
+*Pudd’nhead Wilson* by Mark Twain<e>Normally the editor's notes of these visual novels are where I make jokes at the expense of the original text and author. With books like <book>Cup of Gold</book> and <book>The Thirty-Nine Steps</book>, that was easy — there was plenty to make fun of. But to try to quip at the expense of <i>Mark Twain</i>? Absolutely on chance. That man is impossible to out-quip.</e>
 n:twain=;t=twain;b=title
 
+<e>But to make sure this VN still gets its proper share of inane derisive editorializing, what I'll instead do is just make fun of other authors, highlighting all the things Twain does correctly that they utterly fail at.</e>
+e:twain=two
+
+<e>And then I'll also pull in some of the original margin illustations from the first edition printings of <i>Pudd’nhead Wilson</i> by illustrators Frank M. Senior and Calvin H. Warren (the latter of which apparently a big Harding administration fan). Their endearing-yet-questionable drawings will provide additional opportunities for pointing-and-laughing. (All viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>.)</e>
+o=margin1
+
 ## A Whisper to the Reader
-t=
+t=;o=
 
 <i>There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>See what I mean? How do you out-quip that? You can't.</e>
-t=twain;b=calendar
+t=twain;b=calendar;e:twain=
 
 A person who is ignorant of legal matters is always liable to make mistakes when he tries to photograph a court scene with his pen; and so I was not willing to let the law chapters in this book go to press without first subjecting them to rigid and exhausting revision and correction by a trained barrister—if that is what they are called.
 e:twain=two
@@ -3943,7 +3949,7 @@ s=roxana
 “Did anybody else get hurt?”
 s=tom
 
-“Yes, we all got hit ’cep’ de blon’ twin en de doctor en de seconds.”
+“Yes, we all got hit ’cep’ de blon’ twin en de doctor en de seconds.”<e>lmao</e>
 s=roxana;e:roxana=happy
 
 “De Jedge didn’t git hurt, but I hear Pudd’nhead say de bullet snip some o’ his ha’r off.”
