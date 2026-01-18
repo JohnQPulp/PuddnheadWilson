@@ -5188,7 +5188,7 @@ e:tom=weary
 “I must follow her plan. But with a variation—I will not ask for the money and ruin myself; I will *rob* the old skinflint.”
 e:tom=serious
 
-## XIX. The Prophecy Realized<e>Twain making this VN as difficult to compile as possible. (But that part's over now.)</e>
+## XIX. The Prophecy Realized<e>Twain making this VN as difficult to compile as possible. But at least that's over.</e>
 r=title;a:roxana=;t=twain;e:twain=two
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -5198,43 +5198,43 @@ b=calendar;t=
 
 
 Dawson’s Landing was comfortably finishing its season of dull repose and waiting patiently for the duel.
-
+b=dawson-wide
 
 Count Luigi was waiting, too; but not patiently, rumor said.
-e:luigi=angry
+e:luigi=serious;b=light;c=luigi,
 
 Sunday came, and Luigi insisted on having his challenge conveyed.
-
+c=
 
 Wilson carried it.
-
+c=,wilson
 
 Judge Driscoll declined to fight with an assassin—“that is,” he added significantly, “in the field of honor.”
-e:york=serious
+e:york=serious;c=york,
 
 Elsewhere, of course, he would be ready.
-t=none
+t=none;c=
 
 Wilson tried to convince him that if he had been present himself when Angelo told about the homicide committed by Luigi, he would not have considered the act discreditable to Luigi; but the obstinate old man was not to be moved.
 e:wilson=serious
 
 Wilson went back to his principal and reported the failure of his mission.
-
+b=patsy-house-int
 
 Luigi was incensed, and asked how it could be that the old gentleman, who was by no means dull-witted, held his trifling nephew’s evidence and inferences to be of more value than Wilson’s.
-e:luigi=angry
+e:luigi=angry;c=luigi
 
 But Wilson laughed, and said—
 e:wilson=smirking
 
 “That is quite simple; that is easily explicable. I am not his doll—his baby—his infatuation: his nephew is.”
-s=wilson
+s=wilson;c=wilson
 
 “The Judge and his late wife never had any children. The Judge and his wife were past middle age when this treasure fell into their lap.”
 
 
 “One must make allowances for a parental instinct that has been starving for twenty-five or thirty years.”
-e:wilson=thinking
+e:wilson=thinking;e:luigi=serious
 
 “It is famished, it is crazed with hunger by that time, and will be entirely satisfied with anything that comes handy; its taste is atrophied, it can’t tell mudcat from shad.”
 
@@ -5249,7 +5249,7 @@ e:wilson=serious
 
 
 “The old man liked both of you. Tom conceived a hatred for you. That was enough; it turned the old man around at once.”
-e:wilson=
+e:wilson=;e:luigi=thinking
 
 “The oldest and strongest friendship must go to the ground when one of these late-adopted darlings throws a brick at it.”
 
@@ -5261,7 +5261,7 @@ s=luigi;e:luigi=thinking
 s=wilson;e:wilson=serious
 
 “I think there is nothing more pathetic than to see one of these poor old childless couples taking a menagerie of yelping little worthless dogs to their hearts; and then adding some cursing and squawking parrots and a jackass-voiced macaw; and next a couple of hundred screeching songbirds, and presently some fetid guinea-pigs and rabbits, and a howling colony of cats.”
-e:wilson=thinking
+e:wilson=thinking;e:luigi=
 
 “It is all a groping and ignorant effort to construct out of base metal and brass filings, so to speak, something to take the place of that golden treasure denied them by Nature, a child.”
 
@@ -5270,7 +5270,7 @@ e:wilson=thinking
 e:wilson=
 
 “Look out for him! Are you heeled—that is, fixed?”
-e:wilson=wary
+e:wilson=serious;e:luigi=serious
 
 “Yes, he shall have his opportunity.”
 s=luigi;e:luigi=serious
@@ -5279,19 +5279,19 @@ s=luigi;e:luigi=serious
 
 
 As Wilson was leaving, he said—
-s=none;e:wilson=wary
+s=none;e:wilson=wary;c=
 
 “The Judge is still a little used up by his campaign work, and will not get out for a day or so; but when he does get out, you want to be on the alert.”
-s=wilson
+s=wilson;e:luigi=serious
 
 About eleven at night the twins went out for exercise, and started on a long stroll in the veiled moonlight.
-s=none
+s=none;b=dawson-wide;f:b:dawson-wide=brightness(85%)
 
 Tom Driscoll had landed at Hackett’s Store, two miles below Dawson’s, just about half an hour earlier, the only passenger for that lonely spot, and had walked up the shore road and entered Judge Driscoll’s house without having encountered anyone either on the road or under the roof.
-
+b=light
 
 He pulled down his window-blinds and lighted his candle.
-e:tom=serious
+e:tom=serious;b=york-house-room;a:roxana=
 
 He laid off his coat and hat and began his preparations.
 
@@ -5299,11 +5299,11 @@ He laid off his coat and hat and began his preparations.
 He unlocked his trunk and got his suit of girl’s clothes out from under the male attire in it, and laid it by.
 
 
-Then he blacked his face with burnt cork and put the cork in his pocket.
-
+Then he blacked his face with burnt cork and put the cork in his pocket.<e>Damnit Twain, not again!</e>
+t=twain;e:twain=three
 
 His plan was, to slip down to his uncle’s private sitting-room below, pass into the bedroom, steal the safe-key from the old gentleman’s clothes, and then go back and rob the safe.
-e:tom=thinking
+e:tom=thinking;t=
 
 He took up his candle to start.
 
@@ -5318,10 +5318,10 @@ Perhaps it would be well to go armed.
 
 
 He took the Indian knife from its hiding-place, and felt a pleasant return of his wandering courage.
-e:tom=excited
+e:tom=excited;o=dagger
 
 He slipped stealthily down the narrow stair, his hair rising and his pulses halting at the slightest creak.
-e:tom=wary
+e:tom=wary;o=margin17;b=light
 
 When he was halfway down, he was disturbed to perceive that the landing below was touched by a faint glow of light.
 e:tom=surprised
@@ -5351,49 +5351,46 @@ Tom set his candle on the stairs, and began to make his way toward the pile of n
 e:tom=serious
 
 When he was passing his uncle, the old man stirred in his sleep, and Tom stopped instantly—stopped, and softly drew the knife from its sheath, with his heart thumping, and his eyes fastened upon his benefactor’s face.
-e:tom=fearful
+e:tom=fearful;o=margin18
 
 After a moment or two he ventured forward again—one step—reached for his prize and seized it, dropping the knife-sheath.
 
 
-Then he felt the old man’s strong grip upon him, and a wild cry of “Help! help!” rang in his ear.
-e:york=fearful;s=york
-
-Without hesitation he drove the knife home—and was free.
-s=none;e:tom=fearful
+Then he felt the old man’s strong grip upon him, and a wild cry of “Help! help!” rang in his ear. Without hesitation he drove the knife home—and was free.
+e:york=fearful;e:tom=fearful;o=margin19
 
 Some of the notes escaped from his left hand and fell in the blood on the floor.
 
 
 He dropped the knife and snatched them up and started to fly; transferred them to his left hand, and seized the knife again, in his fright and confusion, but remembered himself and flung it from him, as being a dangerous witness to carry away with him.
-
+o=
 
 He jumped for the stair-foot, and closed the door behind him; and as he snatched his candle and fled upward, the stillness of the night was broken by the sound of urgent footsteps approaching the house.
 
 
 In another moment he was in his room and the twins were standing aghast over the body of the murdered man!
-e:angelo=surprised;e:luigi=surprised
+e:angelo=surprised;e:luigi=surprised;b=york-body;c=luigi,angelo,,,
 
 Tom put on his coat, buttoned his hat under it, threw on his suit of girl’s clothes, dropped the veil, blew out his light, locked the room door by which he had just entered, taking the key, passed through his other door into the back hall, locked that door and kept the key, then worked his way along in the dark and descended the back stairs.
-e:tom=fearful
+e:tom=fearful;c=;b=light
 
 He was not expecting to meet anybody, for all interest was centered in the other part of the house, now; his calculation proved correct.
 
 
 By the time he was passing through the backyard, Mrs. Pratt, her servants, and a dozen half-dressed neighbors had joined the twins and the dead, and accessions were still arriving at the front door.
-e:rachel=fearful
+e:rachel=fearful;c=luigi,angelo,,,rachel
 
 As Tom, quaking as with a palsy, passed out at the gate, three women came flying from the house on the opposite side of the lane.
-
+b=york-house-ext;f:b:york-house-ext=brightness(85%);a:tom=blackgirl
 
 They rushed by him and in at the gate, asking him what the trouble was there, but not waiting for an answer.
-
+c=
 
 Tom said to himself, “Those old maids waited to dress—they did the same thing the night Stevens’s house burned down next door.”
 s=tom;e:tom=smirking
 
 In a few minutes he was in the haunted house. He lighted a candle and took off his girl-clothes.
-s=;e:tom=serious
+s=;e:tom=serious;a:tom=;b=haunted-int
 
 There was blood on him all down his left side, and his right hand was red with the stains of the blood-soaked notes which he had crushed in it; but otherwise he was free from this sort of evidence.
 
@@ -5405,19 +5402,19 @@ Then he burned his male and female attire to ashes, scattered the ashes, and put
 
 
 He blew out his light, went below, and was soon loafing down the river road with the intent to borrow and use one of Roxy’s devices.
-
+b=think
 
 He found a canoe and paddled off downstream, setting the canoe adrift as dawn approached, and making his way by land to the next village, where he kept out of sight till a transient steamer came along, and then took deck passage for St. Louis.
 e:tom=weary
 
 He was ill at ease until Dawson’s Landing was behind him; then he said to himself,
-
+b=steamboats
 
 “All the detectives on earth couldn’t trace me now; there’s not a vestige of a clue left in the world; that homicide will take its place with the permanent mysteries, and people won’t get done trying to guess out the secret of it for fifty years.”
-s=tom;e:tom=happy
+s=tom;e:tom=smirking
 
 In St. Louis, next morning, he read this brief telegram in the papers—dated at Dawson’s Landing:
-s=;e:tom=neutral
+s=;e:tom=neutral;b=louis-wide
 
 <span class='upper'>Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.</span>
 
@@ -5426,7 +5423,7 @@ s=;e:tom=neutral
 s=tom;e:tom=happy
 
 “We never know when fortune is trying to favor us. I actually cursed Pudd’nhead Wilson in my heart for putting it out of my power to sell that knife. I take it back, now.”
-
+e:tom=smirking
 
 Tom was now rich and independent.
 s=none
@@ -5435,61 +5432,61 @@ He arranged with the planter, and mailed to Wilson the new bill of sale which so
 
 
 <span class='upper'>Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.</span>
-
+b=dawson-wide
 
 When Wilson reached the house of mourning and had gathered such details as Mrs. Pratt and the rest of the crowd could tell him, he took command as mayor, and gave orders that nothing should be touched, but everything left as it was until Justice Robinson should arrive and take the proper measures as coroner.
-e:wilson=serious;e:rachel=crying
+e:wilson=serious;e:rachel=crying;b=york-body;c=wilson,,,rachel,
 
 He cleared everybody out of the room but the twins and himself.
-
+c=wilson,,luigi,,angelo;e:luigi=unhappy;e:angelo=unhappy
 
 The sheriff soon arrived and took the twins away to jail.
-e:luigi=unhappy;e:angelo=unhappy
+c=
 
 Wilson told them to keep heart, and promised to do his best in their defense when the case should come to trial.
 
 
 Justice Robinson came presently, and with him Constable Blake. They examined the room thoroughly.
-e:wilson=thinking
+e:wilson=thinking;c=robinson,blake;e:robinson=serious;e:blake=serious
 
 They found the knife and the sheath.
-
+c=;o=dagger
 
 Wilson noticed that there were fingerprints on the knife-handle.
-
+o=
 
 That pleased him, for the twins had required the earliest comers to make a scrutiny of their hands and clothes, and neither these people nor Wilson himself had found any bloodstains upon them.
-
+c=wilson
 
 Could there be a possibility that the twins had spoken the truth when they said they found the man dead when they ran into the house in answer to the cry for help?
 
 
 He thought of that mysterious girl at once. But this was not the sort of work for a girl to be engaged in.
-
+e:wilson=serious
 
 No matter; Tom Driscoll’s room must be examined.
-
+c=
 
 After the coroner’s jury had viewed the body and its surroundings, Wilson suggested a search upstairs, and he went along.
 e:wilson=serious
 
 The jury forced an entrance to Tom’s room, but found nothing, of course.
-
+b=york-house-room
 
 The coroner’s jury found that the homicide was committed by Luigi, and that Angelo was accessory to it.
-
+b=york-body
 
 The town was bitter against the unfortunates, and for the first few days after the murder they were in constant danger of being lynched.
-
+b=dawson-wide
 
 The grand jury presently indicted Luigi for murder in the first degree, and Angelo as accessory before the fact.
-
+b=think
 
 The twins were transferred from the city jail to the county prison to await trial.
 
 
 Wilson examined the fingermarks on the knife-handle and said to himself,
-
+b=wilson-house-int
 
 “Neither of the twins made those marks.”
 s=wilson;e:wilson=thinking
@@ -5561,7 +5558,7 @@ The twins might have no case *with* him, but they certainly would have none with
 
 
 So Wilson mooned around, thinking, thinking, guessing, guessing, day and night, and arriving nowhere.
-e:wilson=weary
+e:wilson=weary;b=think
 
 Whenever he ran across a girl or a woman he was not acquainted with, he got her fingerprints, on one pretext or another; and they always cost him a sigh when he got home, for they never tallied with the fingermarks on the knife-handle.
 
@@ -5576,19 +5573,19 @@ When Wilson tried to connect her with the stealing-raid, and thought she might h
 e:tom=serious;e:wilson=thinking
 
 Everybody was pitying Tom, he looked so quiet and sorrowful, and seemed to feel his great loss so deeply.
-e:tom=unhappy
+e:tom=unhappy;b=light;c=tom
 
 He was playing a part, but it was not all a part.
-
+c=
 
 The picture of his alleged uncle, as he had last seen him, was before him in the dark pretty frequently, when he was awake, and called again in his dreams, when he was asleep.
-e:tom=fearful
+e:tom=fearful;c=york;e:york=weary;f:c:york=blur(10px)
 
 He wouldn’t go into the room where the tragedy had happened.
-
+c=
 
 This charmed the doting Mrs. Pratt, who realized now, “as she had never done before,” she said, what a sensitive and delicate nature her darling had, and how he adored his poor uncle.
-e:rachel=happy
+e:rachel=happy;c=tom,rachel
 
 ## XX. The Murderer Chuckles
 r=title
