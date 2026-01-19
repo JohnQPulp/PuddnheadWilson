@@ -6164,7 +6164,7 @@ The Bench said—
 e:robinson=surprised;o=;b=court-judge
 
 “This certainly approaches the miraculous!”
-s=robinson
+n:judge=The Bench;s=judge
 
 Wilson turned to the window again and remarked, pointing with his finger—
 s=;e:wilson=serious;b=light
