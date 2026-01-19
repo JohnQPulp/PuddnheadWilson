@@ -1,8 +1,8 @@
 *Pudd’nhead Wilson* by Mark Twain<e>Normally the editor's notes of these visual novels are where I make jokes at the expense of the original text and author. With books like <book>Cup of Gold</book> and <book>The Thirty-Nine Steps</book>, that was easy — there was plenty to make fun of. But to try to quip at the expense of <i>Mark Twain</i>? Absolutely on chance. That man is impossible to out-quip.</e>
-n:twain=;t=twain;b=title
+n:twain=;t=twain;b=title;e:twain=
 
 <e>But to make sure this VN still gets its proper share of inane derisive editorializing, what I'll instead do is just make fun of other authors, highlighting all the things Twain does correctly that they utterly fail at.</e>
-e:twain=two
+
 
 <e>And then I'll also pull in some of the original margin illustations from the first edition printings of <i>Pudd’nhead Wilson</i> by illustrators Frank M. Senior and Calvin H. Warren (the latter of which apparently a big Harding administration fan). Their endearing-yet-questionable drawings will provide additional opportunities for pointing-and-laughing. (All viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>.)</e>
 o=margin1
@@ -11,22 +11,22 @@ o=margin1
 t=;o=
 
 <i>There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>See what I mean? How do you out-quip that? You can't.</e>
-t=twain;b=calendar;e:twain=
+t=twain;b=calendar;e:twain=two
 
 A person who is ignorant of legal matters is always liable to make mistakes when he tries to photograph a court scene with his pen; and so I was not willing to let the law chapters in this book go to press without first subjecting them to rigid and exhausting revision and correction by a trained barrister—if that is what they are called.
-e:twain=two
+e:twain=
 
 These chapters are right, now, in every detail, for they were rewritten under the immediate eye of William Hicks, who studied law part of a while in southwest Missouri thirty-five years ago and then came over here to Florence for his health and is still helping for exercise and board in Macaroni Vermicelli’s horse-feed shed which is up the back alley as you turn around the corner out of the Piazza del Duomo just beyond the house where that stone that Dante used to sit on six hundred years ago is let into the wall when he let on to be watching them build Giotto’s campanile and yet always got tired looking as soon as Beatrice passed along on her way to get a chunk of chestnut cake to defend herself with in case of a Ghibelline outbreak before she got to school, at the same old stand where they sell the same old cake to this day and it is just as light and good as it was then, too, and this is not flattery, far from it.<e>Twain with the 179-word unsplittable sentences right from the start.</e>
-e:twain=three
+e:twain=
 
 He was a little rusty on his law, but he rubbed up for this book, and those two or three legal chapters are right and straight, now. He told me so himself.
 e:twain=
 
 Given under my hand this second day of January, 1893, at the Villa Viviani, village of Settignano, three miles back of Florence, on the hills—the same certainly affording the most charming view to be found on this planet, and with it the most dreamlike and enchanting sunsets to be found in any planet or even in any solar system—and given, too, in the swell room of the house, with the busts of Cerretani senators and other grandees of this line looking approvingly down upon me as they used to look down upon Dante, and mutely asking me to adopt them into my family, which I do with pleasure, for my remotest ancestors are but spring chickens compared with these robed and stately antiques, and it will be a great and satisfying lift for me, that six hundred years will.
-e:twain=two
+e:twain=
 
 <div class='upper'>—Mark Twain</div>
-e:twain=three
+e:twain=
 
 ## I. Pudd’nhead Wins His Name
 r=title
@@ -44,13 +44,10 @@ Each of these pretty homes had a garden in front fenced with white palings and o
 b=dawson-homes
 
 When there was room on the ledge outside of the pots and boxes for a cat, the cat was there﻿—in sunny weather﻿—stretched at full length, asleep and blissful, with her furry belly to the sun and a paw curved over her nose.
+
+
+Then that house was complete, and its contentment and peace were made manifest to the world by this symbol, whose testimony is infallible. A home without a cat﻿—and a well-fed, well-petted and properly revered cat﻿—may be a perfect home, perhaps, but how can it prove title?
 t=twain;e:twain=cat
-
-Then that house was complete, and its contentment and peace were made manifest to the world by this symbol, whose testimony is infallible.
-e:twain=cattwo
-
-A home without a cat﻿—and a well-fed, well-petted and properly revered cat﻿—may be a perfect home, perhaps, but how can it prove title?
-e:twain=catthree
 
 All along the streets, on both sides, at the outer edge of the brick sidewalks, stood locust-trees with trunks protected by wooden boxing, and these furnished shade for summer and a sweet fragrance in spring when the clusters of buds came forth.
 t=
@@ -863,7 +860,7 @@ Roxy got no rest while he was awake.
 e:roxana=weary
 
 He would call for anything and everything he saw, simply saying “Awnt it!” (want it), which was a command.<e>Twain giving a single unnecessary parenthetical here after endless paragraphs of colloquial dialogue.</e>
-t=twain;e:twain=three
+t=twain;e:twain=two
 
 When it was brought, he said in a frenzy, and motioning it away with his hands, “Don’t awnt it! don’t awnt it!” and the moment it was gone he set up frantic yells of “Awnt it! awnt it! awnt it!” and Roxy had to give wings to her heels to get that thing back to him again before he could get time to carry out his intention of going into convulsions about it.
 e:roxana=fearful;t=
@@ -1199,7 +1196,7 @@ The widow Cooper—affectionately called “aunt Patsy” by everybody—lived i
 n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena
 
 Rowena had a couple of young brothers—also of no consequence.<e>Why did we just start talking about completely new characters "of no consequence" with no scene transition or line/chapter break or anything? Because this is Mark Twain and he does whatever the f&#9472;&#9472;&#9472; he wants, and you'll damn-well enjoy it.</e>
-c=;t=twain;e:twain=three
+c=;t=twain;e:twain=
 
 The widow had a large spare room which she let to a lodger, with board, when she could find one, but this room had been empty for a year now, to her sorrow.
 e:patsy=unhappy;t=;c=patsy
@@ -2423,7 +2420,7 @@ When Rowena, the dearest thing his heart knew, the idol of his secret worship, i
 e:tom=fearful;b=light;e:rowena=unhappy;c=rowena
 
 The “nigger” in him went shrinking and skulking here and there and yonder, and fancying it saw suspicion and maybe detection in all faces, tones, and gestures.<e>Five lines in a row.</e>
-t=twain;e:twain=two;c=
+t=twain;e:twain=;c=
 
 So strange and uncharacteristic was Tom’s conduct that people noticed it, and turned to look after him when he passed on; and when he glanced back﻿—as he could not help doing, in spite of his best resistance﻿—and caught that puzzled expression in a person’s face, it gave him a sick feeling, and he took himself out of view as quickly as he could.
 t=
@@ -3737,7 +3734,7 @@ He put the will carefully back in its place, and spread his mouth and swung his 
 e:tom=excited
 
 He fell to communing with himself excitedly and joyously, but every now and then he let off another volley of dumb hurrahs.<e>Twain actively editorializing his own characters.</e>
-t=twain;e:twain=three
+t=twain;e:twain=two
 
 He said to himself: “I’ve got the fortune again, but I’ll not let on that I know about it. And this time I’m going to hang on to it. I take no more risks. I’ll gamble no more, I’ll drink no more, because—well, because I’ll not go where there is any of that sort of thing going on, again.”
 s=tom;t=;e:tom=thinking
@@ -5189,7 +5186,7 @@ e:tom=weary
 e:tom=serious
 
 ## XIX. The Prophecy Realized<e>Twain making this VN as difficult to compile as possible. But at least that's over.</e>
-r=title;t=twain;e:twain=two
+r=title;t=twain;e:twain=
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
@@ -5300,7 +5297,7 @@ He unlocked his trunk and got his suit of girl’s clothes out from under the ma
 
 
 Then he blacked his face with burnt cork and put the cork in his pocket.<e>Damnit Twain, not again!</e>
-t=twain;e:twain=three
+t=twain;e:twain=two
 
 His plan was, to slip down to his uncle’s private sitting-room below, pass into the bedroom, steal the safe-key from the old gentleman’s clothes, and then go back and rob the safe.
 e:tom=thinking;t=
@@ -6440,4 +6437,4 @@ As soon as the Governor understood the case, he pardoned Tom at once, and the cr
 b=plantation;t=twain;e:twain=two
 
 <e>And remember <u>no</u> man is a failure who has <u>friends</u>.</e>
-t=twain;e:twain=three
+t=twain
