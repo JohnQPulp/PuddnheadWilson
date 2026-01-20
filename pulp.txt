@@ -5,7 +5,7 @@ n:twain=;t=twain;b=title;e:twain=;z:twain=85
 
 
 <e>And then I'll also pull in some of the original margin illustations from the first edition printings of <i>Pudd’nhead Wilson</i> by illustrators Frank M. Senior and Calvin H. Warren (the latter of which apparently a big Harding administration fan). Their endearing-yet-questionable drawings will provide additional opportunities for pointing-and-laughing. (All viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>.)</e>
-o=margin1
+o=margin1;b=title
 
 ## A Whisper to the Reader
 t=;o=
@@ -14,7 +14,7 @@ t=;o=
 t=twain;b=calendar;e:twain=two
 
 A person who is ignorant of legal matters is always liable to make mistakes when he tries to photograph a court scene with his pen; and so I was not willing to let the law chapters in this book go to press without first subjecting them to rigid and exhausting revision and correction by a trained barrister—if that is what they are called.
-e:twain=
+e:twain=;b=title
 
 These chapters are right, now, in every detail, for they were rewritten under the immediate eye of William Hicks, who studied law part of a while in southwest Missouri thirty-five years ago and then came over here to Florence for his health and is still helping for exercise and board in Macaroni Vermicelli’s horse-feed shed which is up the back alley as you turn around the corner out of the Piazza del Duomo just beyond the house where that stone that Dante used to sit on six hundred years ago is let into the wall when he let on to be watching them build Giotto’s campanile and yet always got tired looking as soon as Beatrice passed along on her way to get a chunk of chestnut cake to defend herself with in case of a Ghibelline outbreak before she got to school, at the same old stand where they sell the same old cake to this day and it is just as light and good as it was then, too, and this is not flattery, far from it.<e>Twain with the 179-word unsplittable sentences right from the start.</e>
 e:twain=
