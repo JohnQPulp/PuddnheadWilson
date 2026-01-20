@@ -824,10 +824,10 @@ n:tom=Thomas à Becket Driscoll;n:chambers=Valet de Chambers;b=cradle-room-cradl
 e:tom=angry
 
 He would cry for nothing; he would burst into storms of devilish temper without notice, and let go scream after scream and squall after squall, then climax the thing with “holding his breath”﻿—that frightful specialty of the teething nursling, in the throes of which the creature exhausts its lungs, then is convulsed with noiseless squirmings and twistings and kickings in the effort to get its breath, while the lips turn blue and the mouth stands wide and rigid, offering for inspection one wee tooth set in the lower rim of a hoop of red gums; and when the appalling stillness has endured until one is sure the lost breath will never return, a nurse comes flying, and dashes water in the child’s face, and﻿—presto! the lungs fill, and instantly discharge a shriek, or a yell, or a howl which bursts the listening ear and surprises the owner of it into saying words which would not go well with a halo if he had one.
-b=cradle-room-door
+b=cradle-room-door;t=twain
 
 The baby Tom would claw anybody who came within reach of his nails, and pound anybody he could reach with his rattle.
-
+t=
 
 He would scream for water until he got it, and then throw cup and all on the floor and scream for more.
 
@@ -872,10 +872,10 @@ With all her splendid common sense and practical everyday ability, Roxy was a do
 e:roxana=happy
 
 She was this toward her child﻿—and she was also more than this: by the fiction created by herself, he was become her master; the necessity of recognizing this relation outwardly and of perfecting herself in the forms required to express the recognition, had moved her to such diligence and faithfulness in practicing these forms that this exercise soon concreted itself into habit; it became automatic and unconscious; then a natural result followed: deceptions intended solely for others gradually grew practically into self-deceptions as well; the mock reverence became real reverence, the mock obsequiousness real obsequiousness, the mock homage real homage; the little counterfeit rift of separation between imitation-slave and imitation-master widened and widened, and became an abyss, and a very real one﻿—and on one side of it stood Roxy, the dupe of her own deceptions, and on the other stood her child, no longer a usurper to her, but her accepted and recognized master.
-
+t=twain
 
 He was her darling, her master, and her deity all in one, and in her worship of him she forgot who she was and what he had been.
-
+t=
 
 In babyhood Tom cuffed and banged and scratched Chambers unrebuked, and Chambers early learned that between meekly bearing it and resenting it, the advantage all lay with the former policy.
 e:tom=angry;e:chambers=fearful
@@ -1426,7 +1426,7 @@ s=none;c=
 Eager inquiries concerning the twins were pouring into their enchanted ears all the time; each was the constant center of a group of breathless listeners; each recognized that she knew now for the first time the real meaning of that great word Glory, and perceived the stupendous value of it, and understood why men in all ages had been willing to throw away meaner happinesses, treasure, life itself, to get a taste of its sublime and supreme joy.
 e:rowena=excited
 
-Napoleon and all his kind stood accounted for—and justified.<e>Twain accomplishes in two sentences what Tolstoy had to yammer on about for fifty pages in <book>War and Peace</book>.</e>
+Napoleon and all his kind stood accounted for—and justified.<e>Twain accomplishes in two sentences what Tolstoy had to yammer on about for fifty exhausting pages in <book>War and Peace</book>. (Absolutely the worst ending to any book ever.)</e>
 t=twain
 
 When Rowena had at last done all her duty by the people in the parlor, she went upstairs to satisfy the longings of an overflow-meeting there, for the parlor was not big enough to hold all the comers.
@@ -1481,10 +1481,10 @@ They entered his buggy with him, and were paraded down the main street, everybod
 b=dawson-main
 
 The Judge showed the strangers the new graveyard, and the jail, and where the richest man lived, and the Freemasons’ hall, and the Methodist church, and the Presbyterian church, and where the Baptist church was going to be when they got some money to build it with, and showed them the town hall and the slaughterhouse, and got out the independent fire company in uniform and had them put out an imaginary fire; then he let them inspect the muskets of the militia company, and poured out an exhaustless stream of enthusiasm over all these splendors, and seemed very well satisfied with the responses he got, for the twins admired his admiration, and paid him back the best they could, though they could have done better if some fifteen or sixteen hundred thousand previous experiences of this sort in various countries had not already rubbed off a considerable part of the novelty of it.
-e:york=excited;b=dawson-wide
+e:york=excited;b=dawson-wide;t=twain
 
 The Judge laid himself out hospitably to make them have a good time, and if there was a defect anywhere it was not his fault.
-e:york=happy
+e:york=happy;t=
 
 He told them a good many humorous anecdotes, and always forgot the nub, but they were always able to furnish it, for these yarns were of a pretty early vintage, and they had had many a rejuvenating pull at them before.
 
@@ -1499,7 +1499,7 @@ He would call for the brothers in the evening if they would like to attend a mee
 
 
 Accordingly he called for them, and on the way he told them all about Pudd’nhead Wilson, in order that they might get a favorable impression of him in advance and be prepared to like him.
-e:york=neutral;b=light;c=wilson
+e:york=neutral;b=light;c=
 
 This scheme succeeded—the favorable impression was achieved.
 c=
@@ -1517,7 +1517,7 @@ Toward the middle of the evening they found themselves on the road to his house.
 b=wilson-house-ext
 
 Pudd’nhead was at home waiting for them and putting in his time puzzling over a thing which had come under his notice that morning.
-e:wilson=thinking;b=wilson-house-int;c=wilson
+e:wilson=thinking;b=wilson-house-int;c=
 
 The matter was this: He happened to be up very early—at dawn, in fact; and he crossed the hall which divided his cottage through the center, and entered a room to get something there.
 
@@ -1589,28 +1589,25 @@ Then she was promoted and became head chambermaid. She was a favorite with the o
 c=roxana
 
 During eight years she served three parts of the year on that boat, and the winters on a Vicksburg packet.
-c=
+c=;b=deck-of-mogul
 
 But now for two months she had had rheumatism in her arms, and was obliged to let the washtub alone.
-e:roxana=unhappy;c=roxana
+e:roxana=unhappy;c=
 
 So she resigned. But she was well fixed—rich, as she would have described it; for she had lived a steady life, and had banked four dollars every month in New Orleans as a provision for her old age.
-c=;b=mogul
+c=;b=light
 
 She said in the start that she had “put shoes on one bar’footed nigger to tromple on her with,” and that one mistake like that was enough; she would be independent of the human race thenceforth forevermore if hard work and economy could accomplish it.
 e:roxana=serious
 
 When the boat touched the levee at New Orleans she bade goodbye to her comrades on the *Grand Mogul* and moved her kit ashore.
-b=light
+
 
 But she was back in a hour. The bank had gone to smash and carried her four hundred dollars with it.
 e:roxana=surprised;b=mogul
 
-She was a pauper, and homeless.
-e:roxana=unhappy;c=roxana
-
-Also disabled bodily, at least for the present.
-e:roxana=weary
+She was a pauper, and homeless. Also disabled bodily, at least for the present.
+e:roxana=weary;c=roxana
 
 The officers were full of sympathy for her in her trouble, and made up a little purse for her.
 c=
@@ -1637,7 +1634,7 @@ That would be lovely; that would make her forget her woes and her poverty.
 e:roxana=happy
 
 Her poverty!
-b=think
+
 
 That thought inspired her to add another castle to her dream: maybe he would give her a trifle now and then—maybe a dollar, once a month, say; any little thing like that would help, oh, ever so much.
 b=dream
@@ -1655,7 +1652,7 @@ She went to Judge Driscoll’s kitchen first of all. She was received there in g
 b=york-house-kitchen
 
 Her wonderful travels, and the strange countries she had seen and the adventures she had had, made her a marvel, and a heroine of romance.
-e:roxana=happy;c=roxana
+e:roxana=happy;c=roxana,;v=100,120
 
 The Negroes hung enchanted upon the great story of her experiences, interrupting her all along with eager questions, with laughter, exclamations of delight and expressions of applause; and she was obliged to confess to herself that if there was anything better in this world than steamboating, it was the glory to be got by telling about it.
 c=
@@ -1673,7 +1670,7 @@ Once she asked why Tom was away so much. The ostensible “Chambers” said:
 e:chambers=neutral
 
 “De fac’ is, ole marster kin git along better when young marster’s away den he kin when he’s in de town; yes, en he love him better, too; so he gives him fifty dollahs a month—”
-s=chambers;c=chambers;e:roxana=
+s=chambers;c=chambers,;e:roxana=
 
 “No, is dat so? Chambers, you’s a-jokin’, ain’t you?”
 s=roxana;e:roxana=surprised
@@ -1688,13 +1685,13 @@ s=roxana
 s=chambers;e:chambers=smirking
 
 Roxy threw up her hands in astonishment and Chambers went on—
-s=none
+s=none;c=
 
 “Ole marster found it out, ’ca’se he had to pay two hundred dollahs for Marse Tom’s gamblin’ debts, en dat’s true, mammy, jes as dead certain as you’s bawn.”
-s=chambers;c=chambers
+s=chambers;c=chambers,
 
 “Two—hund’d—dollahs! Why, what is you talkin’ ’bout? Two—hund’d—dollahs.”
-s=roxana;e:roxana=surprised
+s=roxana;e:roxana=surprised;e:chambers=
 
 “Sakes alive, it’s ’mos’ enough to buy a tol’able good secondhand nigger wid. En you ain’t lyin’, honey?—you wouldn’t lie to yo’ ole mammy?”
 
@@ -1727,16 +1724,16 @@ s=chambers;e:chambers=
 s=roxana;e:roxana=angry
 
 Roxy’s pet castle—an occasional dollar from Tom’s pocket—was tumbling to ruin before her eyes.
-s=none;e:roxana=unhappy;c=
+s=none;e:roxana=unhappy;c=;b=think
 
 She could not abide such a disaster as that; she couldn’t endure the thought of it.
 
 
 Her remark amused Chambers:
-e:chambers=happy
+e:chambers=happy;b=york-house-kitchen
 
 “Yah-yah-yah! jes listen to dat! If I’s imitation, what is you? Bofe of us is imitation *white*—dat’s what we is—en pow’ful good imitation, too—yah-yah-yah!—we don’t ’mount to noth’n as imitation *niggers*; en as for—”
-s=chambers;c=chambers
+s=chambers;c=chambers,
 
 “Shet up yo’ foolin’, ’fo’ I knock you side de head, en tell me ’bout de will. Tell me ’tain’t bu’sted—do, honey, en I’ll never forgit you.”
 s=roxana;e:roxana=angry
@@ -1769,19 +1766,19 @@ Time had not modified his ancient detestation of the humble drudge and protector
 e:tom=scowling;c=
 
 He maintained the gaze until the victim of it had become satisfactorily pallid with terror, then he said—
-e:chambers=fearful
+e:chambers=
 
 “What does the old rip want with me?”
 s=tom
 
 The petition was meekly repeated.
-s=none;c=
+s=none;c=,chambers;v=
 
 “Who gave you permission to come and disturb me with the social attentions of niggers?”
-s=tom;e:tom=angry;c=tom,chambers
+s=tom;e:tom=angry
 
 Tom had risen. The other young man was trembling now, visibly.
-s=none
+s=none;c=tom,chambers;e:chambers=fearful
 
 He saw what was coming, and bent his head sideways, and put up his left arm to shield it.
 c=
@@ -1804,28 +1801,31 @@ s=none
 The last one helped the pure-white slave over the doorsill, and he limped away mopping his eyes with his old ragged sleeve.
 b=york-house-int
 
-Tom shouted after him, “Send her in!”
+Tom shouted after him,
+s=;c=tom
+
+“Send her in!”
 s=tom
 
 Then he flung himself panting on the sofa again, and rasped out the remark,
-s=
+s=;c=
 
 “He arrived just at the right moment; I was full to the brim with bitter thinkings, and nobody to take it out of. How refreshing it was! I feel better.”
 e:tom=smirking;s=tom
 
 Tom’s mother entered now, closing the door behind her, and approached her son with all the wheedling and supplicating servilities that fear and interest can impart to the words and attitudes of the born slave.
-e:roxana=happy;s=none;c=roxana
+e:roxana=happy;s=none;c=,roxana
 
 She stopped a yard from her boy and made two or three admiring exclamations over his manly stature and general handsomeness, and Tom put an arm under his head and hoisted a leg over the sofa-back in order to look properly indifferent.
 e:tom=neutral;c=
 
 “My lan’, how you is growed, honey! ’Clah to goodness, I wouldn’t a-knowed you, Marse Tom! ’deed I wouldn’t!”
-s=roxana;c=roxana
+s=roxana;c=,roxana
 
 “Look at me good; does you ’member old Roxy?—does you know yo’ old nigger mammy, honey? Well, now, I kin lay down en die in peace, ’ca’se I’se seed—”
 
 
-“Cut it short, ——— it, cut it short! What is it you want?”
+“Cut it short, &#9472;&#9472;&#9472; it, cut it short! What is it you want?”
 s=tom;e:tom=angry
 
 “You heah dat? Jes the same old Marse Tom, al’ays so gay and funnin’ wid de ole mammy. I ’uz jes as shore—”
@@ -1919,13 +1919,13 @@ It was her turn to scorn persuasive foolery, now, and she did not waste it.
 c=roxana
 
 She said, with a grim implacability in voice and manner which made Tom almost realize that even a former slave can remember for ten minutes insults and injuries returned for compliments and flatteries received, and can also enjoy taking revenge for them when the opportunity offers:
-
+e:roxana=angry
 
 “What does I know? I’ll tell you what I knows. I knows enough to bu’st dat will to flinders—en more, mind you, *more*!”
 s=roxana;e:roxana=angry
 
 Tom was aghast.
-s=none;e:tom=surprised
+s=none;e:tom=surprised;c=
 
 “More?” he said. “What do you call more? Where’s there any room for more?”
 s=tom
@@ -1934,7 +1934,7 @@ Roxy laughed a mocking laugh, and said scoffingly, with a toss of her head, and 
 s=none;e:roxana=smirking
 
 “Yes!—oh, I reckon! *Co’se* you’d like to know—wid yo’ po’ little ole rag dollah.”
-s=roxana
+s=roxana;c=roxana
 
 “What you reckon I’s gwine to tell *you* for?—you ain’t got no money. I’s gwine to tell yo’ uncle—en I’ll do it dis minute, too—he’ll gimme *five* dollahs for de news, en mighty glad, too.”
 
@@ -1960,7 +1960,7 @@ s=none
 “Oh, Roxy, you wouldn’t require your young master to do such a horrible thing. You can’t mean it.”
 s=tom
 
-“I’ll let you know mighty quick whether I means it or not! You call me names, en as good as spit on me when I comes here po’ en ornery en ’umble, to praise you for bein’ growed up so fine en handsome, en tell you how I used to nuss you en tend you en watch you when you ’uz sick en hadn’t no mother but me in de whole worl’, en beg you to give de po’ ole nigger a dollah for to git her som’n’ to eat, en you call me names—*names*, dad blame you!”<e>You know you scan still buy a soup for a dollah. Not really sure what the plate is meant to be though. Steak?</e>
+“I’ll let you know mighty quick whether I means it or not! You call me names, en as good as spit on me when I comes here po’ en ornery en ’umble, to praise you for bein’ growed up so fine en handsome, en tell you how I used to nuss you en tend you en watch you when you ’uz sick en hadn’t no mother but me in de whole worl’, en beg you to give de po’ ole nigger a dollah for to git her som’n’ to eat, en you call me names—*names*, dad blame you!”<e>Back when one dollah could buy you soup and… something.</e>
 s=roxana;e:roxana=angry;o=margin5
 
 “Yassir, I gives you jes one chance mo’, and dat’s *now*, en it las’ on’y a half a second—you hear?”
@@ -2005,23 +2005,35 @@ s=tom
 “Well, den, you come to de ha’nted house ’bout ten or ’leven tonight, en climb up de ladder, ’ca’se de sta’r-steps is broke down, en you’ll find me. I’s a-roostin’ in de ha’nted house ’ca’se I can’t ’ford to roos’ nowhers’ else.”
 s=roxana
 
-She started toward the door, but stopped and said, “Gimme de dollah bill!” He gave it to her.
+She started toward the door, but stopped and said,
+s=;c=
+
+“Gimme de dollah bill!”
+e:roxana=angry;s=roxana;e:tom=fearful
+
+He gave it to her.
 s=none;c=
 
-She examined it and said, “H’m—like enough de bank’s bu’sted.” She started again, but halted again.
+She examined it and said,
+
+
+“H’m—like enough de bank’s bu’sted.”
+s=roxana;e:roxana=
+
+She started again, but halted again.
 s=;e:roxana=neutral
 
 “Has you got any whisky?”
 s=roxana
 
 “Yes, a little.”
-s=tom
+s=tom;c=tom
 
 “Fetch it!”
 s=roxana;e:roxana=smirking
 
 He ran to his room overhead and brought down a bottle which was two-thirds full.
-s=none
+s=none;c=
 
 She tilted it up and took a drink. Her eyes sparkled with satisfaction, and she tucked the bottle under her shawl, saying,
 
