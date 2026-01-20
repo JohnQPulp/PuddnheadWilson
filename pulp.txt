@@ -1,5 +1,5 @@
 *Pudd’nhead Wilson* by Mark Twain<e>Normally the editor's notes of these visual novels are where I make jokes at the expense of the original text and author. With books like <book>Cup of Gold</book> and <book>The Thirty-Nine Steps</book>, that was easy — there was plenty to make fun of. But to try to quip at the expense of <i>Mark Twain</i>? Absolutely on chance. That man is impossible to out-quip.</e>
-n:twain=;t=twain;b=title;e:twain=
+n:twain=;t=twain;b=title;e:twain=;z:twain=85
 
 <e>But to make sure this VN still gets its proper share of inane derisive editorializing, what I'll instead do is just make fun of other authors, highlighting all the things Twain does correctly that they utterly fail at.</e>
 
@@ -26,7 +26,7 @@ Given under my hand this second day of January, 1893, at the Villa Viviani, vill
 e:twain=
 
 <div class='upper'>—Mark Twain</div>
-e:twain=
+e:twain=two
 
 ## I. Pudd’nhead Wins His Name
 r=title
@@ -2969,13 +2969,13 @@ There was another storm of cries:
 e:angelo=serious
 
 “What’s the matter with the other one?”
-s=cit1
+s=cit1;z:cit1=105,55,1
 
 “What is the blond one going back on us for?”
-s=cit2
+s=cit2;z:cit2=100,49,5
 
 “Explain! Explain!”
-s=cit3
+s=cit3;z:cit3=110
 
 The chairman inquired, and then reported—
 s=none
@@ -2999,10 +2999,10 @@ This speech was received with great applause, mixed with cries of—
 s=none
 
 “That’s the talk!”
-s=cit4
+s=cit4;z:cit4=110,49,6
 
 “He’s a good fellow, anyway, if he *is* a teetotaler!”
-s=cit5
+s=cit5;z:cit5=100,49,15
 
 “Drink his health!”
 s=cit6
