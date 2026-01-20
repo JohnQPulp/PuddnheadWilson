@@ -280,8 +280,8 @@ o=
 He often studied his records, examining and poring over them with absorbing interest until far into the night; but what he found there﻿—if he found anything﻿—he revealed to no one.
 
 
-Sometimes he copied on paper the involved and delicate pattern left by the ball of a finger, and then vastly enlarged it with a pantograph so that he could examine its web of curving lines with ease and convenience.<e>I don't know what a pantograph is. So here's the original illustration. Hope that helps.</e>
-o=margin2
+Sometimes he copied on paper the involved and delicate pattern left by the ball of a finger, and then vastly enlarged it with a pantograph so that he could examine its web of curving lines with ease and convenience.
+
 
 One sweltering afternoon﻿—it was the first day of July, 1830﻿—he was at work over a set of tangled account-books in his workroom, which looked westward over a stretch of vacant lots, when a conversation outside disturbed him.
 e:wilson=weary;o=
@@ -422,7 +422,7 @@ Theft he could not abide, and plainly there was a thief in his house.
 c=
 
 Necessarily the thief must be one of his Negroes. Sharp measures must be taken. He called his servants before him.
-
+c=percy
 
 There were three of these, besides Roxy: a man, a woman, and a boy twelve years old.<e>Stupid image generator refuses to draw a 12-year-old slave. Fine, original illustration it is then.</e>
 n:servant1=Servant;n:servant2=Servant;n:servant3=Servant;e:servant1=fearful;e:servant2=fearful;e:servant3=fearful;c=servant1,servant2,servant3;z:servant1=102;z:servant2=92;z:servant3=75
@@ -485,10 +485,10 @@ On frosty nights the humane Negro prowler would warm the end of a plank and put 
 f:b:dawson-wide=brightness(85%)
 
 “Name the thief!”
-s=percy;b=percy-house-int;c=percy;v=100,120
+s=percy;b=percy-house-int;c=percy;v=100,120;e:percy=point
 
 For the fourth time Mr. Driscoll had said it, and always in the same hard tone.
-s=none
+s=none;c=
 
 And now he added these words of awful import:
 c=
@@ -611,13 +611,13 @@ She resolved to make her death-toilet perfect.
 e:roxana=serious
 
 She took off her handkerchief-turban and dressed her glossy wealth of hair “like white folks”; she added some odds and ends of rather lurid ribbon and a spray of atrocious artificial flowers; finally she threw over her shoulders a fluffy thing called a “cloud” in that day, which was of a blazing red complexion.
-
+b=light
 
 Then she was ready for the tomb.
 a:roxana=gown;c=roxana
 
 She gathered up her baby once more; but when her eye fell upon its miserably short little gray tow-linen shirt and noted the contrast between its pauper shabbiness and her own volcanic irruption of infernal splendors, her mother-heart was touched, and she was ashamed.
-e:roxana=unhappy;c=
+e:roxana=unhappy;c=;b=cradle-room-door
 
 “No, dolling, mammy ain’t gwine to treat you so.”
 s=roxana
@@ -740,7 +740,7 @@ e:roxana=neutral
 e:roxana=happy
 
 She got up lighthearted and happy, and went to the cradles and spent what was left of the night “practising.”
-s=none
+s=none;b=light
 
 She would give her own child a light pat and say humbly, “Lay still, Marse Tom,” then give the real Tom a pat and say with severity, “Lay *still*, Chambers!—does you want me to take somep’n’ *to* you?”
 
@@ -749,7 +749,7 @@ As she progressed with her practice, she was surprised to see how steadily and s
 s=none;e:roxana=surprised
 
 She took occasional rests from practising, and absorbed herself in calculating her chances.
-e:roxana=thinking
+e:roxana=thinking;b=cradle-room-cradles
 
 “Dey’ll sell dese niggers today fo’ stealin’ de money, den dey’ll buy some mo’ dat don’t know de chillen—so *dat’s* all right.”
 s=roxana
@@ -808,17 +808,17 @@ But he didn’t.
 He discovered nothing; and she went home jubilant, and dropped all concern about the matter permanently out of her mind.
 e:roxana=happy
 
-## IV. The Ways of the Changelings<e>The ol' identical-appearance-children-swapped plot. The balls on Twain to write <book>Prince and the Pauper|the exact same book</book> twice.</e>
-r=title;t=twain;e:twain=two
+## IV. The Ways of the Changelings<e>The balls on Twain to write <book>Prince and the Pauper|the exact same child-swap book</book> twice.</e>
+r=title;t=twain;e:twain=
 
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
 
-<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Based 2 Kings 2:23-25 reference.</e>
-
+<i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Nice 2 Kings 2:23-25 reference, king.</e>
+t=twain
 
 This history must henceforth accommodate itself to the change which Roxana has consummated, and call the real heir “Chambers” and the usurping little slave “Thomas à Becket”﻿—shortening this latter name to “Tom,” for daily use, as the people about him did.
-n:tom=Thomas à Becket Driscoll;n:chambers=Valet de Chambers;b=cradle-room-cradles
+n:tom=Thomas à Becket Driscoll;n:chambers=Valet de Chambers;b=cradle-room-cradles;t=
 
 “Tom” was a bad baby, from the very beginning of his usurpation.
 e:tom=angry
@@ -841,8 +841,8 @@ When he got to be old enough to begin to toddle about and say broken words and g
 Roxy got no rest while he was awake.
 e:roxana=weary
 
-He would call for anything and everything he saw, simply saying “Awnt it!” (want it), which was a command.<e>Twain giving a single unnecessary parenthetical here after endless paragraphs of colloquial dialogue.</e>
-t=twain;e:twain=two
+He would call for anything and everything he saw, simply saying “Awnt it!” (want it), which was a command.
+
 
 When it was brought, he said in a frenzy, and motioning it away with his hands, “Don’t awnt it! don’t awnt it!” and the moment it was gone he set up frantic yells of “Awnt it! awnt it! awnt it!” and Roxy had to give wings to her heels to get that thing back to him again before he could get time to carry out his intention of going into convulsions about it.
 e:roxana=fearful;t=
@@ -862,7 +862,7 @@ e:roxana=angry
 Tom got all the petting, Chambers got none.
 e:tom=neutral;e:chambers=unhappy
 
-Tom got all the delicacies, Chambers got mush and milk, and clabber without sugar. In consequence Tom was a sickly child and Chambers wasn’t.<e>Hah! A funny milk joke without making it into a weird degeneracy. Take note, Steinbeck <i>and</i> Updike.</e>
+Tom got all the delicacies, Chambers got mush and milk, and clabber without sugar. In consequence Tom was a sickly child and Chambers wasn’t.<e>Referencing milk in a funny and non-degenerate way. Something both Steinbeck and Updike failed at.</e>
 
 
 Tom was “fractious,” as Roxy called it, and overbearing; Chambers was meek and docile.
@@ -878,7 +878,7 @@ He was her darling, her master, and her deity all in one, and in her worship of 
 
 
 In babyhood Tom cuffed and banged and scratched Chambers unrebuked, and Chambers early learned that between meekly bearing it and resenting it, the advantage all lay with the former policy.
-e:tom=angry;e:chambers=fearful;b=cradle-room-door
+e:tom=angry;e:chambers=fearful
 
 The few times that his persecutions had moved him beyond control and made him fight back had cost him very dear at headquarters; not at the hands of Roxy, for if she ever went beyond scolding him sharply for “forgitt’n’ who his young marster was,” she at least never extended her punishment beyond a box on the ear.
 e:chambers=angry;e:roxana=angry
@@ -890,7 +890,7 @@ Chambers overstepped the line three times, and got three such convincing canings
 e:chambers=fearful;c=
 
 Outside of the house the two boys were together all through their boyhood.
-e:tom=neutral;e:chambers=neutral;b=dawson-wide
+e:tom=neutral;e:chambers=neutral;b=dawson-wide;f:b:dawson-wide=
 
 Chambers was strong beyond his years, and a good fighter; strong because he was coarsely fed and hard worked about the house, and a good fighter because Tom furnished him plenty of practice﻿—on white boys whom he hated and was afraid of.
 
@@ -920,7 +920,7 @@ Tom was a distinguished adept at these thefts﻿—by proxy. Chambers did his st
 
 
 Tom always made Chambers go in swimming with him, and stay by him as a protection.
-b=water
+b=river
 
 When Tom had had enough, he would slip out and tie knots in Chambers’s shirt, dip the knots in the water and make them hard to undo, then dress himself and sit by and laugh while the naked shiverer tugged at the stubborn knots with his teeth.
 e:tom=happy;e:chambers=unhappy
@@ -961,7 +961,10 @@ e:tom=angry;a:tom=15;a:chambers=15;a:york=old;a:wilson=old;a:roxana=old;a:percy=
 “Knock their heads off, Chambers! knock their heads off! What do you stand there with your hands in your pockets for?”
 s=tom
 
-Chambers expostulated, and said, “But, Marse Tom, dey’s too many of ’em﻿—dey’s﻿—”
+Chambers expostulated, and said,
+s=
+
+“But, Marse Tom, dey’s too many of ’em﻿—dey’s﻿—”
 s=chambers;e:chambers=fearful
 
 “Do you hear me?”
@@ -970,7 +973,7 @@ s=tom
 “Please, Marse Tom, don’t make me! Dey’s so many of ’em dat﻿—”
 s=chambers
 
-Tom sprang at him and drove his pocketknife into him two or three times before the boys could snatch him away and give the wounded lad a chance to escape.
+Tom sprang at him and drove his pocketknife into him two or three times before the boys could snatch him away and give the wounded lad a chance to escape.<e>Funny how the same name as <book>Tom Sawyer|Twain's most beloved character</book> is reused here for this real jerk.</e>
 s=none;b=action
 
 He was considerably hurt, but not seriously. If the blade had been a little longer his career would have ended there.
@@ -1021,7 +1024,7 @@ e:roxana=smirking;b=percy-house-int
 There were two grand funerals in Dawson’s Landing that fall﻿—the fall of 1845.
 b=dawson-wide
 
-One was that of Colonel Cecil Burleigh Essex, the other that of Percy Driscoll.<e>Hey, Colonel Cecil Burleigh Essex <i>did</i> come back. And to think I doubted you, Twain!</e>
+One was that of Colonel Cecil Burleigh Essex, the other that of Percy Driscoll.<e>Hey! You said "we have no concern" with Colonel Cecil Burleigh Essex. You sneaky Twain, you.</e>
 e:percy=neutral;e:twain=;t=twain
 
 On his deathbed Driscoll set Roxy free and delivered his idolized ostensible son solemnly into the keeping of his brother, the Judge and his wife.
@@ -1034,7 +1037,7 @@ Judge Driscoll had gone privately to his brother, a month before, and bought Cha
 c=
 
 He had heard that Tom had been trying to get his father to sell the boy down the river, and he wanted to prevent the scandal﻿—for public sentiment did not approve of that way of treating family servants for light cause or for no cause.
-e:tom=angry;c=tom,chambers
+e:tom=angry;c=tom,chambers;z:tom-a15=90;z:chambers-a15=93
 
 Percy Driscoll had worn himself out in trying to save his great speculative landed estate, and had died without succeeding.
 c=
@@ -1054,7 +1057,10 @@ c=
 Wilson was chatting with him when Roxy arrived. He asked her how she could bear to go off chambermaiding and leave her boys; and chaffingly offered to copy off a series of their fingerprints, reaching up to their twelfth year, for her to remember them by; but she sobered in a moment, wondering if he suspected anything; then she said she believed she didn’t want them.
 e:wilson=neutral;e:roxana=wary
 
-Wilson said to himself, “The drop of black blood in her is superstitious; she thinks there’s some devilry, some witch-business about my glass mystery somewhere; she used to come here with an old horseshoe in her hand; it could have been an accident, but I doubt it.”
+Wilson said to himself,
+
+
+“The drop of black blood in her is superstitious; she thinks there’s some devilry, some witch-business about my glass mystery somewhere; she used to come here with an old horseshoe in her hand; it could have been an accident, but I doubt it.”
 s=wilson;e:wilson=thinking
 
 ## V. The Twins Thrill Dawson’s Landing
@@ -1088,7 +1094,7 @@ He was as indolent as ever and showed no very strenuous desire to hunt up an occ
 e:tom=neutral
 
 People argued from this that he preferred to be supported by his uncle until his uncle’s shoes should become vacant.
-b=wilson-house-ext
+
 
 He brought back one or two new habits with him, one of which he rather openly practised—tippling—but concealed another which was gambling.
 b=think
@@ -1109,10 +1115,10 @@ He enjoyed the feeling which he was exciting, and paraded the town serene and ha
 e:tom=surprised
 
 Tom surrendered, and after that clothed himself in the local fashion.
-e:tom=unhappy;b=light;c=tom
+e:tom=unhappy;b=light;c=tom;z:tom-a19=97;z:chambers-a19=102
 
 But the dull country town was tiresome to him, since his acquaintanceship with livelier regions, and it grew daily more and more so.
-e:tom=weary;b=dawson-wide;c=
+e:tom=weary;c=
 
 He began to make little trips to St. Louis for refreshment.
 e:tom=happy;b=louis-wide
@@ -1130,16 +1136,16 @@ He was taking chances, privately, which might get him into trouble some day—in
 
 
 Judge Driscoll had retired from the bench and from all business activities in 1850, and had now been comfortably idle three years.
-e:york=neutral;b=york-house-int;c=york
+e:york=neutral;b=light;c=,york
 
 He was president of the Freethinkers’ Society, and Pudd’nhead Wilson was the other member.
-
+c=wilson,york;e:wilson=happy
 
 The society’s weekly discussions were now the old lawyer’s main interest in life.
 c=
 
 Pudd’nhead was still toiling in obscurity at the bottom of the ladder, under the blight of that unlucky remark which he had let fall twenty-three years before about the dog.
-e:wilson=weary;b=wilson-house-int;c=wilson
+e:wilson=weary;b=wilson-house-int;c=
 
 Judge Driscoll was his friend, and claimed that he had a mind above the average, but that was regarded as one of the Judge’s whims, and it failed to modify the public opinion.
 e:york=serious;c=
@@ -1150,8 +1156,8 @@ Or rather, that was one of the reasons why it failed, but there was another and 
 If the Judge had stopped with bare assertion, it would have had a good deal of effect; but he made the mistake of trying to prove his position.
 e:york=thinking
 
-For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.<e>Only Twain could brag about his own quips form within the narrative <i>and get away it it</i>.</e>
-e:wilson=thinking;e:york=happy;b=calendar;t=twain;e:twain=two
+For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.<e>Twain bragging about his own writing, and because he's Twain, he gets away with it.</e>
+e:wilson=thinking;e:york=happy;b=calendar;t=twain
 
 But irony was not for those people; their mental vision was not focused for it.
 e:wilson=unhappy;t=
@@ -1174,14 +1180,11 @@ The other member of his pet organization was allowed the like liberty because he
 He was liked, he was welcome enough all around, but he simply didn’t count for anything.
 e:wilson=neutral
 
-The widow Cooper—affectionately called “aunt Patsy” by everybody—lived in a snug and comely cottage with her daughter Rowena, who was nineteen, romantic, amiable, and very pretty, but otherwise of no consequence.
-n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena
-
-Rowena had a couple of young brothers—also of no consequence.<e>Why did we just start talking about completely new characters "of no consequence" with no scene transition or line/chapter break or anything? Because this is Mark Twain and he does whatever the f&#9472;&#9472;&#9472; he wants, and you'll damn-well enjoy it.</e>
-c=;t=twain;e:twain=
+The widow Cooper—affectionately called “aunt Patsy” by everybody—lived in a snug and comely cottage with her daughter Rowena, who was nineteen, romantic, amiable, and very pretty, but otherwise of no consequence. Rowena had a couple of young brothers—also of no consequence.<e>Smash cutting to brand new characters "of no consequence" with no transition because f&#9472;&#9472;&#9472 you, reader.</e>
+n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena;z:patsy=87;z:rowena=92;t=twain
 
 The widow had a large spare room which she let to a lodger, with board, when she could find one, but this room had been empty for a year now, to her sorrow.
-e:patsy=unhappy;t=;c=patsy
+e:patsy=unhappy;t=;c=patsy,
 
 Her income was only sufficient for the family support, and she needed the lodging-money for trifling luxuries.
 
@@ -1199,7 +1202,7 @@ She had read the letter to the family, and Rowena had danced away to see to the 
 e:rowena=excited;n:nancy=Nancy;b=dawson-wide
 
 Presently Rowena returned, all ablush with joyous excitement, and begged for a rereading of the letter.
-e:rowena=happy;b=patsy-house-int
+e:rowena=happy;b=patsy-house-parlor
 
 It was framed thus:
 
@@ -1232,10 +1235,10 @@ The Judge was full of congratulations and curiosity. The letter was read and dis
 s=none;e:york=happy;c=york,
 
 Soon Justice Robinson arrived with more congratulations, and there was a new reading and a new discussion.
-n:robinson=Justice Robinson;c=,robinson
+n:robinson=Justice Robinson;c=york,robinson
 
 This was the beginning.
-c=
+c=;b=light
 
 Neighbor after neighbor, of both sexes, followed, and the procession drifted in and out all day and evening and all Wednesday and Thursday.
 
@@ -1250,22 +1253,19 @@ This time the Thursday boat had not arrived at ten at night—so the people had 
 e:rowena=unhappy;e:patsy=unhappy
 
 Eleven o’clock came; and the Cooper house was the only one in the town that still had lights burning.
-b=patsy-house-parlor
+b=patsy-house-parlor-night
 
 The rain and thunder were booming yet, and the anxious family were still waiting, still hoping.
 
 
 At last there was a knock at the door and the family jumped to open it.
-e:patsy=excited;e:rowena=excited;c=patsy,rowena
+e:patsy=excited;e:rowena=excited;c=
 
 Two Negro men entered, each carrying a trunk, and proceeded upstairs toward the guestroom.
 c=
 
-Then entered the twins—the handsomest, the best dressed, the most distinguished-looking pair of young fellows the West had ever seen.
+Then entered the twins—the handsomest, the best dressed, the most distinguished-looking pair of young fellows the West had ever seen. One was a little fairer than the other, but otherwise they were exact duplicates.<e>Nice uh da Patsy to invite us ovah.</e>
 e:luigi=neutral;e:angelo=neutral;c=luigi,angelo
-
-One was a little fairer than the other, but otherwise they were exact duplicates.
-
 
 ## VI. Swimming in Glory
 r=title
