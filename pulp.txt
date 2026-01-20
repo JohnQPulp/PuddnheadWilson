@@ -1544,7 +1544,7 @@ The window of the room had no curtains, for that side of the house had long been
 e:wilson=surprised;c=
 
 It was a young woman—a young woman where properly no young woman belonged; for she was in Judge Driscoll’s house, and in the bedroom over the Judge’s private study or sitting-room.
-b=wilson-house-woman-window
+b=wilson-house-window
 
 This was young Tom Driscoll’s bedroom. He and the Judge, the Judge’s widowed sister Mrs. Pratt and three Negro servants were the only people who belonged in the house.
 
@@ -2510,7 +2510,7 @@ By dawn he was tricked out for his raid, but he caught a glimpse of Pudd’nhead
 e:tom=surprised;e:wilson=surprised;c=
 
 So he entertained Wilson with some airs and graces and attitudes for a while, then stepped out of sight and resumed the other disguise, and by and by went down and out the back way and started down town to reconnoiter the scene of his intended labors.
-e:tom=smirking;e:wilson=;b=wilson-house-woman-window
+e:tom=smirking;e:wilson=;b=wilson-house-window
 
 But he was ill at ease.
 e:tom=wary;c=;b=light
@@ -2839,8 +2839,8 @@ e:angelo=
 He took a sheet of paper and made a rapid sketch.
 s=none;c=
 
-“There it is—a broad and murderous blade, with edges like a razor for sharpness. The devices engraved on it are the ciphers or names of its long line of possessors—I had Luigi’s name added in Roman letters myself with our coat of arms, as you see.”
-s=angelo;e:angelo=thinking;o=dagger-drawing
+“There it is—a broad and murderous blade, with edges like a razor for sharpness. The devices engraved on it are the ciphers or names of its long line of possessors—I had Luigi’s name added in Roman letters myself with our coat of arms, as you see.”<e>Dang, Angelo's a good artist.</e>
+s=angelo;e:angelo=thinking;o=dagger
 
 “You notice what a curious handle the thing has. It is solid ivory, polished like a mirror, and is four or five inches long—round, and as thick as a large man’s wrist, with the end squared off flat, for your thumb to rest on; for you grasp it, with your thumb resting on the blunt end—so—and lift it aloft and strike downward.”
 e:angelo=
@@ -3905,7 +3905,7 @@ s=roxana
 s=tom
 
 “Happened dis-away. I ’uz a-sett’n’ here kinder dozin’ in de dark, en *che-bang*! goes a gun, right out dah.”
-s=roxana;e:roxana=excited;c=;b=duel
+s=roxana;e:roxana=excited;c=;b=think
 
 “I skips along out towards t’other end o’ de house to see what’s gwyne on, en stops by de ole winder on de side towards Pudd’nhead Wilson’s house dat ain’t got no sash in it—but dey ain’t none of ’em got any sashes, fur as dat’s concerned—en I stood dah in de dark en look out, en dar in de moonlight, right down under me ’uz one o’ de twins a-cussin’—not much, but jist a-cussin’ soft—it ’uz de brown one dat ’uz cussin’, ’ca’se he ’uz hit in de shoulder.”
 
@@ -3914,7 +3914,7 @@ s=roxana;e:roxana=excited;c=;b=duel
 e:roxana=
 
 “En treckly dey squared off en give de word, en *bang-bang* went de pistols, en de twin he say, ‘Ouch!’—hit him on de han’ dis time—en I hear dat same bullet go *spat*! ag’in, de logs under de winder; en de nex’ time dey shoot, de twin say, ‘Ouch!’ ag’in, en I done it too, ’ca’se de bullet glance’ on his cheekbone en skip up here en glance on de side o’ de winder en whiz right acrost my face en tuck de hide off’n my nose—why, if I’d ’a’ be’n jist a inch or a inch en a half furder ’t would ’a’ tuck de whole nose en disfiggered me.”<e>Boink.</e>
-e:roxana=excited;o=margin10
+e:roxana=excited;o=margin10;b=light
 
 “Here’s de bullet; I hunted her up.”
 e:roxana=;b=haunted-int;o=
@@ -4658,7 +4658,7 @@ Tom’s conduct had remained so letter-perfect during two whole months, now, tha
 e:tom=happy;b=york-house-secretary
 
 The closing speech of the campaign was made by Judge Driscoll, and he made it against both of the foreigners.
-b=speech
+b=light
 
 It was disastrously effective. He poured out rivers of ridicule upon them, and forced the big mass-meeting to laugh and applaud.
 e:york=excited
@@ -5666,7 +5666,7 @@ Mr. Wilson said he would offer no denial. [Murmurs in the house—“It is getti
 e:wilson=serious;b=court-defense
 
 Mrs. Pratt testified that she heard no outcry, and did not know what woke her up, unless it was the sound of rapid footsteps approaching the front door.
-e:rachel=crying;b=court-witness-rachel
+e:rachel=crying;b=light
 
 She jumped up and ran out in the hall just as she was, and heard the footsteps flying up the front steps and then following behind her as she ran to the sitting-room.
 
