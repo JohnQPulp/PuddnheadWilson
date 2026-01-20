@@ -442,7 +442,7 @@ c=
 Necessarily the thief must be one of his Negroes. Sharp measures must be taken. He called his servants before him.
 
 
-There were three of these, besides Roxy: a man, a woman, and a boy twelve years old.
+There were three of these, besides Roxy: a man, a woman, and a boy twelve years old.<e>Stupid image generator refuses to draw a 12-year-old slave. Fine, original illustration it is then.</e>
 n:servant1=Servant;n:servant2=Servant;n:servant3=Servant;e:servant1=fearful;e:servant2=fearful;e:servant3=fearful;c=roxana,servant1,servant2,servant3
 
 They were not related. Mr. Driscoll said:
@@ -4381,7 +4381,7 @@ e:tom=unhappy
 “Indeed? What was that?”
 s=york;e:york=surprised
 
-“Count Luigi is a confessed assassin.”
+“Count Luigi is a confessed assassin.”<e>Twain over here correctly predicting Luigi assassins.</e>
 s=tom;e:tom=serious
 
 “Incredible!”
@@ -5879,7 +5879,7 @@ He was awake all over. All sense of weariness had been swept away by the invigor
 e:wilson=excited
 
 He made fine and accurate reproductions of a number of his “records,” and then enlarged them on a scale of ten to one with his pantograph.
-o=pantograph
+o=margin2
 
 He did these pantograph enlargements on sheets of white cardboard, and made each individual line of the bewildering maze of whorls or curves or loops which constituted the “pattern,” of a “record” stand out bold and black by reinforcing it with ink.
 e:wilson=serious;o=
