@@ -797,7 +797,7 @@ e:roxana=thinking
 
 
 The new Negroes gave Roxy no trouble, of course.
-s=none;e:roxana=neutral;b=percy-house-ext
+s=none;e:roxana=neutral;b=dawson-homes
 
 The master gave her none, for one of his speculations was in jeopardy, and his mind was so occupied that he hardly saw the children when he looked at them, and all Roxy had to do was to get them both into a gale of laughter when he came about; then their faces were mainly cavities exposing gums, and he was gone again before the spasm passed and the little creatures resumed a human aspect.
 b=percy-house-int
@@ -1106,7 +1106,7 @@ He was as indolent as ever and showed no very strenuous desire to hunt up an occ
 e:tom=neutral
 
 People argued from this that he preferred to be supported by his uncle until his uncle’s shoes should become vacant.
-b=york-house-ext
+b=wilson-house-ext
 
 He brought back one or two new habits with him, one of which he rather openly practised—tippling—but concealed another which was gambling.
 b=think
@@ -1487,7 +1487,7 @@ r=title
 b=calendar
 
 The company broke up reluctantly, and drifted toward their several homes, chatting with vivacity, and all agreeing that it would be many a long day before Dawson’s Landing would see the equal of this one again.
-b=dawson-street
+b=dawson-homes
 
 The twins had accepted several invitations while the reception was in progress, and had also volunteered to play some duets at an amateur entertainment for the benefit of a local charity.
 
@@ -1775,7 +1775,7 @@ Yes, she was satisfied now, and quite happy and sentimental over it.
 s=none;e:roxana=happy;c=
 
 She kept coming daily, and at last she was told that Tom had come home.
-e:roxana=excited;b=york-house-ext
+e:roxana=excited;b=wilson-house-ext
 
 She began to tremble with emotion, and straightway sent to beg him to let his “po’ ole nigger mammy have jes one sight of him en die for joy.”
 
@@ -3299,7 +3299,7 @@ His appetite was gone with his property and his self-respect.
 
 
 He went out the back way and wandered down the obscure lane grieving, and wondering if any course of future conduct, however discreet and carefully perfected and watched over, could win back his uncle’s favor and persuade him to reconstruct once more that generous will which had just gone to ruin before his eyes.
-e:tom=thinking;b=dawson-street
+e:tom=thinking;b=dawson-homes
 
 He finally concluded that it could. He said to himself that he had accomplished this sort of triumph once already, and that what had been done once could be done again.
 
@@ -3758,7 +3758,7 @@ His joy collapsed utterly, and he turned away and moped toward the door moaning 
 e:tom=unhappy;b=york-house-hall
 
 He dragged himself upstairs, and brooded in his room a long time disconsolate and forlorn, with Luigi’s Indian knife for a text.
-b=york-house-bedroom
+b=york-house-room
 
 At last he sighed and said:
 
@@ -3794,7 +3794,7 @@ He had heard several distant gunshots, but that sort of thing was not uncommon, 
 
 
 He went out at the back door, and turned westward.
-b=dark
+b=think
 
 He passed Wilson’s house and proceeded along the lane, and presently saw several figures approaching Wilson’s place through the vacant lots.
 b=wilson-house-ext;f:b:wilson-house-ext=brightness(85%)
@@ -4100,7 +4100,7 @@ The twins were prodigiously great, now; the town took them to its bosom with ent
 
 
 Day after day, and night after night, they went dining and visiting from house to house, making friends, enlarging and solidifying their popularity, and charming and surprising all with their musical prodigies, and now and then heightening the effects with samples of what they could do in other directions, out of their stock of rare and curious accomplishments.
-b=dawson-street
+b=dawson-homes
 
 They were so pleased that they gave the regulation thirty days’ notice, the required preparation for citizenship, and resolved to finish their days in this pleasant place.
 
@@ -5378,7 +5378,7 @@ By the time he was passing through the backyard, Mrs. Pratt, her servants, and a
 e:rachel=fearful;c=luigi,angelo,,,rachel
 
 As Tom, quaking as with a palsy, passed out at the gate, three women came flying from the house on the opposite side of the lane.
-b=york-house-ext;f:b:york-house-ext=brightness(85%);x:tom=girl,black
+b=wilson-house-ext;f:b:wilson-house-ext=brightness(85%);x:tom=girl,black
 
 They rushed by him and in at the gate, asking him what the trouble was there, but not waiting for an answer.
 c=
