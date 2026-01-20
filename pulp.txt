@@ -1208,7 +1208,7 @@ But now, at last, on a flaming June day, she found herself happy; her tedious wa
 e:patsy=excited;c=
 
 She sat on her porch gazing out with unseeing eyes upon the shining reaches of the mighty Mississippi, her thoughts steeped in her good fortune.
-b=patsy-house-porch
+b=light
 
 Indeed, it was specially good fortune, for she was to have two lodgers instead of one.
 
@@ -1268,7 +1268,7 @@ This time the Thursday boat had not arrived at ten at night—so the people had 
 e:rowena=unhappy;e:patsy=unhappy
 
 Eleven o’clock came; and the Cooper house was the only one in the town that still had lights burning.
-b=patsy-house-int
+b=patsy-house-parlor
 
 The rain and thunder were booming yet, and the anxious family were still waiting, still hoping.
 
@@ -1466,7 +1466,7 @@ Here a prodigious slam-banging broke out below, and everybody rushed down to see
 e:rowena=surprised;b=light
 
 It was the twins knocking out a classic four-handed piece on the piano, in great style.
-e:luigi=happy;e:angelo=happy;b=piano-duet
+e:luigi=happy;e:angelo=happy;b=patsy-house-parlor
 
 Rowena was satisfied—satisfied down to the bottom of her heart.
 e:rowena=happy
