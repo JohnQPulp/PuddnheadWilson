@@ -3080,10 +3080,10 @@ o=;t=twain
 r=title
 
 <i>Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-b=calendar
+b=calendar;t=twain
 
 Judge Driscoll was in bed and asleep by ten o’clock on Friday night, and he was up and gone a-fishing before daylight in the morning with his friend Pembroke Howard.
-b=light
+b=light;t=
 
 These two had been boys together in Virginia when that State still ranked as the chief and most imposing member of the Union, and they still coupled the proud and affectionate adjective “old” with her name when they spoke of her.
 
@@ -3128,7 +3128,7 @@ e:york=happy;e:pembroke=neutral;b=skiffs
 n:messenger=Man;s=messenger;e:messenger=neutral
 
 “Did *what*?”
-s=york;e:york=surprised
+s=york;e:york=surprised;x:york=hat;x:pembroke=hat
 
 “Gave him a kicking.”
 s=messenger
@@ -3209,7 +3209,7 @@ s=york;e:york=scowling
 s=york;e:york=unhappy
 
 Howard stayed by his friend, and saw him home, and entered the house with him.
-s=none;b=light
+s=none;b=light;x:york=;x:pembroke=
 
 It was dark, and past suppertime, but the Judge was not thinking of supper; he was eager to hear the slander refuted from headquarters, and as eager to have Howard hear it, too.
 e:york=serious;b=york-house-int
@@ -3223,7 +3223,10 @@ s=none;c=
 “We have been hearing about your adventure, Tom, with a handsome lie added to it for embellishment. Now pulverize that lie to dust! What measures have you taken? How does the thing stand?”
 s=york;e:york=serious
 
-Tom answered guilelessly: “It don’t stand at all; it’s all over. I had him up in court and beat him. Pudd’nhead Wilson defended him—first case he ever had, and lost it. The judge fined the miserable hound five dollars for the assault.”
+Tom answered guilelessly:
+s=
+
+“It don’t stand at all; it’s all over. I had him up in court and beat him. Pudd’nhead Wilson defended him—first case he ever had, and lost it. The judge fined the miserable hound five dollars for the assault.”
 s=tom;e:tom=neutral
 
 Howard and the Judge sprang to their feet with the opening sentence—why, neither knew; then they stood gazing vacantly at each other. Howard stood a moment, then sat mournfully down without saying anything.
@@ -3236,13 +3239,13 @@ e:york=angry
 s=york
 
 Tom’s head drooped, and he answered with an eloquent silence.
-s=none;e:tom=wary;c=tom
+s=none;e:tom=wary;c=
 
 His uncle stared at him with a mixed expression of amazement and shame and incredulity that was sorrowful to see. At last he said—
-
+e:york=serious
 
 “Which of the twins was it?”
-s=york;e:york=serious
+s=york;e:york=serious;c=york;v=100,140
 
 “Count Luigi.”
 s=tom
@@ -3257,16 +3260,16 @@ s=tom;e:tom=fearful
 s=york;e:york=serious
 
 Tom began to turn sick, and to show it.
-s=none;c=
+s=none
 
 He turned his hat round and round in his hand, his uncle glowering blacker and blacker upon him as the heavy seconds drifted by; then at last he began to stammer, and said piteously—
-
+e:york=angry
 
 “Oh, please don’t ask me to do it, uncle! He is a murderous devil—I never could—I—I’m afraid of him!”
 s=tom;e:tom=fearful
 
 Old Driscoll’s mouth opened and closed three times before he could get it to perform its office; then he stormed out—
-s=none;e:york=angry
+s=none;e:york=angry;c=
 
 “A coward in my family! A Driscoll a coward! Oh, what have I done to deserve this infamy!”
 s=york
@@ -3277,20 +3280,23 @@ s=none;e:york=unhappy;b=york-house-secretary
 “There it is, shreds and fragments once more—my will. Once more you have forced me to disinherit you, you base son of a most noble father! Leave my sight! Go—before I spit on you!”
 s=york;e:york=angry
 
-The young man did not tarry. Then the Judge turned to Howard:
-s=none;b=york-house-int
+The young man did not tarry.
+s=;b=york-house-int
+
+Then the Judge turned to Howard:
+s=none;b=york-house-int;v=
 
 “You will be my second, old friend?”
-s=york;e:york=serious;c=york
+s=york;e:york=serious;c=pembroke
 
 “Of course.”
 s=pembroke;e:pembroke=serious
 
 “There is pen and paper. Draft the cartel, and lose no time.”
-s=york
+s=york;e:pembroke=unhappy
 
 “The Count shall have it in his hands in fifteen minutes,” said Howard.
-s=pembroke
+s=pembroke;e:pembroke=
 
 Tom was very heavyhearted.
 s=none;e:tom=unhappy;c=;b=light
@@ -4141,7 +4147,7 @@ s=tom;e:tom=smirking
 “What I started out to ask was only about the old woman that raided the town—the stoop-shouldered old woman, you know, that you said you were going to catch; and I knew you would, too, because you have the reputation of never boasting, and—well, you—you’ve caught the old woman?”
 e:tom=
 
-“D—— the old woman!”
+“D&#9472;&#9472;&#9472; the old woman!”
 s=blake;e:blake=angry
 
 “Why, sho! you don’t mean to say you haven’t caught her?”
