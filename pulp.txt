@@ -1,7 +1,7 @@
 *Pudd’nhead Wilson* by Mark Twain<e>The Steinbeck and Buchan visual novels had so much to make fun of, which was great, because mockery is 80% of the point of these editor's notes. But to editorialize <i>Mark Twain</i>? No chance. The man is impossible to out-quip. So what I'll do instead is just make fun of other authors (like Steinbeck and Buchan), pointing out what this book does correctly that the others all fail at.</e>
 n:twain=;t=twain;b=title;e:twain=;z:twain=85
 
-<e>And then I'll also pull in some of the entertaining original margin illustations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
+<e>And then I'll also pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
 o=margin1;b=title
 
 ## I. Pudd’nhead Wins His Name
@@ -2929,7 +2929,7 @@ e:buckstone=
 Luigi accepted the invitation cordially, Angelo less cordially, since he disliked crowds, and did not drink the powerful intoxicants of America.
 e:luigi=happy;e:angelo=weary;c=luigi,,angelo
 
-In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e>A quick aside about these twin characters: Twain's original concept for them was as conjoined twins, an idea that proved too wacky for what this book's story evolved into. But rather than ditch the idea, Twain just created a second shorter spinoff novella called <book>Those Extraordinary Twins</book>, where they not only have the same names, but they also still lodge with Patsy and Rowena.</e>
+In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e>A quick aside about these twin characters: Twain's original concept for them was as conjoined twins, an idea that proved too wacky for what this book's story evolved into. But rather than ditch the idea, Twain just created a second shorter spin-off novella called <book>Those Extraordinary Twins</book>, where they not only have the same names, but they also still lodge with Patsy and Rowena.</e>
 o=margin20
 
 <e>So Twain got two stories for the price of one. And both stories were illustrated, so we get to enjoy seeing what this other, <book>Alice in Wonderland</book>-like version of what Luigi and the other one were meant to look like.</e>
