@@ -4759,7 +4759,7 @@ e:tom=weary;b=light
 Tom found his door in the dark, and entered it and turned up the gas.
 
 
-When he faced about, lightly whistling, he saw the back of a man. The man was closing and locking his door for him.<e>For reasons that will quickly be apparent, I'm going to rely on the original illustrations for this scene.</e>
+When he faced about, lightly whistling, he saw the back of a man. The man was closing and locking his door for him.<e>This scene will use the originals for reasons that will soon be apparent.</e>
 e:tom=wary;o=margin12
 
 His whistle faded out and he felt uneasy.
@@ -4774,7 +4774,7 @@ e:tom=fearful
 He tried to order the man out, but the words refused to come, and the other man got the start. He said, in a low voice—
 c=
 
-“Keep still—I’s yo’ mother!”<e>Yep. She's in blackface. And I really need to note get my image generator account banned, so: original illustrations, take it away!</e>
+“Keep still—I’s yo’ mother!”<e>Yeah, you can't really get the image generators to do blackface.</e>
 s=roxana;x:roxana=black;o=margin13
 
 Tom sunk in a heap on a chair, and gasped out—
@@ -4898,19 +4898,19 @@ e:roxana=thinking
 
 
 “It ’uz de *Gran’ Mogul*—I ’uz chambermaid on her for eight seasons in de Cincinnati en Orleans trade.”
-e:roxana=happy;b=mogul
+e:roxana=happy;b=light
 
 “I slid ’long pas’—don’t see nobody stirrin’ nowhah—hear ’em a-hammerin’ away in de engine-room, den I knowed what de matter was—some o’ de machinery’s broke. I got asho’ below de boat and turn’ de canoe loose, den I goes ’long up, en dey ’uz jes one plank out, en I step’ ’board de boat.”
 
 
 “It ’uz pow’ful hot, deckhan’s en roustabouts ’uz sprawled aroun’ asleep on de fo’cas’l’, de second mate, Jim Bangs, he sot dah on de bitts wid his head down, asleep—’ca’se dat’s de way de second mate stan’ de cap’n’s watch!—en de ole watchman, Billy Hatch, he ’uz a-noddin’ on de companionway;—en I knowed ’em all; ’en, lan’, but dey did look good!”
-
+b=deck-of-mogul
 
 “I says to myself, I wished old marster’d come along *now* en try to take me—bless yo’ heart, I’s ’mong frien’s, I is.”
 e:roxana=thinking
 
 “So I tromped right along ’mongst ’em, en went up on de b’iler deck en ’way back aft to de ladies’ cabin guard, en sot down dah in de same cheer dat I’d sot in ’mos’ a hund’d million times, I reckon; en it ’uz jist home ag’in, I tell you!”
-e:roxana=happy;b=deck-of-mogul
+e:roxana=happy;b=mogul
 
 “In ’bout an hour I heard de ready-bell jingle, en den de racket begin. Putty soon I hear de gong strike. ‘Set her back on de outside,’ I says to myself—‘I reckon I knows dat music!’ I hear de gong ag’in.”
 e:roxana=
@@ -5224,7 +5224,7 @@ e:tom=weary
 “I must follow her plan. But with a variation—I will not ask for the money and ruin myself; I will *rob* the old skinflint.”
 e:tom=serious
 
-## XIX. The Prophecy Realized<e>Twain making this VN as difficult to compile as possible. But at least that's over.</e>
+## XIX. The Prophecy Realized<e>Twain making this VN as difficult to create as possible.</e>
 r=title;t=twain;e:twain=
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -5335,8 +5335,8 @@ He laid off his coat and hat and began his preparations.
 He unlocked his trunk and got his suit of girl’s clothes out from under the male attire in it, and laid it by.
 
 
-Then he blacked his face with burnt cork and put the cork in his pocket.<e>Damnit Twain, not again!</e>
-t=twain;e:twain=two
+Then he blacked his face with burnt cork and put the cork in his pocket.<e>Not again!</e>
+t=twain;e:twain=
 
 His plan was, to slip down to his uncle’s private sitting-room below, pass into the bedroom, steal the safe-key from the old gentleman’s clothes, and then go back and rob the safe.
 e:tom=thinking;t=
@@ -5405,7 +5405,7 @@ He jumped for the stair-foot, and closed the door behind him; and as he snatched
 
 
 In another moment he was in his room and the twins were standing aghast over the body of the murdered man!
-e:angelo=surprised;e:luigi=surprised;b=york-body;c=luigi,angelo,,,
+e:angelo=surprised;e:luigi=surprised;b=york-body;c=luigi,angelo;v=130,130
 
 Tom put on his coat, buttoned his hat under it, threw on his suit of girl’s clothes, dropped the veil, blew out his light, locked the room door by which he had just entered, taking the key, passed through his other door into the back hall, locked that door and kept the key, then worked his way along in the dark and descended the back stairs.
 e:tom=fearful;c=;b=light
@@ -5414,15 +5414,18 @@ He was not expecting to meet anybody, for all interest was centered in the other
 
 
 By the time he was passing through the backyard, Mrs. Pratt, her servants, and a dozen half-dressed neighbors had joined the twins and the dead, and accessions were still arriving at the front door.
-e:rachel=fearful;c=luigi,angelo,,,rachel
+e:rachel=fearful;c=,luigi,,angelo,rachel;b=york-body
 
 As Tom, quaking as with a palsy, passed out at the gate, three women came flying from the house on the opposite side of the lane.
-b=wilson-house-ext;f:b:wilson-house-ext=brightness(85%);x:tom=girl,black
+b=wilson-house-ext;f:b:wilson-house-ext=brightness(85%);x:tom=girl,black;c=
 
 They rushed by him and in at the gate, asking him what the trouble was there, but not waiting for an answer.
 c=
 
-Tom said to himself, “Those old maids waited to dress—they did the same thing the night Stevens’s house burned down next door.”
+Tom said to himself,
+
+
+“Those old maids waited to dress—they did the same thing the night Stevens’s house burned down next door.”
 s=tom;e:tom=smirking
 
 In a few minutes he was in the haunted house. He lighted a candle and took off his girl-clothes.
@@ -5468,10 +5471,10 @@ He arranged with the planter, and mailed to Wilson the new bill of sale which so
 
 
 <span class='upper'>Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.</span>
-b=dawson-wide
+b=dawson-wide;f:b:dawson-wide=
 
 When Wilson reached the house of mourning and had gathered such details as Mrs. Pratt and the rest of the crowd could tell him, he took command as mayor, and gave orders that nothing should be touched, but everything left as it was until Justice Robinson should arrive and take the proper measures as coroner.
-e:wilson=serious;e:rachel=crying;b=york-body;c=wilson,,,rachel,
+e:wilson=serious;e:rachel=crying;b=york-body;c=wilson,,,rachel,;v=100,130
 
 He cleared everybody out of the room but the twins and himself.
 c=wilson,,luigi,,angelo;e:luigi=unhappy;e:angelo=unhappy
