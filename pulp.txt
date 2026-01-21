@@ -1,10 +1,7 @@
-*Pudd’nhead Wilson* by Mark Twain<e>Normally these editor's notes are where I make jokes at the expense of the original text and author. With the <book>Cup of Gold</book> and <book>The Thirty-Nine Steps</book> visual novels, that was easy — there was plenty to make fun of. But to do that for <i>Mark Twain</i>? Absolutely on chance. The man is impossible to out-quip.</e>
+*Pudd’nhead Wilson* by Mark Twain<e>The Steinbeck and Buchan visual novels had so much to make fun of, which was great, because mockery is 80% of the point of these editor's notes. But to editorialize <i>Mark Twain</i>? No chance. The man is impossible to out-quip. So what I'll do instead is just make fun of other authors (like Steinbeck and Buchan), pointing out what this book does correctly that the others all fail at.</e>
 n:twain=;t=twain;b=title;e:twain=;z:twain=85
 
-<e>So to make sure this VN still gets its share of inane editorializing, what I'll do instead is just make fun of other authors by pointing out what Twain does correctly that they all fail at.</e>
-
-
-<e>And then I'll also pull in some of the original margin illustations from the book's first edition printings (made by Frank M. Senior and Harding-administration fan Calvin H. Warren, viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>). There are some quite entertaining drawings in their set.</e>
+<e>And then I'll also pull in some of the entertaining original margin illustations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
 o=margin1;b=title
 
 ## I. Pudd’nhead Wins His Name
@@ -28,7 +25,7 @@ b=dawson-homes
 When there was room on the ledge outside of the pots and boxes for a cat, the cat was there﻿—in sunny weather﻿—stretched at full length, asleep and blissful, with her furry belly to the sun and a paw curved over her nose.
 
 
-Then that house was complete, and its contentment and peace were made manifest to the world by this symbol, whose testimony is infallible. A home without a cat﻿—and a well-fed, well-petted and properly revered cat﻿—may be a perfect home, perhaps, but how can it prove title?
+Then that house was complete, and its contentment and peace were made manifest to the world by this symbol, whose testimony is infallible. A home without a cat﻿—and a well-fed, well-petted and properly revered cat﻿—may be a perfect home, perhaps, but how can it prove title?<e>The man loved his cats. (See also his feline royalty speech in <book>A Connecticut Yankee</book>.)</e>
 t=twain;e:twain=cat
 
 All along the streets, on both sides, at the outer edge of the brick sidewalks, stood locust-trees with trunks protected by wooden boxing, and these furnished shade for summer and a sweet fragrance in spring when the clusters of buds came forth.
@@ -100,7 +97,7 @@ He was a fine, brave, majestic creature, a gentleman according to the nicest req
 He was very popular with the people, and was the Judge’s dearest friend.
 e:pembroke=;c=,pembroke,;e:york=happy;z:pembroke=103;c=
 
-Then there was Colonel Cecil Burleigh Essex, another F.F.V. of formidable caliber﻿—however, with him we have no concern.<e>Twain inserting throwaway character names for no reason.</e>
+Then there was Colonel Cecil Burleigh Essex, another F.F.V. of formidable caliber﻿—however, with him we have no concern.<e>Introduces a new character. Immediately mentions that he won't be important. Refuses to elaborate.</e>
 c=;t=twain;e:twain=
 
 Percy Northumberland Driscoll, brother to the Judge, and younger than he by five years, was a married man, and had had children around his hearthstone; but they were attacked in detail by measles, croup and scarlet fever, and this had given the doctor a chance with his effective antediluvian methods; so the cradles were empty.
@@ -211,7 +208,7 @@ The nickname soon ceased to carry any harsh or unfriendly feeling with it, but i
 ## II. Driscoll Spares His Slaves
 r=title
 
-<i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Twain over here dumping leftover snippets from <book>Extracts from Adam's Diary</book> into this completely unrelated book.</e>
+<i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Twain dumping leftover snippets from <book>Extracts from Adam's Diary</book> into this completely unrelated book.</e>
 b=calendar;t=twain
 
 Pudd’nhead Wilson had a trifle of money when he arrived, and he bought a small house on the extreme western verge of the town.
@@ -325,7 +322,7 @@ s=none
 Wilson stepped to the window to observe the combatants; he could not work while their chatter continued.
 e:wilson=thinking
 
-Over in the vacant lots was Jasper, young, coal-black and of magnificent build, sitting on a wheelbarrow in the pelting sun﻿—at work, supposably, whereas he was in fact only preparing for it by taking an hour’s rest before beginning.<e>The original illustrations only get worse from here.</e>
+Over in the vacant lots was Jasper, young, coal-black and of magnificent build, sitting on a wheelbarrow in the pelting sun﻿—at work, supposably, whereas he was in fact only preparing for it by taking an hour’s rest before beginning.<e>One of the less offensive original illustrations really.</e>
 o=margin3;b=light
 
 In front of Wilson’s porch stood Roxy, with a local handmade baby-wagon, in which sat her two charges﻿—one at each end and facing each other.
@@ -808,7 +805,7 @@ But he didn’t.
 He discovered nothing; and she went home jubilant, and dropped all concern about the matter permanently out of her mind.
 e:roxana=happy
 
-## IV. The Ways of the Changelings<e>The balls on Twain to write <book>Prince and the Pauper|the exact same child-swap book</book> twice.</e>
+## IV. The Ways of the Changelings<e>The balls on Twain to just write <book>Prince and the Pauper</book>'s exact same premise again.</e>
 r=title;t=twain;e:twain=
 
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -862,7 +859,7 @@ e:roxana=angry
 Tom got all the petting, Chambers got none.
 e:tom=neutral;e:chambers=unhappy
 
-Tom got all the delicacies, Chambers got mush and milk, and clabber without sugar. In consequence Tom was a sickly child and Chambers wasn’t.<e>Referencing milk in a funny and non-degenerate way. Something both Steinbeck and Updike failed at.</e>
+Tom got all the delicacies, Chambers got mush and milk, and clabber without sugar. In consequence Tom was a sickly child and Chambers wasn’t.<e>A funny milk joke, without making it weird. Something both Updike and Steinbeck failed at.</e>
 
 
 Tom was “fractious,” as Roxy called it, and overbearing; Chambers was meek and docile.
@@ -973,7 +970,7 @@ s=tom
 “Please, Marse Tom, don’t make me! Dey’s so many of ’em dat﻿—”
 s=chambers
 
-Tom sprang at him and drove his pocketknife into him two or three times before the boys could snatch him away and give the wounded lad a chance to escape.<e>Funny how the same name as <book>Tom Sawyer|Twain's most beloved character</book> is reused here for this real jerk.</e>
+Tom sprang at him and drove his pocketknife into him two or three times before the boys could snatch him away and give the wounded lad a chance to escape.<e>Funny how this real jerk gets the same first name as <book>Tom Sawyer</book>. But this Tom's a <i>fake</i> Tom, so it's thematic.</e>
 s=none;b=action
 
 He was considerably hurt, but not seriously. If the blade had been a little longer his career would have ended there.
@@ -1024,8 +1021,8 @@ e:roxana=smirking;b=percy-house-int
 There were two grand funerals in Dawson’s Landing that fall﻿—the fall of 1845.
 b=dawson-wide
 
-One was that of Colonel Cecil Burleigh Essex, the other that of Percy Driscoll.<e>Hey! You said "we have no concern" with Colonel Cecil Burleigh Essex. You sneaky Twain, you.</e>
-e:percy=neutral;e:twain=;t=twain
+One was that of Colonel Cecil Burleigh Essex, the other that of Percy Driscoll.
+e:percy=neutral;e:twain=
 
 On his deathbed Driscoll set Roxy free and delivered his idolized ostensible son solemnly into the keeping of his brother, the Judge and his wife.
 e:roxana=neutral;t=;b=light
@@ -1180,7 +1177,7 @@ The other member of his pet organization was allowed the like liberty because he
 He was liked, he was welcome enough all around, but he simply didn’t count for anything.
 e:wilson=neutral
 
-The widow Cooper—affectionately called “aunt Patsy” by everybody—lived in a snug and comely cottage with her daughter Rowena, who was nineteen, romantic, amiable, and very pretty, but otherwise of no consequence. Rowena had a couple of young brothers—also of no consequence.<e>Smash cutting to brand new characters "of no consequence" with no transition because f&#9472;&#9472;&#9472 you, reader.</e>
+The widow Cooper—affectionately called “aunt Patsy” by everybody—lived in a snug and comely cottage with her daughter Rowena, who was nineteen, romantic, amiable, and very pretty, but otherwise of no consequence. Rowena had a couple of young brothers—also of no consequence.<e>Smash cutting to brand new characters "of no consequence" with no transition text.</e>
 n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena;z:patsy=87;z:rowena=92;t=twain
 
 The widow had a large spare room which she let to a lodger, with board, when she could find one, but this room had been empty for a year now, to her sorrow.
@@ -1366,7 +1363,7 @@ e:patsy=happy;b=light;c=patsy
 Yet her feeling was moderate indeed when contrasted with Rowena’s.
 c=rowena;e:rowena=excited
 
-Rowena was in the clouds, she walked on air; this was to be the greatest day, the most romantic episode, in the colorless history of that dull country town.<e>I like the original illustration here.</e>
+Rowena was in the clouds, she walked on air; this was to be the greatest day, the most romantic episode, in the colorless history of that dull country town.<e>I like the original here.</e>
 o=margin4
 
 She was to be familiarly near the source of its glory and feel the full flood of it pour over her and about her; the other girls could only gaze and envy, not partake.
@@ -1396,7 +1393,7 @@ s=higgins
 “Good morning, Mr. Higgins—present you to Count Angelo Capello.”
 s=rowena
 
-Handshake, admiring stare, “Glad to see ye,”—courteous nod, smily “Most happy!” and Higgins passes on.<e>And that's the last we'll ever hear of Mr. Higgins. Now why doesn't he get a "with him we have no concern/consequence", Twain?</e>
+Handshake, admiring stare, “Glad to see ye,”—courteous nod, smily “Most happy!” and Higgins passes on.<e>And that's the last we'll ever hear of Mr. Higgins. But no "with him we have no concern/consequence". (And reader, did you even notice that Colonel Cecil Burleigh Essex was mentioned again earlier?)</e>
 s=;e:angelo=happy;t=twain
 
 None of these visitors was at ease, but, being honest people, they didn’t pretend to be.
@@ -1426,7 +1423,7 @@ s=none;c=
 Eager inquiries concerning the twins were pouring into their enchanted ears all the time; each was the constant center of a group of breathless listeners; each recognized that she knew now for the first time the real meaning of that great word Glory, and perceived the stupendous value of it, and understood why men in all ages had been willing to throw away meaner happinesses, treasure, life itself, to get a taste of its sublime and supreme joy.
 e:rowena=excited
 
-Napoleon and all his kind stood accounted for—and justified.<e>Twain accomplishes in two sentences what Tolstoy had to yammer on about for fifty exhausting pages in <book>War and Peace</book>. (Absolutely the worst ending to any book ever.)</e>
+Napoleon and all his kind stood accounted for—and justified.<e>Twain accomplishes in two sentences what Tolstoy had to yammer on for fifty exhausting pages about in <book>War and Peace</book> (in the worst ending to any book ever).</e>
 t=twain
 
 When Rowena had at last done all her duty by the people in the parlor, she went upstairs to satisfy the longings of an overflow-meeting there, for the parlor was not big enough to hold all the comers.
@@ -2341,7 +2338,7 @@ r=title;t=twain
 <i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
 
-<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I think this illustration was meant for this line.</e>
+<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 o=margin6
 
 Every now and then, after Tom went to bed, he had sudden wakings out of his sleep, and his first thought was,
@@ -2494,7 +2491,7 @@ He never meddled with any other town, for he was afraid to venture into houses w
 He arrived at the haunted house in disguise on the Wednesday before the advent of the twins﻿—after writing his aunt Pratt that he would not arrive until two days after﻿—and lay in hiding there with his mother until toward daylight Friday morning, when he went to his uncle’s house and entered by the back way with his own key, and slipped up to his room, where he could have the use of the mirror and toilet articles.
 e:tom=wary;b=light
 
-He had a suit of girl’s clothes with him in a bundle as a disguise for his raid, and was wearing a suit of his mother’s clothing, with black gloves and veil.<e>And falsies, according to the image generator. (Now it's canon.)</e>
+He had a suit of girl’s clothes with him in a bundle as a disguise for his raid, and was wearing a suit of his mother’s clothing, with black gloves and veil.<e>And falsies, according to the image generator. So now it's canon.</e>
 x:tom=girl;c=tom;e:tom=
 
 By dawn he was tricked out for his raid, but he caught a glimpse of Pudd’nhead Wilson through the window over the way, and knew that Pudd’nhead had caught a glimpse of him.
@@ -2680,7 +2677,7 @@ s=none;e:tom=surprised;c=
 “That juggling a science? But really, you ain’t serious, are you?”
 s=tom
 
-“Yes, entirely so. Four years ago we had our hands read out to us as if our palms had been covered with print.”<e>That wacky oriental clothing.</e>
+“Yes, entirely so. Four years ago we had our hands read out to us as if our palms had been covered with print.”<e>The illustrators really nailed the stereotypical oriental fortune-teller.</e>
 s=luigi;e:luigi=neutral;o=margin8
 
 “Well, do you mean to say there was actually anything in it?” asked Tom, his incredulity beginning to weaken a little.
@@ -2932,7 +2929,7 @@ e:buckstone=
 Luigi accepted the invitation cordially, Angelo less cordially, since he disliked crowds, and did not drink the powerful intoxicants of America.
 e:luigi=happy;e:angelo=weary;c=luigi,,angelo
 
-In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e>A quick aside about these twin characters: Twain's original concept for them was as conjoined twins, but that idea proved too wacky for what this book evolved into. But rather than ditch the idea altogether, Twain just created a second shorter spinoff novella called <book>Those Extraordinary Twins</book>, where they not only have the same names, but they also still lodge with Patsy and Rowena.</e>
+In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e>A quick aside about these twin characters: Twain's original concept for them was as conjoined twins, an idea that proved too wacky for what this book's story evolved into. But rather than ditch the idea, Twain just created a second shorter spinoff novella called <book>Those Extraordinary Twins</book>, where they not only have the same names, but they also still lodge with Patsy and Rowena.</e>
 o=margin20
 
 <e>So Twain got two stories for the price of one. And both stories were illustrated, so we get to enjoy seeing what this other, <book>Alice in Wonderland</book>-like version of what Luigi and the other one were meant to look like.</e>
@@ -3967,8 +3964,8 @@ s=roxana;e:roxana=happy;
 <e>In awe over this book having some of fiction's funniest dialogue, considering Twain wrote the first draft in just <i>five weeks</i>.</e>
 t=twain;s=
 
-<e>And then he gave the book's copyright to his wife in a laundering scheme lmao.</e>
-e:twain=
+<e>(And then he gave the book's copyright to his wife in a laundering scheme.)</e>
+e:twain=two
 
 “De Jedge didn’t git hurt, but I hear Pudd’nhead say de bullet snip some o’ his ha’r off.”
 t=;e:roxana=;s=roxana
@@ -4774,7 +4771,7 @@ e:tom=fearful
 He tried to order the man out, but the words refused to come, and the other man got the start. He said, in a low voice—
 c=
 
-“Keep still—I’s yo’ mother!”<e>Yeah, you can't really get the image generators to do blackface.</e>
+“Keep still—I’s yo’ mother!”<e>Yeah so the image generators won't do blackface. (Such prudes.)</e>
 s=roxana;x:roxana=black;o=margin13
 
 Tom sunk in a heap on a chair, and gasped out—
@@ -5629,7 +5626,7 @@ e:rachel=happy;c=tom,rachel
 ## XX. The Murderer Chuckles
 r=title
 
-<i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Heh heh… stupid women.</e>
+<i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Heh heh… women.</e>
 b=calendar;t=twain
 
 The weeks dragged along, no friend visiting the jailed twins but their counsel and Aunt Patsy Cooper, and the day of trial came at last—the heaviest day in Wilson’s life; for with all his tireless diligence he had discovered no sign or trace of the missing confederate.
@@ -6094,7 +6091,7 @@ s=wilson
 “If you will look at the balls of your fingers—you that have very sharp eyesight—you will observe that these dainty curving lines lie close together, like those that indicate the borders of oceans in maps, and that they form various clearly defined patterns, such as arches, circles, long curves, whorls, etc., and that these patterns differ on the different fingers.”
 e:wilson=smirking
 
-[Every man in the room had his hand up to the light, now, and his head canted to one side, and was minutely scrutinizing the balls of his fingers; there were whispered ejaculations of ‘Why, it’s so—I never noticed that before!’]<e>As the reader, you may be wondering here why everyone except Wilson is apparently retarded. But people really didn't know about fingerprints' uniqueness until the 1890s. Somehow.</e>
+[Every man in the room had his hand up to the light, now, and his head canted to one side, and was minutely scrutinizing the balls of his fingers; there were whispered ejaculations of ‘Why, it’s so—I never noticed that before!’]<e>As the reader, you may be wondering here why everyone except Wilson is apparently retarded. But people really didn't know about fingerprints' uniqueness back then. Somehow.</e>
 s=none
 
 <e>But Twain knew.</e>
@@ -6466,7 +6463,7 @@ The poor fellow could not endure the terrors of the white man’s parlor, and fe
 The family pew was a misery to him, yet he could nevermore enter into the solacing refuge of the “nigger gallery”—that was closed to him for good and all.
 
 
-But we cannot follow his curious fate further—that would be a long story.<e>See how it's possible to wrap up a character with interesting hints about their future, but without dragging it out for 30 pages? <i>Irving</i>.</e>
+But we cannot follow his curious fate further—that would be a long story.<e>See how it's possible to wrap up a character, hinting about their future, without dragging it out for 30 pages? <i>Irving</i>.</e>
 t=twain
 
 The false heir made a full confession and was sentenced to imprisonment for life. But now a complication came up.
@@ -6484,5 +6481,5 @@ They rightly claimed that “Tom” was lawfully their property and had been so 
 Everybody saw that there was reason in this. Everybody granted that if “Tom” were white and free it would be unquestionably right to punish him—it would be no loss to anybody; but to shut up a valuable slave for life—that was quite another matter.
 
 
-As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e><span class='upper'>The End</span> and F&#9472;&#9472;&#9472; Tom, lmao. One of the funniest conclusions in all of literature. Twain you magnificent bastard.</e>
+As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e><span class='upper'>The End</span> and f&#9472;&#9472;&#9472; Tom, lmao. One of the funniest conclusions in all of literature. Twain you magnificent bastard.</e>
 b=plantation;t=twain;e:twain=two
