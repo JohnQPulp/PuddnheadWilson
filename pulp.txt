@@ -2068,14 +2068,14 @@ s=tom
 “Well, there is one consolation, such as it is—I’ve struck bottom this time; there’s nothing lower.”
 e:tom=weary
 
-But that was a hasty conclusion.<e>Get ready for this chuddy little shit to undergo one of literature's greatest beatdowns.</e>
+But that was a hasty conclusion.<e>Twain with the intrusive foreshadowing to let you know just how thoroughly he's going to destroy this little shit.</e>
 s=none;t=twain
 
 At ten that night he climbed the ladder in the haunted house, pale, weak and wretched.
 b=haunted-ext;t=
 
 Roxy was standing in the door of one of the rooms, waiting, for she had heard him.
-e:roxana=serious;b=haunted-int;c=,roxana
+e:roxana=serious;b=haunted-int
 
 This was a two-story log house which had acquired the reputation a few years before of being haunted, and that was the end of its usefulness.
 c=;b=haunted-ext
@@ -2090,7 +2090,7 @@ It was getting crazy and ruinous, now, from long neglect. It stood three hundred
 
 
 Tom followed Roxy into the room.
-b=haunted-int;c=tom,roxana
+b=haunted-int
 
 She had a pile of clean straw in the corner for a bed, some cheap but well-kept clothing was hanging on the wall, there was a tin lantern freckling the floor with little spots of light, and there were various soap-and-candle boxes scattered about, which served for chairs.
 c=
@@ -2165,15 +2165,12 @@ Tom sprang up and seized a billet of wood and raised it; but his mother only lau
 s=none;e:roxana=smirking;c=tom;x:tom=billet
 
 “Set down, you pup! Does you think you kin skyer me? It ain’t in you, nor de likes of you.”
-s=roxana;e:roxana=serious;e:tom=wary
+s=roxana;e:roxana=serious
 
 “I reckon you’d shoot me in de back, maybe, if you got a chance, for dat’s jist yo’ style—*I* knows you, throo en throo—but I don’t mind gitt’n killed, beca’se all dis is down in writin’ en it’s in safe hands, too, en de man dat’s got it knows whah to look for de right man when I gits killed.”
-e:roxana=smirking
+e:roxana=smirking;e:tom=wary
 
-“Oh, bless yo’ soul, if you puts yo’ mother up for as big a fool as *you* is, you’s pow’ful mistaken, I kin tell you!”
-e:roxana=serious
-
-“Now den, you set still en behave yo’self; en don’t you git up ag’in till I tell you!”
+“Oh, bless yo’ soul, if you puts yo’ mother up for as big a fool as *you* is, you’s pow’ful mistaken, I kin tell you! Now den, you set still en behave yo’self; en don’t you git up ag’in till I tell you!”
 e:roxana=angry
 
 Tom fretted and chafed awhile in a whirlwind of disorganizing sensations and emotions, and finally said, with something like settled conviction—
@@ -2207,10 +2204,10 @@ s=roxana;e:roxana=smirking
 s=roxana;e:roxana=serious
 
 It cost Tom a struggle, but he got it out.
-s=none
+s=none;c=
 
 “Dat’s all right.”
-s=roxana
+s=roxana;c=roxana
 
 “Don’t you ever forgit it ag’in, if you knows what’s good for you.”
 s=roxana;e:roxana=smirking
@@ -2276,7 +2273,7 @@ Then she said—
 
 
 “I don’t hate you so much now, but I’ve hated you a many a year—and anybody would.”
-s=roxana;e:roxana=serious;c=roxana
+s=roxana;e:roxana=serious;c=
 
 “Didn’t I change you off, en give you a good fambly en a good name, en made you a white gen’l’man en rich, wid store clothes on—en what did I git for it?”
 e:roxana=unhappy
@@ -2303,7 +2300,7 @@ When they were parting, Tom said, in the most persuasive way he could command—
 s=none;e:tom=neutral
 
 “Ma, would you mind telling me who was my father?”
-s=tom
+s=tom;e:tom=confused
 
 He had supposed he was asking an embarrassing question. He was mistaken.
 s=none
@@ -2323,8 +2320,8 @@ s=none
 “Does you ’member Cunnel Cecil Burleigh Essex, dat died de same year yo’ young Marse Tom Driscoll’s pappy died, en all de Masons en Odd Fellers en Churches turned out en give him de bigges’ funeral dis town ever seed?”
 s=roxana
 
-“Dat’s de man.”<e>The third mention of Colonel Cecil Burleigh Essex! Twain got you good, reader, with that "with him we have no concern" introduction.</e>
-e:roxana=happy
+“Dat’s de man.”
+s=roxana;e:roxana=happy
 
 Under the inspiration of her soaring complacency the departed graces of her earlier days returned to her, and her bearing took to itself a dignity and state that might have passed for queenly if her surroundings had been a little more in keeping with it.
 s=none
@@ -2338,25 +2335,25 @@ e:roxana=neutral
 “En jes you hold yo’ head up as high as you want to—you has de right, en dat I kin swah.”
 e:roxana=smirking
 
-## X. The Nymph Revealed
-r=title
+## X. The Nymph Revealed<e>This legend bringing back Colonel Cecil Burleigh Essex <i>again</i>.</e>
+r=title;t=twain
 
 <i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-b=calendar
+b=calendar;t=
 
-<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I <i>think</i> this illustration was meant for this line. Not… super confident though.</e>
+<i>When angry, count four; when very angry, swear.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>I think this illustration was meant for this line.</e>
 o=margin6
 
 Every now and then, after Tom went to bed, he had sudden wakings out of his sleep, and his first thought was,
 b=dream;o=
 
 “Oh, joy, it was all a dream!”
-t=tom;e:tom=happy
+e:tom=happy
 
 Then he laid himself heavily down again, with a groan and the muttered words,
 t=none;b=think
 
-“A nigger! I am a nigger! Oh, I wish I was dead!”
+“A nigger! I am a nigger! Oh, I wish I was dead!”<e>This book is great just based on the concept alone: chud discovers he's 1-part-in-32 black, self-immolates.</e>
 s=tom;e:tom=unhappy;s=tom
 
 He woke at dawn with one more repetition of this horror, and then he resolved to meddle no more with that treacherous sleep.
@@ -2384,10 +2381,10 @@ He said roughly﻿—
 
 
 “Get out of my sight!” and when the youth was gone, he muttered, “He has done me no harm, poor wretch, but he is an eyesore to me now, for he is Driscoll the young gentleman, and I am a﻿—oh, I wish I was dead!”
-s=tom;e:tom=unhappy
+s=tom;e:tom=unhappy;c=tom
 
 A gigantic irruption, like that of Krakatoa a few years ago, with the accompanying earthquakes, tidal waves, and clouds of volcanic dust, changes the face of the surrounding landscape beyond recognition, bringing down the high lands, elevating the low, making fair lakes where deserts had been, and deserts where green prairies had smiled before.
-s=none
+s=none;c=
 
 The tremendous catastrophe which had befallen Tom had changed his moral landscape in much the same way.
 e:tom=thinking
@@ -2395,7 +2392,7 @@ e:tom=thinking
 Some of his low places he found lifted to ideals, some of his ideals had sunk to the valleys, and lay there with the sackcloth and ashes of pumice-stone and sulphur on their ruined heads.
 e:tom=unhappy
 
-For days he wandered in lonely places, thinking, thinking, thinking﻿—trying to get his bearings. It was new work.<e>I mean, it's easy to mock proportions when I don't have to do any of the illustrating manually myself. So I will!</e>
+For days he wandered in lonely places, thinking, thinking, thinking﻿—trying to get his bearings. It was new work.<e>Original illustration presented without comment.</e>
 e:tom=thinking;b=dawson-wide;o=margin7
 
 If he met a friend, he found that the habit of a lifetime had in some mysterious way vanished﻿—his arm hung limp, instead of involuntarily extending the hand for a shake.
@@ -2413,7 +2410,7 @@ e:tom=wary
 When Rowena, the dearest thing his heart knew, the idol of his secret worship, invited him in, the “nigger” in him made an embarrassed excuse and was afraid to enter and sit with the dread white folks on equal terms.
 e:tom=fearful;b=light;e:rowena=unhappy;c=rowena
 
-The “nigger” in him went shrinking and skulking here and there and yonder, and fancying it saw suspicion and maybe detection in all faces, tones, and gestures.<e>Five lines in a row.</e>
+The “nigger” in him went shrinking and skulking here and there and yonder, and fancying it saw suspicion and maybe detection in all faces, tones, and gestures.<e>Five lines in a row. (And 75 in total in the book. Who else but Twain?)</e>
 t=twain;e:twain=;c=
 
 So strange and uncharacteristic was Tom’s conduct that people noticed it, and turned to look after him when he passed on; and when he glanced back﻿—as he could not help doing, in spite of his best resistance﻿—and caught that puzzled expression in a person’s face, it gave him a sick feeling, and he took himself out of view as quickly as he could.
@@ -2497,7 +2494,7 @@ He never meddled with any other town, for he was afraid to venture into houses w
 He arrived at the haunted house in disguise on the Wednesday before the advent of the twins﻿—after writing his aunt Pratt that he would not arrive until two days after﻿—and lay in hiding there with his mother until toward daylight Friday morning, when he went to his uncle’s house and entered by the back way with his own key, and slipped up to his room, where he could have the use of the mirror and toilet articles.
 e:tom=wary;b=light
 
-He had a suit of girl’s clothes with him in a bundle as a disguise for his raid, and was wearing a suit of his mother’s clothing, with black gloves and veil.
+He had a suit of girl’s clothes with him in a bundle as a disguise for his raid, and was wearing a suit of his mother’s clothing, with black gloves and veil.<e>And falsies, according to the image generator. (Now it's canon.)</e>
 x:tom=girl;c=tom;e:tom=
 
 By dawn he was tricked out for his raid, but he caught a glimpse of Pudd’nhead Wilson through the window over the way, and knew that Pudd’nhead had caught a glimpse of him.
@@ -2516,19 +2513,19 @@ But supposing Wilson had seen him leave, and had thought it suspicious, and had 
 e:tom=fearful
 
 The thought made Tom cold. He gave up the raid for the day, and hurried back to the haunted house by the obscurest route he knew.
-b=haunted-int
+b=dawson-wide
 
 His mother was gone; but she came back, by and by, with the news of the grand reception at Patsy Cooper’s, and soon persuaded him that the opportunity was like a special providence, it was so inviting and perfect.
-e:roxana=excited
+e:roxana=excited;b=haunted-int
 
 So he went raiding, after all, and made a nice success of it while everybody was gone to Patsy Cooper’s.
 e:tom=happy;b=dawson-wide
 
 Success gave him nerve and even actual intrepidity; insomuch, indeed, that after he had conveyed his harvest to his mother in a back alley, he went to the reception himself, and added several of the valuables of that house to his takings.
-e:tom=smirking;b=think
+e:tom=smirking
 
 After this long digression we have now arrived once more at the point where Pudd’nhead Wilson, while waiting for the arrival of the twins on that same Friday evening, sat puzzling over the strange apparition of that morning﻿—a girl in young Tom Driscoll’s bedroom; fretting, and guessing, and puzzling over it, and wondering who the shameless creature might be.
-e:wilson=thinking;c=wilson;b=wilson-house-int
+e:wilson=thinking;b=wilson-house-int
 
 ## XI. Pudd’nhead’s Startling Discovery
 r=title
@@ -2536,11 +2533,11 @@ r=title
 <i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You should read the new book Mark Twain's writing now.</e>
 b=calendar
 
-<i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Take that, Updike!</e>
+<i>As to the Adjective: when in doubt, strike it out.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 
 
 The twins arrived presently, and talk began. It flowed along chattily and sociably, and under its influence the new friendship gathered ease and strength.
-e:wilson=happy;e:luigi=happy;e:angelo=happy;b=wilson-house-int;c=angelo,luigi
+e:wilson=happy;e:luigi=happy;e:angelo=happy;b=wilson-house-int;c=luigi,angelo;v=100,150
 
 Wilson got out his *Calendar*, by request, and read a passage or two from it, which the twins praised quite cordially.
 c=
@@ -2558,7 +2555,7 @@ Young Tom Driscoll appeared, and joined the party. He pretended to be seeing the
 e:tom=smirking;c=tom
 
 The twins made mental note that he was smooth-faced and rather handsome, and smooth and undulatory in his movements—graceful, in fact.
-e:luigi=thinking;e:angelo=neutral;c=angelo,luigi
+e:luigi=thinking;e:angelo=neutral;c=luigi,angelo
 
 Angelo thought he had a good eye; Luigi thought there was something veiled and sly about it.
 e:luigi=wary
@@ -2579,7 +2576,7 @@ e:wilson=wary
 s=tom;e:tom=smirking
 
 Wilson bit his lip, but answered, “No—not yet,” with as much indifference as he could assume.
-c=wilson;e:wilson=serious
+e:wilson=serious;s=
 
 Judge Driscoll had generously left the law feature out of the Wilson biography which he had furnished to the twins.
 s=none
@@ -2608,7 +2605,13 @@ s=wilson
 “That’s it; that’s good grit! I like to see it. I’ve a notion to throw all my business your way. My business and your law-practice ought to make a pretty gay team, Dave,” and the young fellow laughed again.
 s=tom;e:tom=smirking
 
-“If you will throw—” Wilson had thought of the girl in Tom’s bedroom, and was going to say, “If you will throw the surreptitious and disreputable part of your business my way, it may amount to something;” but thought better of it and said, “However, this matter doesn’t fit well in a general conversation.”
+“If you will throw—”
+s=wilson
+
+Wilson had thought of the girl in Tom’s bedroom, and was going to say, “If you will throw the surreptitious and disreputable part of your business my way, it may amount to something;” but thought better of it and said,
+s=
+
+“However, this matter doesn’t fit well in a general conversation.”
 s=wilson;e:wilson=thinking
 
 “All right, we’ll change the subject; I guess you were about to give me another dig, anyway, so I’m willing to change. How’s the Awful Mystery flourishing these days?”
@@ -2636,10 +2639,10 @@ s=wilson
 s=tom;e:tom=smirking
 
 He passed his fingers through his crop of short hair, and pressed them one at a time on the glass.
-s=none;o=;c=tom
+s=none;o=
 
 Angelo made a print of his fingers on another glass, and Luigi followed with the third.
-e:angelo=;e:luigi=;c=angelo,luigi
+e:angelo=;e:luigi=
 
 Wilson marked the glasses with names and date, and put them away.
 c=
@@ -2663,7 +2666,7 @@ e:tom=smirking
 
 
 Wilson winced under this nagging and not very courteous chaff, and the twins suffered with him and for him.
-s=none;e:wilson=unhappy;e:luigi=unhappy;e:angelo=unhappy;c=angelo,luigi,,,wilson
+s=none;e:wilson=unhappy;e:luigi=unhappy;e:angelo=unhappy;c=luigi,wilson,angelo
 
 They rightly judged, now, that the best way to relieve him would be to take the thing in earnest and treat it with respect, ignoring Tom’s rather overdone raillery; so Luigi said—
 c=
@@ -2677,17 +2680,17 @@ s=none;e:tom=surprised;c=
 “That juggling a science? But really, you ain’t serious, are you?”
 s=tom
 
-“Yes, entirely so. Four years ago we had our hands read out to us as if our palms had been covered with print.”
-s=luigi;e:luigi=neutral
+“Yes, entirely so. Four years ago we had our hands read out to us as if our palms had been covered with print.”<e>That wacky oriental clothing.</e>
+s=luigi;e:luigi=neutral;o=margin8
 
 “Well, do you mean to say there was actually anything in it?” asked Tom, his incredulity beginning to weaken a little.
-s=tom;e:tom=confused
+s=tom;e:tom=confused;o=
 
 “There was this much in it,” said Angelo: “what was told us of our characters was minutely exact—we could not have bettered it ourselves. Next, two or three memorable things that had happened to us were laid bare—things which no one present but ourselves could have known about.”
 s=angelo;e:angelo=serious
 
-“Why, it’s rank sorcery!” exclaimed Tom, who was now becoming very much interested.<e>Illustrators taking <i>Tom's</i> side here — what the f&#9472;&#9472;&#9472;.</e>
-s=tom;e:tom=excited;o=margin8
+“Why, it’s rank sorcery!” exclaimed Tom, who was now becoming very much interested.
+s=tom;e:tom=excited
 
 “And how did they make out with what was going to happen to you in the future?”
 o=
@@ -2768,10 +2771,10 @@ Wilson wrote something on a slip of paper and handed it to Luigi, who read it to
 s=none;e:wilson=neutral
 
 “Unfold your slip and read it, Mr. Driscoll.”
-s=luigi
+s=luigi;c=luigi,
 
 Tom read:
-s=none
+s=none;c=,tom;e:tom=wary
 
 “It was prophesied that I would kill a man. It came true before the year was out.”
 e:tom=serious;s=tom
@@ -2780,28 +2783,28 @@ Tom added, “Great Scott!”
 s=tom;e:tom=surprised
 
 Luigi handed Wilson’s paper to Tom, and said—
-s=none;e:luigi=neutral
+s=none;e:luigi=neutral;c=
 
 “Now read this one.”
-s=luigi
+s=luigi;c=luigi,
 
 Tom read:
-s=none
+s=none;c=,tom;
 
 “You have killed someone, but whether man, woman or child, I do not make out.”
 s=tom;e:tom=wary
 
 “Caesar’s ghost!” commented Tom, with astonishment.
-s=tom
+s=tom;e:tom=surprised
 
 “It beats anything that was ever heard of! Why, a man’s own hand is his deadliest enemy! Just think of that—a man’s own hand keeps a record of the deepest and fatalest secrets of his life, and is treacherously ready to expose him to any black-magic stranger that comes along.”
 e:tom=fearful
 
 “But what do you let a person look at your hand for, with that awful thing printed on it?”
-
+e:tom=wary
 
 “Oh,” said Luigi, reposefully, “I don’t mind it. I killed the man for good reasons, and I don’t regret it.”
-s=luigi;e:luigi=neutral;c=luigi
+s=luigi;e:luigi=neutral;c=luigi,
 
 “What were the reasons?”
 s=tom;e:tom=confused
@@ -2810,7 +2813,7 @@ s=tom;e:tom=confused
 s=luigi
 
 “I’ll tell you why he did it, since he won’t say himself,” said Angelo, warmly.
-s=angelo;e:angelo=happy;c=angelo,luigi,
+s=angelo;e:angelo=happy;c=luigi,angelo
 
 “He did it to save my life, that’s what he did it for. So it was a noble act, and not a thing to be hid in the dark.”
 
@@ -2833,7 +2836,7 @@ e:angelo=
 He took a sheet of paper and made a rapid sketch.
 s=none;c=
 
-“There it is—a broad and murderous blade, with edges like a razor for sharpness. The devices engraved on it are the ciphers or names of its long line of possessors—I had Luigi’s name added in Roman letters myself with our coat of arms, as you see.”<e>Dang, Angelo's a good artist.</e>
+“There it is—a broad and murderous blade, with edges like a razor for sharpness. The devices engraved on it are the ciphers or names of its long line of possessors—I had Luigi’s name added in Roman letters myself with our coat of arms, as you see.”<e>Angelo's a damn fine artist.</e>
 s=angelo;e:angelo=thinking;o=dagger
 
 “You notice what a curious handle the thing has. It is solid ivory, polished like a mirror, and is four or five inches long—round, and as thick as a large man’s wrist, with the end squared off flat, for your thumb to rest on; for you grasp it, with your thumb resting on the blunt end—so—and lift it aloft and strike downward.”
@@ -2870,7 +2873,7 @@ s=none;e:wilson=neutral
 s=wilson;e:wilson=surprised
 
 Tom had snatched away his hand, and was looking a good deal confused.
-s=none;e:tom=fearful;c=,tom
+s=none;e:tom=fearful;c=,,tom
 
 “Why, he’s blushing!” said Luigi.
 s=luigi;e:luigi=smirking
@@ -2882,7 +2885,7 @@ s=none;e:tom=angry
 s=tom
 
 Luigi’s dark face flushed, but before he could speak or move, Tom added with anxious haste:
-c=luigi,tom;s=;e:luigi=angry
+c=luigi,,tom;s=;e:luigi=angry
 
 “Oh, I beg a thousand pardons. I didn’t mean that; it was out before I thought, and I’m very, very sorry—you must forgive me!”
 s=tom;e:tom=wary
@@ -2894,13 +2897,13 @@ But the success was not so pronounced with the offender.
 
 
 Tom tried to seem at his ease, and he went through the motions fairly well, but at bottom he felt resentful toward all the three witnesses of his exhibition; in fact, he felt so annoyed at them for having witnessed it and noticed it that he almost forgot to feel annoyed at himself for placing it before them.
-e:tom=scowling;c=tom
+e:tom=scowling;c=,,tom
 
 However, something presently happened which made him almost comfortable, and brought him nearly back to a state of charity and friendliness.
 e:tom=happy;c=
 
 This was a little spat between the twins; not much of a spat, but still a spat; and before they got far with it they were in a decided condition of irritation with each other.
-e:luigi=angry;e:angelo=angry;c=luigi,angelo
+e:luigi=angry;e:angelo=angry;c=luigi,,angelo
 
 Tom was charmed; so pleased, indeed, that he cautiously did what he could to increase the irritation while pretending to be actuated by more respectable motives.
 c=
@@ -2915,25 +2918,28 @@ The visitor was a good-natured, ignorant, energetic, middle-aged Irishman named 
 n:buckstone=John Buckstone;e:buckstone=happy;c=buckstone
 
 One of the town’s chief excitements, just now, was over the matter of rum.
-
+c=
 
 There was a strong rum party and a strong anti-rum party.
 
 
 Buckstone was training with the rum party, and he had been sent to hunt up the twins and invite them to attend a mass-meeting of that faction.
-
+c=buckstone
 
 He delivered his errand, and said the clans were already gathering in the big hall over the market-house.
-c=
+e:buckstone=
 
 Luigi accepted the invitation cordially, Angelo less cordially, since he disliked crowds, and did not drink the powerful intoxicants of America.
-e:luigi=happy;e:angelo=weary;c=luigi,angelo
+e:luigi=happy;e:angelo=weary;c=luigi,,angelo
 
-In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e>As stupid as these sprites for the twins might be, this is as good a time as any to mention how in Twain's original version of twins, they were conjoined. The concept for this book eventually spiraled out into its own story, so Twain cut out the goofy conjoined part. However, he kept it for a shorter spinoff novella, <book>Those Extraordinary Twins</book>, which was packaged up with this book, illustrated by the same two guys, giving us some more great <book>Alice in Wonderland</book>-type knockoff art.</e>
+In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e>A quick aside about these twin characters: Twain's original concept for them was as conjoined twins, but that idea proved too wacky for what this book evolved into. But rather than ditch the idea altogether, Twain just created a second shorter spinoff novella called <book>Those Extraordinary Twins</book>, where they not only have the same names, but they also still lodge with Patsy and Rowena.</e>
 o=margin20
 
+<e>So Twain got two stories for the price of one. And both stories were illustrated, so we get to enjoy seeing what this other, <book>Alice in Wonderland</book>-like version of what Luigi and the other one were meant to look like.</e>
+t=twain
+
 The twins left with Buckstone, and Tom Driscoll joined company with them uninvited.
-e:tom=neutral;c=;o=
+e:tom=neutral;c=;o=;t=
 
 In the distance one could see a long wavering line of torches drifting down the main street, and could hear the throbbing of the bass drum, the clash of cymbals, the squeaking of a fife or two, and the faint roar of remote hurrahs.
 b=think
@@ -3007,7 +3013,7 @@ s=cit1
 Glasses were handed around, and everybody on the platform drank Angelo’s health, while the house bellowed forth in song:
 s=none
 
-For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low—<br>Which nobody can deny.<e>Temp</e>
+For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low—<br>Which nobody can deny.
 
 
 Tom Driscoll drank. It was his second glass, for he had drunk Angelo’s the moment that Angelo had set it down.
@@ -3022,14 +3028,14 @@ The chairman was still standing at the front, the twins at his side.
 The extraordinarily close resemblance of the brothers to each other suggested a witticism to Tom Driscoll, and just as the chairman began a speech he skipped forward and said with an air of tipsy confidence to the audience—
 e:tom=smirking
 
-“Boys, I move that he keeps still and lets this human philopena snip you out a speech.”<e>Twain with the double-kernelled nut jest that his readership will no doubt be too stupid to understand.</e>
+“Boys, I move that he keeps still and lets this human philopena snip you out a speech.”<e>A "philopena" is a double-kernelled nut. (I'm too stupid to get Twain's jokes without looking them up.)</e>
 s=tom
 
 The descriptive aptness of the phrase caught the house, and a mighty burst of laughter followed.
 s=none
 
 Luigi’s southern blood leaped to the boiling-point in a moment under the sharp humiliation of this insult delivered in the presence of four hundred strangers. It was not in the young man’s nature to let the matter pass, or to delay the squaring of the account.
-e:luigi=angry;b=light;c=luigi
+e:luigi=angry;b=light;c=luigi;v=
 
 He took a couple of strides and halted behind the unsuspecting joker.
 c=;b=hall
@@ -3064,7 +3070,7 @@ There was an engine company and a hook-and-ladder company. Half of each was comp
 Enough anti-rummies were loafing in quarters to man the engine and the ladders.
 
 
-In two minutes they had their red shirts and helmets on—they never stirred officially in unofficial costume—and as the mass meeting overhead smashed through the long row of windows and poured out upon the roof of the arcade, the deliverers were ready for them with a powerful stream of water which washed some of them off the roof and nearly drowned the rest. But water was preferable to fire, and still the stampede from the windows continued, and still the pitiless drenching assailed it until the building was empty; then the fire-boys mounted to the hall and flooded it with water enough to annihilate forty times as much fire as there was there; for a village fire-company does not often get a chance to show off, and so when it does get a chance it makes the most of it.<e>Illustration seems rather darker in tone than what I think Twain intended.</e>
+In two minutes they had their red shirts and helmets on—they never stirred officially in unofficial costume—and as the mass meeting overhead smashed through the long row of windows and poured out upon the roof of the arcade, the deliverers were ready for them with a powerful stream of water which washed some of them off the roof and nearly drowned the rest. But water was preferable to fire, and still the stampede from the windows continued, and still the pitiless drenching assailed it until the building was empty; then the fire-boys mounted to the hall and flooded it with water enough to annihilate forty times as much fire as there was there; for a village fire-company does not often get a chance to show off, and so when it does get a chance it makes the most of it.<e>Jesus, illustrators. That image is <i>dark</i>. That's not the tone Twain intended.</e>
 o=margin9
 
 Such citizens of that village as were of a thoughtful and judicious temperament did not insure against fire; they insured against the fire-company.<e>See?</e>
