@@ -4150,8 +4150,11 @@ Nearly a week had drifted by, and still the thing remained a vexed mystery.
 On Saturday Constable Blake and Pudd’nhead Wilson met on the street, and Tom Driscoll joined them in time to open their conversation for them.
 b=dawson-main
 
-He said to Blake—“You are not looking well, Blake; you seem to be annoyed about something. Has anything gone wrong in the detective business?”
-s=tom;e:tom=;c=blake;e:blake=serious
+He said to Blake—
+
+
+“You are not looking well, Blake; you seem to be annoyed about something. Has anything gone wrong in the detective business?”
+s=tom;e:tom=;c=blake;e:blake=serious;v=100,90
 
 “I believe you fairly and justifiably claim to have a pretty good reputation in that line, isn’t it so?”—which made Blake feel good, and look it; but Tom added, “for a country detective”—which made Blake feel the other way, and not only look it, but betray it in his voice—
 s=tom;e:tom=smirking
@@ -4166,7 +4169,7 @@ s=tom;e:tom=smirking
 e:tom=
 
 “D&#9472;&#9472;&#9472; the old woman!”
-s=blake;e:blake=angry
+s=blake;e:blake=angry;v=100,110
 
 “Why, sho! you don’t mean to say you haven’t caught her?”
 s=tom;e:tom=surprised
@@ -4199,7 +4202,7 @@ Blake’s dull face flushed under this gibe, but before he could set his retort 
 s=none;e:blake=angry;e:tom=neutral
 
 “Who got the reward, Pudd’nhead?”
-s=tom;c=wilson;e:wilson=serious
+s=tom;c=,wilson;e:wilson=serious;v=100,90
 
 Wilson winced slightly, and saw that his own turn was come.
 s=none;e:wilson=wary
@@ -4235,7 +4238,7 @@ He stopped, and turned to Blake, who was happy now that another had taken his pl
 s=none;e:blake=;c=
 
 “Blake, didn’t you understand him to intimate that it wouldn’t be necessary for you to hunt the old woman down?”
-s=tom;c=blake
+s=tom;c=blake,
 
 “B’George, he said he’d have thief and swag both inside of three days—he did, by hokey! and that’s just about a week ago.”
 s=blake;e:blake=serious
@@ -4247,7 +4250,7 @@ e:blake=scowling
 e:blake=serious
 
 “You’d change your mind,” said Wilson, with irritated bluntness, “if you knew the entire scheme instead of only part of it.”
-s=wilson;e:wilson=serious
+s=wilson;e:wilson=serious;c=blake,wilson
 
 “Well,” said the constable, pensively, “I had the idea that it wouldn’t work, and up to now I’m right anyway.”
 s=blake;e:blake=thinking
@@ -4259,18 +4262,21 @@ The constable hadn’t anything handy to hit back with, so he discharged a disco
 s=none;e:blake=unhappy;c=
 
 After the night that Wilson had partly revealed his scheme at his house, Tom had tried for several days to guess out the secret of the rest of it, but had failed.
-b=think
+b=think;f:b:think=blur(10px)
 
 Then it occurred to him to give Roxana’s smarter head a chance at it.
-b=haunted-int
+b=haunted-int;f:b:haunted-int=blur(10px)
 
 He made up a supposititious case, and laid it before her.
-c=tom,roxana;e:tom=serious;e:roxana=serious
+e:tom=serious;e:roxana=serious
 
 She thought it over, and delivered her verdict upon it.
 e:roxana=thinking
 
-Tom said to himself, “She’s hit it, sure!”
+Tom said to himself,
+b=dawson-main
+
+“She’s hit it, sure!”
 t=tom;e:tom=smirking
 
 He thought he would test that verdict, now, and watch Wilson’s face; so he said reflectively—
@@ -4289,12 +4295,15 @@ e:tom=thinking;e:blake=thinking
 
 
 Blake slapped his thigh, and cried out—
-s=none;e:blake=excited;e:wilson=surprised
+s=none;e:blake=excited;e:wilson=surprised;c=
 
 “By Jackson, he’s got you, Pudd’nhead! Now why couldn’t I or *any* fool have thought of that?”
-s=blake
+s=blake;c=blake;v=100,110
 
-Wilson said to himself, “Anybody with a reasonably good head would have thought of it. I am not surprised that Blake didn’t detect it; I am only surprised that Tom did.”
+Wilson said to himself,
+s=;c=
+
+“Anybody with a reasonably good head would have thought of it. I am not surprised that Blake didn’t detect it; I am only surprised that Tom did.”
 s=none;t=wilson;e:wilson=thinking;c=
 
 “There is more to him than I supposed.”
@@ -4307,7 +4316,7 @@ t=none
 s=tom;c=tom;e:tom=thinking
 
 “Yes,” said Wilson.
-s=wilson
+s=wilson;e:tom=
 
 “I think so,” said Tom. “There can’t be any doubt of it. Have you ever seen that knife?”
 s=tom;e:tom=
@@ -4340,13 +4349,13 @@ s=none;e:wilson=thinking;e:tom=serious;c=
 s=tom;c=tom
 
 “Is it nothing to them to be able to dazzle this poor little town with thousand-dollar rewards—at no expense? Wilson, there isn’t any such knife, or your scheme would have fetched it to light.”
-
+e:tom=thinking
 
 “Or if there is any such knife, they’ve got it yet. I believe, myself, that they’ve seen such a knife, for Angelo pictured it out with his pencil too swiftly and handily for him to have been inventing it, and of course I can’t swear that they’ve never had it; but this I’ll go bail for—if they had it when they came to this town, they’ve got it yet.”
 e:tom=serious
 
 Blake said—
-s=none
+s=none;e:tom=
 
 “It looks mighty reasonable, the way Tom puts it; it most certainly does.”
 s=blake
@@ -4364,7 +4373,7 @@ He was loath to withdraw his faith from the twins, and was resolved not to do it
 
 
 “Blake, what do you think of this matter?”
-s=wilson;e:wilson=serious;e:blake=thinking;c=blake,wilson
+s=wilson;e:wilson=serious;e:blake=thinking;c=blake,wilson;v=
 
 “Well, Pudd’nhead, I’m bound to say I put it up the way Tom does. They hadn’t the knife; or if they had it, they’ve got it yet.”
 s=blake
@@ -4376,7 +4385,7 @@ s=none;c=
 s=wilson;e:wilson=thinking
 
 Tom had no purpose in his mind when he encountered those two men.
-s=none;e:tom=happy;b=think
+s=none;e:tom=happy;b=think;f:b:think=;f:b:haunted-int=
 
 When he began his talk he hoped to be able to gall them a little and get a trifle of malicious entertainment out of it.
 
@@ -4397,7 +4406,7 @@ Saturday evening he said to the Judge—
 
 
 “I’ve had something preying on my mind, uncle, and as I am going away, and might never see you again, I can’t bear it any longer.”
-s=tom;e:tom=wary;c=tom
+s=tom;e:tom=wary;c=tom;v=100,110
 
 “I made you believe I was afraid to fight that Italian adventurer. I had to get out of it on some pretext or other, and maybe I chose badly, being taken unawares, but no honorable person could consent to meet him in the field, knowing what I knew about him.”
 e:tom=unhappy
@@ -4405,7 +4414,7 @@ e:tom=unhappy
 “Indeed? What was that?”
 s=york;e:york=surprised
 
-“Count Luigi is a confessed assassin.”<e>Twain over here correctly predicting Luigi assassins.</e>
+“Count Luigi is a confessed assassin.”<e>Nah, a Luigi would never assassinate anyone.</e>
 s=tom;e:tom=serious
 
 “Incredible!”
@@ -4415,10 +4424,13 @@ s=york
 s=tom
 
 “You are right, my boy; I would. A man’s secret is still his own property, and sacred, when it has been surprised out of him like that. You did well, and I am proud of you.”
-s=york;e:york=neutral
+s=york;e:york=neutral;e:tom=unhappy
 
-Then he added mournfully, “But I wish I could have been saved the shame of meeting an assassin on the field of honor.”
-e:york=unhappy
+Then he added mournfully,
+s=
+
+“But I wish I could have been saved the shame of meeting an assassin on the field of honor.”
+s=york;e:york=unhappy
 
 “It couldn’t be helped, uncle. If I had known you were going to challenge him I should have felt obliged to sacrifice my pledged word in order to stop it, but Wilson couldn’t be expected to do otherwise than keep silent.”
 s=tom;e:tom=serious
@@ -4492,8 +4504,11 @@ e:roxana=serious
 Tom went aboard one of the big transient boats that night with his heavy satchel of miscellaneous plunder, and slept the sleep of the unjust, which is serener and sounder than the other kind, as we know by the hanging-eve history of a million rascals.
 s=none;e:tom=neutral;b=steamboats
 
-But when he got up in the morning, luck was against him again: A brother-thief had robbed him while he slept, and gone ashore at some intermediate landing.<e>Twain spoiling in the chapter title what happens only in the very last sentence of the chapter.</e>
-e:tom=unhappy;b=think;t=twain
+But when he got up in the morning, luck was against him again: A brother-thief had robbed him while he slept, and gone ashore at some intermediate landing.
+b=think
+
+<e>Twain spoiling in the chapter title what only happens in the last sentence of the chapter.</e>
+e:tom=unhappy;t=twain
 
 ## XVI. Sold Down the River
 r=title
