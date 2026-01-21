@@ -3251,7 +3251,7 @@ s=tom
 s=york;e:york=scowling
 
 “N—no,” hesitated Tom, turning pale.
-s=tom;e:tom=fearful
+s=tom;e:tom=fearful;e:york=serious
 
 “You will challenge him tonight. Howard will carry it.”
 s=york;e:york=serious
