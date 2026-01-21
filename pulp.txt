@@ -3341,13 +3341,13 @@ Thus mournfully communing with himself Tom moped along the lane past Pudd’nhea
 e:tom=unhappy;b=light
 
 He sorely wanted cheerful company. Rowena!
-e:tom=excited
+e:tom=excited;c=rowena
 
 His heart gave a bound at the thought, but the next thought quieted it—the detested twins would be there.
-e:tom=unhappy
+e:tom=unhappy;c=luigi,angelo
 
 He was on the inhabited side of Wilson’s house, and now as he approached it he noticed that the sitting-room was lighted.
-b=wilson-house-ext
+b=wilson-house-ext;c=
 
 This would do; others made him feel unwelcome sometimes, but Wilson never failed in courtesy toward him, and a kindly courtesy does at least save one’s feelings, even if it is not professing to stand for a welcome.
 
@@ -3506,7 +3506,7 @@ s=tom
 s=wilson;e:wilson=serious
 
 Mr. Justice Robinson entered, followed by Buckstone and the town-constable, Jim Blake.
-n:blake=Constable Blake;s=none;c=robinson,buckstone,blake
+n:blake=Constable Blake;s=none;c=robinson,buckstone,blake;v=120,150;z:buckstone=90;z:robinson=102;z:blake=98
 
 They sat down, and after some wandering and aimless weather-conversation Wilson said—
 e:wilson=neutral;c=
@@ -3589,7 +3589,10 @@ s=blake;e:blake=scowling
 If anybody had noticed Tom’s face at that time, the gray-green color of it might have provoked curiosity; but nobody did.
 s=none;e:tom=fearful
 
-He said to himself: “I’m gone! I never can square up; the rest of the plunder won’t pawn or sell for half of the bill.”
+He said to himself:
+
+
+“I’m gone! I never can square up; the rest of the plunder won’t pawn or sell for half of the bill.”
 t=tom
 
 “Oh, I know it—I’m gone, I’m gone—and this time it’s for good. Oh, this is awful—I don’t know what to do, nor which way to turn!”
