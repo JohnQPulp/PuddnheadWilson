@@ -1,8 +1,14 @@
 ### *Pudd’nhead Wilson: The Visual Novel*
 
-This repository will contain the metadata and images for the visual novel transformation (pulpification) of Mark Twain's book *Pudd’nhead Wilson*.
+This repository contains the metadata and images for the visual novel transformation (pulpification) of Mark Twain's book *Pudd’nhead Wilson*.
 
-This VN is a work-in-progress.
+You can read it in a few ways:
+
+* Online at https://publicdomainpulp.com/vn/PuddnheadWilson
+* Locally at http://localhost:1929/vn/PuddnheadWilson running https://github.com/JohnQPulp/PublicDomainPulp (ASP.NET/C#) from source
+* Locally via static html file using the tool https://github.com/JohnQPulp/Pulpifier (C#) from source
+
+![Preview](images/preview.webp)
 
 ### License Information
 
