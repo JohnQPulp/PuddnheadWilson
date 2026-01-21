@@ -5639,13 +5639,13 @@ t=;b=wilson-house-int
 e:wilson=thinking
 
 The courthouse was crowded, of course, and would remain so to the finish, for not only in the town itself, but in the country for miles around, the trial was the one topic of conversation among the people.
-b=court-judge
+b=court-ext
 
 Mrs. Pratt, in deep mourning, and Tom with a weed on his hat, had seats near Pembroke Howard, the public prosecutor, and back of them sat a great array of friends of the family.
 e:rachel=unhappy;e:tom=serious;b=light;a:rachel=mourning;a:tom=mourning;c=rachel,tom,pembroke
 
 The twins had but one friend present to keep their counsel in countenance, their poor old sorrowing landlady. She sat near Wilson, and looked her friendliest.
-c=luigi,angelo,wilson,patsy
+c=luigi,angelo,wilson,patsy;e:luigi=serious;e:angelo=unhappy
 
 In the “nigger corner” sat Chambers; also Roxy, with good clothes on, and her bill of sale in her pocket.
 e:chambers=serious;e:roxana=serious;c=chambers,roxana
@@ -5770,10 +5770,10 @@ e:tom=smirking
 “Lord, it will be pathetically funny to see him grubbing and groping after that woman that don’t exist, and the right person sitting under his very nose all the time!”
 
 
-The more he thought the situation over, the more the humor of it struck him.
+The more he thought the situation over, the more the humor of it struck him. Finally he said,
 s=none
 
-Finally he said, “I’ll never let him hear the last of that woman. Every time I catch him in company, to his dying day, I’ll ask him in the guileless affectionate way that used to gravel him so when I inquired how his unborn law-business was coming along, ‘Got on her track yet—hey, Pudd’nhead?’”
+“I’ll never let him hear the last of that woman. Every time I catch him in company, to his dying day, I’ll ask him in the guileless affectionate way that used to gravel him so when I inquired how his unborn law-business was coming along, ‘Got on her track yet—hey, Pudd’nhead?’”
 s=tom
 
 He wanted to laugh, but that would not have answered; there were people about, and he was mourning for his uncle.
@@ -5833,10 +5833,10 @@ s=none;e:wilson=fearful
 “No, no!—take it away!”
 s=wilson;c=
 
-His breast was rising and falling, and he moved his head about in a dull and wandering way, like a person who had been stunned.
+His breast was rising and falling, and he moved his head about in a dull and wandering way, like a person who had been stunned. Presently he said,
 s=none
 
-Presently he said, “I shall feel better when I get to bed; I have been overwrought today; yes, and over worked for many days.”
+“I shall feel better when I get to bed; I have been overwrought today; yes, and over worked for many days.”
 s=wilson;e:wilson=serious
 
 “Then I’ll leave you and let you to get to your rest. Good night, old man.”
@@ -5848,8 +5848,11 @@ s=none
 “Don’t take it so hard; a body can’t win every time; you’ll hang somebody yet.”
 s=tom;e:tom=smirking;e:wilson=scowling
 
-Wilson muttered to himself, “It is no lie to say I am sorry I have to begin with you, miserable dog though you are!”
-s=wilson;e:wilson=serious
+Wilson muttered to himself,
+s=
+
+“It is no lie to say I am sorry I have to begin with you, miserable dog though you are!”
+s=wilson;e:wilson=angry
 
 He braced himself up with a glass of cold whisky, and went to work again.
 s=none;e:wilson=thinking;c=
@@ -5920,7 +5923,7 @@ b=wilson-house-int
 He was awake all over. All sense of weariness had been swept away by the invigorating refreshment of the great and hopeful discovery which he had made.
 e:wilson=excited
 
-He made fine and accurate reproductions of a number of his “records,” and then enlarged them on a scale of ten to one with his pantograph.
+He made fine and accurate reproductions of a number of his “records,” and then enlarged them on a scale of ten to one with his pantograph.<e>Illustration in case you want to know what a pantograph is.</e>
 o=margin2
 
 He did these pantograph enlargements on sheets of white cardboard, and made each individual line of the bewildering maze of whorls or curves or loops which constituted the “pattern,” of a “record” stand out bold and black by reinforcing it with ink.
@@ -6023,7 +6026,7 @@ e:wilson=serious
 e:wilson=thinking
 
 [Tom Driscoll had been looking at the speaker, but dropped his eyes at this point.]
-s=none;e:tom=wary;b=light;c=tom
+s=none;e:tom=wary;b=light;c=tom;v=100,140
 
 “In that case he would retain the knife in his possession, not daring to offer it for sale, or for pledge in a pawnshop.”
 s=wilson;b=court-defense;c=
@@ -6091,11 +6094,14 @@ s=wilson
 “If you will look at the balls of your fingers—you that have very sharp eyesight—you will observe that these dainty curving lines lie close together, like those that indicate the borders of oceans in maps, and that they form various clearly defined patterns, such as arches, circles, long curves, whorls, etc., and that these patterns differ on the different fingers.”
 e:wilson=smirking
 
-[Every man in the room had his hand up to the light, now, and his head canted to one side, and was minutely scrutinizing the balls of his fingers; there were whispered ejaculations of ‘Why, it’s so—I never noticed that before!’]<e>As the reader, you may be wondering why everyone except Wilson appears to be retarded in this final chapter. But the uniqueness of fingerprints actually wasn't known until the 1890s (somehow). So with this set in 1850 or so, Twain's portrayal of their reaction is period-accurate.</e>
+[Every man in the room had his hand up to the light, now, and his head canted to one side, and was minutely scrutinizing the balls of his fingers; there were whispered ejaculations of ‘Why, it’s so—I never noticed that before!’]<e>As the reader, you may be wondering here why everyone except Wilson is apparently retarded. But people really didn't know about fingerprints' uniqueness until the 1890s. Somehow.</e>
 s=none
 
+<e>But Twain knew.</e>
+t=twain
+
 “The patterns on the right hand are not the same as those on the left.”
-s=wilson;e:wilson=
+t=;s=wilson;e:wilson=
 
 [Ejaculations of ‘Why, that’s so, too!’]
 s=none
@@ -6143,7 +6149,7 @@ Stunned, distraught, unconscious of its own movement, the house half rose, as if
 s=none
 
 “Order in the court!—sit down!”
-n:sheriff=The Sheriff;s=sheriff;e:sheriff=angry;o=;b=court-judge
+n:sheriff=The Sheriff;s=sheriff;e:sheriff=angry;o=
 
 This from the sheriff. He was obeyed, and quiet reigned again. Wilson stole a glance at Tom, and said to himself,
 s=none
@@ -6224,10 +6230,10 @@ s=wilson;e:wilson=;o=evidence-ab
 
 
 [Tom started.]
-s=none;e:tom=fearful;t=tom
+s=none;e:tom=fearful;c=tom;o=
 
 “They are alike, you see. Here are B’s at five months, and also at seven months. They, too, exactly copy each other, but the patterns are quite different from A’s, you observe.”
-s=wilson;t=none
+s=wilson;t=none;c=;o=evidence-ab
 
 “I shall refer to these again presently, but we will turn them face down, now.”
 
@@ -6268,8 +6274,11 @@ s=wilson;e:wilson=
 “You have heard us grant that claim, and welcome it.”
 e:wilson=
 
-He turned to the jury: “Compare the fingerprints of the accused with the fingerprints left by the assassin—and report.”
-e:wilson=serious;b=court-offense
+He turned to the jury:
+s=
+
+“Compare the fingerprints of the accused with the fingerprints left by the assassin—and report.”
+s=wilson;e:wilson=serious;b=court-offense
 
 The comparison began. As it proceeded, all movement and all sound ceased, and the deep silence of an absorbed and waiting suspense settled upon the house; and when at last the words came—
 s=none;b=light;o=evidence-ab
@@ -6278,25 +6287,25 @@ s=none;b=light;o=evidence-ab
 
 
 Tom was altering his position every few minutes, now, but none of his changes brought repose nor any small trifle of comfort.
-t=tom;s=none;e:tom=unhappy
+s=none;e:tom=unhappy
 
 When the house’s attention was become fixed once more, Wilson said gravely, indicating the twins with a gesture—
-e:wilson=serious;t=;b=court-defense
+e:wilson=serious;t=;b=court-defense;o=
 
 “These men are innocent—I have no further concern with them.”
 s=wilson;e:wilson=smirking;b=court-offense
 
 [Another outbreak of applause began, but was promptly checked.]
-s=none;b=court-defense
+s=none
 
 “We will now proceed to find the guilty.”
-s=wilson;e:wilson=smirking
+s=wilson;e:wilson=smirking;b=light
 
 [Tom’s eyes were starting from their sockets—yes, it was a cruel day for the bereaved youth, everybody thought.]
-s=none;e:tom=fearful;t=tom;b=light
+s=none;e:tom=fearful;c=tom;b=light
 
 “We will return to the infant autographs of A and B. I will ask the jury to take these large pantograph facsimilies of A’s marked five months and seven months.”
-s=wilson;e:wilson=;t=;o=evidence-ab
+s=wilson;e:wilson=;t=;o=evidence-ab;c=
 
 “Do they tally?”
 e:wilson=thinking
@@ -6341,22 +6350,22 @@ s=wilson;o=;b=court-defense
 e:wilson=serious
 
 This produced a vast sensation, naturally; Roxana was astonished at this admirable guess, but not disturbed by it.
-s=none;e:roxana=thinking;t=roxana
+s=none;e:roxana=thinking;b=think;c=roxana
 
 To guess the exchange was one thing, to guess who did it quite another. Pudd’nhead Wilson could do wonderful things, no doubt, but he couldn’t do impossible ones. Safe? She was perfectly safe. She smiled privately.
 e:roxana=smirking
 
 “Between the ages of seven months and eight months those children were changed in the cradle”—he made one of his effect-collecting pauses, and added—“and the person who did it is in this house!”
-s=wilson;e:wilson=serious;t=;b=court-offense
+s=wilson;e:wilson=serious;t=;b=court-offense;c=
 
 Roxy’s pulses stood still! The house was thrilled as with an electric shock, and the people half rose as if to seek a glimpse of the person who had made that exchange.
-s=none;e:roxana=fearful;t=roxana
+s=none;e:roxana=fearful;b=think;c=roxana
 
 Tom was growing limp; the life seemed oozing out of him. Wilson resumed:
-e:tom=unhappy;t=tom
+e:tom=unhappy;c=tom
 
 “A was put into B’s cradle in the nursery; B was transferred to the kitchen and became a Negro and a slave, [Sensation—confusion of angry ejaculations]—but within a quarter of an hour he will stand before you white and free!”
-s=wilson;e:wilson=;t=
+s=wilson;e:wilson=;t=;c=
 
 [Burst of applause, checked by the officers.]
 s=none
@@ -6403,7 +6412,7 @@ s=none
 The court rose; the new prisoner, handcuffed, was removed.
 
 
-## Conclusion<e>And <i>that</i> is how you write a courtroom ending to your book: quick, fun, and cathartic. Suck on it, <book>Brothers Karamazov</book>, with your hundred pages of tedious philosophizing.</e>
+## Conclusion<e>And <i>that</i> is how you write a courtroom ending to your book: quick, fun, and emotionally satisfying. Suck on it, <book>Brothers Karamazov</book>.</e>
 r=title;t=twain
 
 <i>It is often the case that the man who can’t tell a lie thinks he is the best judge of one.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -6457,7 +6466,7 @@ The poor fellow could not endure the terrors of the white man’s parlor, and fe
 The family pew was a misery to him, yet he could nevermore enter into the solacing refuge of the “nigger gallery”—that was closed to him for good and all.
 
 
-But we cannot follow his curious fate further—that would be a long story.<e>See how it's possible to just wrap up a character, leaving interesting hints about their future, without having to drag it out for ten million pages? <i>Updike</i>. And <i>Irving</i>.</e>
+But we cannot follow his curious fate further—that would be a long story.<e>See how it's possible to wrap up a character with interesting hints about their future, but without dragging it out for 30 pages? <i>Irving</i>.</e>
 t=twain
 
 The false heir made a full confession and was sentenced to imprisonment for life. But now a complication came up.
@@ -6475,8 +6484,5 @@ They rightly claimed that “Tom” was lawfully their property and had been so 
 Everybody saw that there was reason in this. Everybody granted that if “Tom” were white and free it would be unquestionably right to punish him—it would be no loss to anybody; but to shut up a valuable slave for life—that was quite another matter.
 
 
-As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e>The End and F&#9472;&#9472;&#9472; Tom lmao. Twain you magnificent bastard.</e>
+As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e><span class='upper'>The End</span> and F&#9472;&#9472;&#9472; Tom, lmao. One of the funniest conclusions in all of literature. Twain you magnificent bastard.</e>
 b=plantation;t=twain;e:twain=two
-
-<e>And remember <u>no</u> man is a failure who has <u>friends</u>.</e>
-t=twain
