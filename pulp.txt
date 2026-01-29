@@ -1,5 +1,5 @@
 *Pudd’nhead Wilson* by Mark Twain<e>The Steinbeck and Buchan visual novels had so much to make fun of, which was great, because mockery is 80% of the point of these editor's notes. But to editorialize <i>Mark Twain</i>? No chance. The man is impossible to out-quip. So what I'll do instead is just make fun of other authors (like Steinbeck and Buchan), pointing out what this book does correctly that the others all fail at.</e>
-n:twain=;t=twain;b=title;e:twain=;z:twain=85
+n:twain=;t=twain;b=title;e:twain=;z:twain=85;h=no-speaker-counter
 
 <e>And then I'll also pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
 o=margin1;b=title
