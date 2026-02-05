@@ -1,17 +1,17 @@
 *Pudd’nhead Wilson* by Mark Twain<e>The Steinbeck and Buchan visual novels had so much to make fun of, which was great, because mockery is 80% of the point of these editor's notes. But to editorialize <i>Mark Twain</i>? No chance. The man is impossible to out-quip. So what I'll do instead is just make fun of other authors (like Steinbeck and Buchan), pointing out what this book does correctly that the others all fail at.</e>
-n:twain=;t=twain;b=title;e:twain=;z:twain=85;h=no-speaker-counter
+t=author;b=title;;z:author=85;h=no-speaker-counter
 
 <e>And then I'll also pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
-o=margin1;b=title
+o=margin1;b=title;t=
 
 ## I. Pudd’nhead Wins His Name
 r=title
 
 <i>There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>See what I mean? How do you out-quip that? You can't.</e>
-t=twain;b=calendar;e:twain=two
+t=author;b=calendar;
 
 <i>Tell the truth or trump﻿—but get the trick.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Mark Twain's <i>Art of the Deal</i>.</e>
-b=calendar;e:twain=
+b=calendar;
 
 The scene of this chronicle is the town of Dawson’s Landing, on the Missouri side of the Mississippi, half a day’s journey, per steamboat, below St. Louis.
 b=dawson-wide;t=
@@ -26,7 +26,7 @@ When there was room on the ledge outside of the pots and boxes for a cat, the ca
 
 
 Then that house was complete, and its contentment and peace were made manifest to the world by this symbol, whose testimony is infallible. A home without a cat﻿—and a well-fed, well-petted and properly revered cat﻿—may be a perfect home, perhaps, but how can it prove title?<e>The man loved his cats. (See also his feline royalty speech in <book>A Connecticut Yankee</book>.)</e>
-t=twain;e:twain=cat
+t=author;
 
 All along the streets, on both sides, at the outer edge of the brick sidewalks, stood locust-trees with trunks protected by wooden boxing, and these furnished shade for summer and a sweet fragrance in spring when the clusters of buds came forth.
 t=
@@ -98,7 +98,7 @@ He was very popular with the people, and was the Judge’s dearest friend.
 e:pembroke=;c=,pembroke,;e:york=happy;z:pembroke=103;c=
 
 Then there was Colonel Cecil Burleigh Essex, another F.F.V. of formidable caliber﻿—however, with him we have no concern.<e>Introduces a new character. Immediately mentions that he won't be important. Refuses to elaborate.</e>
-c=;t=twain;e:twain=
+c=;t=author;
 
 Percy Northumberland Driscoll, brother to the Judge, and younger than he by five years, was a married man, and had had children around his hearthstone; but they were attacked in detail by measles, croup and scarlet fever, and this had given the doctor a chance with his effective antediluvian methods; so the cradles were empty.
 n:percy=Percy Northumberland Driscoll;e:percy=unhappy;t=;a:percy=35;b=light;c=percy
@@ -209,7 +209,7 @@ The nickname soon ceased to carry any harsh or unfriendly feeling with it, but i
 r=title
 
 <i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Twain dumping leftover snippets from <book>Extracts from Adam's Diary</book> into this completely unrelated book.</e>
-b=calendar;t=twain
+b=calendar;t=author
 
 Pudd’nhead Wilson had a trifle of money when he arrived, and he bought a small house on the extreme western verge of the town.
 e:wilson=neutral;b=wilson-house-ext;t=
@@ -806,13 +806,13 @@ He discovered nothing; and she went home jubilant, and dropped all concern about
 e:roxana=happy
 
 ## IV. The Ways of the Changelings<e>The balls on Twain to just write <book>Prince and the Pauper</book>'s exact same premise again.</e>
-r=title;t=twain;e:twain=
+r=title;t=author;
 
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
 
 <i>There is this trouble about special providences﻿—namely, there is so often a doubt as to which party was intended to be the beneficiary. In the case of the children, the bears and the prophet, the bears got more real satisfaction out of the episode than the prophet did, because they got the children.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Nice 2 Kings 2:23-25 reference, king.</e>
-t=twain
+t=author
 
 This history must henceforth accommodate itself to the change which Roxana has consummated, and call the real heir “Chambers” and the usurping little slave “Thomas à Becket”﻿—shortening this latter name to “Tom,” for daily use, as the people about him did.
 n:tom=Thomas à Becket Driscoll;n:chambers=Valet de Chambers;b=cradle-room-cradles;t=
@@ -821,7 +821,7 @@ n:tom=Thomas à Becket Driscoll;n:chambers=Valet de Chambers;b=cradle-room-cradl
 e:tom=angry
 
 He would cry for nothing; he would burst into storms of devilish temper without notice, and let go scream after scream and squall after squall, then climax the thing with “holding his breath”﻿—that frightful specialty of the teething nursling, in the throes of which the creature exhausts its lungs, then is convulsed with noiseless squirmings and twistings and kickings in the effort to get its breath, while the lips turn blue and the mouth stands wide and rigid, offering for inspection one wee tooth set in the lower rim of a hoop of red gums; and when the appalling stillness has endured until one is sure the lost breath will never return, a nurse comes flying, and dashes water in the child’s face, and﻿—presto! the lungs fill, and instantly discharge a shriek, or a yell, or a howl which bursts the listening ear and surprises the owner of it into saying words which would not go well with a halo if he had one.
-b=cradle-room-door;t=twain
+b=cradle-room-door;t=author
 
 The baby Tom would claw anybody who came within reach of his nails, and pound anybody he could reach with his rattle.
 t=
@@ -869,7 +869,7 @@ With all her splendid common sense and practical everyday ability, Roxy was a do
 e:roxana=happy
 
 She was this toward her child﻿—and she was also more than this: by the fiction created by herself, he was become her master; the necessity of recognizing this relation outwardly and of perfecting herself in the forms required to express the recognition, had moved her to such diligence and faithfulness in practicing these forms that this exercise soon concreted itself into habit; it became automatic and unconscious; then a natural result followed: deceptions intended solely for others gradually grew practically into self-deceptions as well; the mock reverence became real reverence, the mock obsequiousness real obsequiousness, the mock homage real homage; the little counterfeit rift of separation between imitation-slave and imitation-master widened and widened, and became an abyss, and a very real one﻿—and on one side of it stood Roxy, the dupe of her own deceptions, and on the other stood her child, no longer a usurper to her, but her accepted and recognized master.
-t=twain
+t=author
 
 He was her darling, her master, and her deity all in one, and in her worship of him she forgot who she was and what he had been.
 t=
@@ -1022,7 +1022,7 @@ There were two grand funerals in Dawson’s Landing that fall﻿—the fall of 1
 b=dawson-wide
 
 One was that of Colonel Cecil Burleigh Essex, the other that of Percy Driscoll.
-e:percy=neutral;e:twain=
+e:percy=neutral;
 
 On his deathbed Driscoll set Roxy free and delivered his idolized ostensible son solemnly into the keeping of his brother, the Judge and his wife.
 e:roxana=neutral;t=;b=light
@@ -1154,7 +1154,7 @@ If the Judge had stopped with bare assertion, it would have had a good deal of e
 e:york=thinking
 
 For some years Wilson had been privately at work on a whimsical almanac, for his amusement—a calendar, with a little dab of ostensible philosophy, usually in ironical form, appended to each date; and the Judge thought that these quips and fancies of Wilson’s were neatly turned and cute; so he carried a handful of them around, one day, and read them to some of the chief citizens.<e>Twain bragging about his own writing, and because he's Twain, he gets away with it.</e>
-e:wilson=thinking;e:york=happy;b=calendar;t=twain
+e:wilson=thinking;e:york=happy;b=calendar;t=author
 
 But irony was not for those people; their mental vision was not focused for it.
 e:wilson=unhappy;t=
@@ -1178,7 +1178,7 @@ He was liked, he was welcome enough all around, but he simply didn’t count for
 e:wilson=neutral
 
 The widow Cooper—affectionately called “aunt Patsy” by everybody—lived in a snug and comely cottage with her daughter Rowena, who was nineteen, romantic, amiable, and very pretty, but otherwise of no consequence. Rowena had a couple of young brothers—also of no consequence.<e>Smash cutting to brand new characters "of no consequence" with no transition text.</e>
-n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena;z:patsy=87;z:rowena=92;t=twain
+n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena;z:patsy=87;z:rowena=92;t=author
 
 The widow had a large spare room which she let to a lodger, with board, when she could find one, but this room had been empty for a year now, to her sorrow.
 e:patsy=unhappy;t=;c=patsy,
@@ -1394,7 +1394,7 @@ s=higgins
 s=rowena
 
 Handshake, admiring stare, “Glad to see ye,”—courteous nod, smily “Most happy!” and Higgins passes on.<e>And that's the last we'll ever hear of Mr. Higgins. But no "with him we have no concern/consequence". (And reader, did you even notice that Colonel Cecil Burleigh Essex was mentioned again earlier?)</e>
-s=;e:angelo=happy;t=twain
+s=;e:angelo=happy;t=author
 
 None of these visitors was at ease, but, being honest people, they didn’t pretend to be.
 s=none;t=
@@ -1424,7 +1424,7 @@ Eager inquiries concerning the twins were pouring into their enchanted ears all 
 e:rowena=excited
 
 Napoleon and all his kind stood accounted for—and justified.<e>Twain accomplishes in two sentences what Tolstoy had to yammer on for fifty exhausting pages about in <book>War and Peace</book> (in the worst ending to any book ever).</e>
-t=twain
+t=author
 
 When Rowena had at last done all her duty by the people in the parlor, she went upstairs to satisfy the longings of an overflow-meeting there, for the parlor was not big enough to hold all the comers.
 b=patsy-house-int;t=
@@ -1478,7 +1478,7 @@ They entered his buggy with him, and were paraded down the main street, everybod
 b=dawson-main
 
 The Judge showed the strangers the new graveyard, and the jail, and where the richest man lived, and the Freemasons’ hall, and the Methodist church, and the Presbyterian church, and where the Baptist church was going to be when they got some money to build it with, and showed them the town hall and the slaughterhouse, and got out the independent fire company in uniform and had them put out an imaginary fire; then he let them inspect the muskets of the militia company, and poured out an exhaustless stream of enthusiasm over all these splendors, and seemed very well satisfied with the responses he got, for the twins admired his admiration, and paid him back the best they could, though they could have done better if some fifteen or sixteen hundred thousand previous experiences of this sort in various countries had not already rubbed off a considerable part of the novelty of it.
-e:york=excited;b=dawson-wide;t=twain
+e:york=excited;b=dawson-wide;t=author
 
 The Judge laid himself out hospitably to make them have a good time, and if there was a defect anywhere it was not his fault.
 e:york=happy;t=
@@ -2066,7 +2066,7 @@ s=tom
 e:tom=weary
 
 But that was a hasty conclusion.<e>Twain with the intrusive foreshadowing to let you know just how thoroughly he's going to destroy this little shit.</e>
-s=none;t=twain
+s=none;t=author
 
 At ten that night he climbed the ladder in the haunted house, pale, weak and wretched.
 b=haunted-ext;t=
@@ -2333,7 +2333,7 @@ e:roxana=neutral
 e:roxana=smirking
 
 ## X. The Nymph Revealed<e>This legend bringing back Colonel Cecil Burleigh Essex <i>again</i>.</e>
-r=title;t=twain
+r=title;t=author
 
 <i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
@@ -2408,7 +2408,7 @@ When Rowena, the dearest thing his heart knew, the idol of his secret worship, i
 e:tom=fearful;b=light;e:rowena=unhappy;c=rowena
 
 The “nigger” in him went shrinking and skulking here and there and yonder, and fancying it saw suspicion and maybe detection in all faces, tones, and gestures.<e>Five lines in a row. (And 75 in total in the book. Who else but Twain?)</e>
-t=twain;e:twain=;c=
+t=author;;c=
 
 So strange and uncharacteristic was Tom’s conduct that people noticed it, and turned to look after him when he passed on; and when he glanced back﻿—as he could not help doing, in spite of his best resistance﻿—and caught that puzzled expression in a person’s face, it gave him a sick feeling, and he took himself out of view as quickly as he could.
 t=
@@ -2933,7 +2933,7 @@ In fact, he was even a teetotaler sometimes—when it was judicious to be one.<e
 o=margin20
 
 <e>So Twain got two stories for the price of one. And both stories were illustrated, so we get to enjoy seeing what this other, <book>Alice in Wonderland</book>-like version of what Luigi and the other one were meant to look like.</e>
-t=twain
+t=author
 
 The twins left with Buckstone, and Tom Driscoll joined company with them uninvited.
 e:tom=neutral;c=;o=;t=
@@ -3071,13 +3071,13 @@ In two minutes they had their red shirts and helmets on—they never stirred off
 o=margin9
 
 Such citizens of that village as were of a thoughtful and judicious temperament did not insure against fire; they insured against the fire-company.<e>See?</e>
-o=;t=twain
+o=;t=author
 
 ## XII. The Shame of Judge Driscoll
 r=title
 
 <i>Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
-b=calendar;t=twain
+b=calendar;t=author
 
 Judge Driscoll was in bed and asleep by ten o’clock on Friday night, and he was up and gone a-fishing before daylight in the morning with his friend Pembroke Howard.
 b=light;t=
@@ -3740,7 +3740,7 @@ He put the will carefully back in its place, and spread his mouth and swung his 
 e:tom=excited
 
 He fell to communing with himself excitedly and joyously, but every now and then he let off another volley of dumb hurrahs.<e>Twain the active editorializer.</e>
-t=twain;e:twain=
+t=author;
 
 He said to himself:
 t=
@@ -3962,10 +3962,10 @@ s=tom
 s=roxana;e:roxana=happy;
 
 <e>In awe over this book having some of fiction's funniest dialogue, considering Twain wrote the first draft in just <i>five weeks</i>.</e>
-t=twain;s=
+t=author;s=
 
 <e>(And then he gave the book's copyright to his wife in a laundering scheme.)</e>
-e:twain=two
+
 
 “De Jedge didn’t git hurt, but I hear Pudd’nhead say de bullet snip some o’ his ha’r off.”
 t=;e:roxana=;s=roxana
@@ -4505,7 +4505,7 @@ But when he got up in the morning, luck was against him again: A brother-thief h
 b=think
 
 <e>Twain spoiling in the chapter title what only happens in the last sentence of the chapter.</e>
-e:tom=unhappy;t=twain
+e:tom=unhappy;t=author
 
 ## XVI. Sold Down the River
 r=title
@@ -5222,7 +5222,7 @@ e:tom=weary
 e:tom=serious
 
 ## XIX. The Prophecy Realized<e>Twain making this VN as difficult to create as possible.</e>
-r=title;t=twain;e:twain=
+r=title;t=author;
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
@@ -5333,7 +5333,7 @@ He unlocked his trunk and got his suit of girl’s clothes out from under the ma
 
 
 Then he blacked his face with burnt cork and put the cork in his pocket.<e>Not again!</e>
-t=twain;e:twain=
+t=author;
 
 His plan was, to slip down to his uncle’s private sitting-room below, pass into the bedroom, steal the safe-key from the old gentleman’s clothes, and then go back and rob the safe.
 e:tom=thinking;t=
@@ -5627,7 +5627,7 @@ e:rachel=happy;c=tom,rachel
 r=title
 
 <i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Heh heh… women.</e>
-b=calendar;t=twain
+b=calendar;t=author
 
 The weeks dragged along, no friend visiting the jailed twins but their counsel and Aunt Patsy Cooper, and the day of trial came at last—the heaviest day in Wilson’s life; for with all his tireless diligence he had discovered no sign or trace of the missing confederate.
 t=;b=wilson-house-int
@@ -6095,7 +6095,7 @@ e:wilson=smirking
 s=none
 
 <e>But Twain knew.</e>
-t=twain
+t=author
 
 “The patterns on the right hand are not the same as those on the left.”
 t=;s=wilson;e:wilson=
@@ -6410,7 +6410,7 @@ The court rose; the new prisoner, handcuffed, was removed.
 
 
 ## Conclusion<e>And <i>that</i> is how you write a courtroom ending to your book: quick, fun, and emotionally satisfying. Suck on it, <book>Brothers Karamazov</book>.</e>
-r=title;t=twain
+r=title;t=author
 
 <i>It is often the case that the man who can’t tell a lie thinks he is the best judge of one.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
 b=calendar;t=
@@ -6464,7 +6464,7 @@ The family pew was a misery to him, yet he could nevermore enter into the solaci
 
 
 But we cannot follow his curious fate further—that would be a long story.<e>See how it's possible to wrap up a character, hinting about their future, without dragging it out for 30 pages? <i>Irving</i>.</e>
-t=twain
+t=author
 
 The false heir made a full confession and was sentenced to imprisonment for life. But now a complication came up.
 t=;c=tom;e:tom=unhappy
@@ -6482,4 +6482,4 @@ Everybody saw that there was reason in this. Everybody granted that if “Tom”
 
 
 As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e><span class='upper'>The End</span> and f&#9472;&#9472;&#9472; Tom, lmao. One of the funniest conclusions in all of literature. Twain you magnificent bastard.</e>
-b=plantation;t=twain;e:twain=two
+b=plantation;t=author;
