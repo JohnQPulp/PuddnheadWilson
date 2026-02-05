@@ -6038,7 +6038,7 @@ s=wilson;e:wilson=smirking
 s=none
 
 “If it shall seem necessary, I will prove by the Misses Clarkson that they met a veiled person—ostensibly a woman—coming out of the back gate a few minutes after the cry for help was heard.”
-e:wilson=
+e:wilson=;s=wilson
 
 “This person was not a woman, but a man dressed in woman’s clothes.”
 e:wilson=smirking
