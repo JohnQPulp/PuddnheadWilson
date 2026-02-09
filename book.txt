@@ -72,13 +72,13 @@ Mr. Wilson stood elected. The incident was told all over the town, and gravely 
 
 Pudd’nhead Wilson had a trifle of money when he arrived, and he bought a small house on the extreme western verge of the town. Between it and Judge Driscoll’s house there was only a grassy yard, with a paling fence dividing the properties in the middle. He hired a small office down in the town and hung out a tin sign with these words on it:
 
-<div class='upper center'><span class='big'>David Wilson.</span><br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.</div>
+David Wilson.<br>Attorney And Counselor-At-Law.<br>Surveying, Conveyancing, Etc.
 
 But his deadly remark had ruined his chance﻿—at least in the law. No clients came. He took down his sign, after a while, and put it up on his own house with the law features knocked out of it. It offered his services now in the humble capacities of land-surveyor and expert accountant. Now and then he got a job of surveying to do, and now and then a merchant got him to straighten out his books. With Scotch patience and pluck he resolved to live down his reputation and work his way into the legal field yet. Poor fellow, he could not foresee that it was going to take him such a weary long time to do it.
 
 He had a rich abundance of idle time, but it never hung heavy on his hands, for he interested himself in every new thing that was born into the universe of ideas, and studied it and experimented upon it at his house. One of his pet fads was palmistry. To another one he gave no name, neither would he explain to anybody what its purpose was, but merely said it was an amusement. In fact he had found that his fads added to his reputation as a pudd’nhead; therefore he was growing chary of being too communicative about them. The fad without a name was one which dealt with people’s fingermarks. He carried in his coat pocket a shallow box with grooves in it, and in the grooves strips of glass five inches long and three inches wide. Along the lower edge of each strip was pasted a slip of white paper. He asked people to pass their hands through their hair (thus collecting upon them a thin coating of the natural oil) and then make a thumbmark on a glass strip, following it with the mark of the ball of each finger in succession. Under this row of faint grease-prints he would write a record on the strip of white paper﻿—thus:
 
-<div class='center'><span class='upper'>John Smith</span>, *right hand*﻿—</div>
+John Smith, *right hand*﻿—
 
 and add the day of the month and the year, then take Smith’s left hand on another glass strip, and add name and date and the words “left hand.” The strips were now returned to the grooved box, and took their place among what Wilson called his “records.”
 
@@ -318,7 +318,7 @@ The widow had a large spare room which she let to a lodger, with board, when she
 
 She had read the letter to the family, and Rowena had danced away to see to the cleaning and airing of the room by the slave woman Nancy, and the boys had rushed abroad in the town to spread the great news, for it was matter of public interest, and the public would wonder and not be pleased if not informed. Presently Rowena returned, all ablush with joyous excitement, and begged for a rereading of the letter. It was framed thus:
 
-<span class='upper'>Honored Madam:</span> My brother and I have seen your advertisement, by chance, and beg leave to take the room you offer. We are twenty-four years of age and twins. We are Italians by birth, but have lived long in the various countries of Europe, and several years in the United States. Our names are Luigi and Angelo Capello. You desire but one guest; but dear Madam, if you will allow us to pay for two, we will not incommode you. We shall be down Thursday.
+Honored Madam: My brother and I have seen your advertisement, by chance, and beg leave to take the room you offer. We are twenty-four years of age and twins. We are Italians by birth, but have lived long in the various countries of Europe, and several years in the United States. Our names are Luigi and Angelo Capello. You desire but one guest; but dear Madam, if you will allow us to pay for two, we will not incommode you. We shall be down Thursday.
 
 “Italians! How romantic! Just think, ma﻿—there’s never been one in this town, and everybody will be dying to see them, and they’re all *ours*! Think of that!”
 
@@ -1770,13 +1770,13 @@ As Tom, quaking as with a palsy, passed out at the gate, three women came flying
 
 In St. Louis, next morning, he read this brief telegram in the papers﻿—dated at Dawson’s Landing:
 
-<span class='upper'>Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.</span>
+Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.
 
 “One of the twins!” soliloquized Tom; “how lucky! It is the knife that has done him this grace. We never know when fortune is trying to favor us. I actually cursed Pudd’nhead Wilson in my heart for putting it out of my power to sell that knife. I take it back, now.”
 
 Tom was now rich and independent. He arranged with the planter, and mailed to Wilson the new bill of sale which sold Roxana to herself; then he telegraphed his Aunt Pratt:
 
-<span class='upper'>Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.</span>
+Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.
 
 When Wilson reached the house of mourning and had gathered such details as Mrs. Pratt and the rest of the crowd could tell him, he took command as mayor, and gave orders that nothing should be touched, but everything left as it was until Justice Robinson should arrive and take the proper measures as coroner. He cleared everybody out of the room but the twins and himself. The sheriff soon arrived and took the twins away to jail. Wilson told them to keep heart, and promised to do his best in their defense when the case should come to trial. Justice Robinson came presently, and with him Constable Blake. They examined the room thoroughly. They found the knife and the sheath. Wilson noticed that there were fingerprints on the knife-handle. That pleased him, for the twins had required the earliest comers to make a scrutiny of their hands and clothes, and neither these people nor Wilson himself had found any bloodstains upon them. Could there be a possibility that the twins had spoken the truth when they said they found the man dead when they ran into the house in answer to the cry for help? He thought of that mysterious girl at once. But this was not the sort of work for a girl to be engaged in. No matter; Tom Driscoll’s room must be examined.
 
