@@ -1,5 +1,5 @@
-*Pudd’nhead Wilson* by Mark Twain<e>After the double-whammy that was the Steinbeck and Buchan visual novels, it's a relief to finally have a source text that's <i>good</i>. I'll use this opportunity to point out in this reading what Twain does correctly what authors like those two fail at.</e>
-t=author;b=title;;z:author=85;h=no-speaker-counter
+<div class='center'><span class='big italics'>Pudd’nhead Wilson</span> by&nbsp;Mark&nbsp;Twain</div><e>After the double-whammy that was the Steinbeck and Buchan visual novels, it's a relief to finally have a source text that's <i>good</i>. I'll use this opportunity to point out in this reading what Twain does correctly what authors like those two fail at.</e>
+t=author;b=title;;z:author=80,,3;h=no-speaker-counter
 
 <e>Also for this VN, I'll pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
 o=margin1;b=title;t=
@@ -62,7 +62,7 @@ The town was sleepy and comfortable and contented. It was fifty years old, and w
 
 
 The chief citizen was York Leicester Driscoll, about forty years old, judge of the county court.
-n:york=Judge York Leicester Driscoll;e:york=serious;c=york;a:york=40;b=light;e:york=happy
+n:york=Judge York Leicester Driscoll;e:york=serious;c=york;a:york=40;b=light;e:york=happy;v=100,140
 
 He was very proud of his old Virginian ancestry, and in his hospitalities and his rather formal and stately manners he kept up its traditions.
 
@@ -110,7 +110,7 @@ On the 1st of February, 1830, two boy babes were born in his house: one to him, 
 n:roxana=Roxana;e:roxana=neutral;c=
 
 Roxana was twenty years old. She was up and around the same day, with her hands full, for she was tending both babies.
-a:roxana=20;e:roxana=;c=roxana;b=light;z:roxana=95
+a:roxana=20;e:roxana=;c=roxana;b=light;z:roxana=95,52,2
 
 Mrs. Percy Driscoll died within the week. Roxy remained in charge of the children.
 c=;b=percy-house-int
@@ -137,7 +137,7 @@ He had just made the acquaintance of a group of citizens when an invisible dog b
 e:wilson=thinking
 
 “I wish I owned half of that dog.”
-s=wilson
+s=wilson;z:wilson=,53,3
 
 “Why?” somebody asked.
 n:cit1=Citizen;s=cit1;e:cit1=confused
@@ -287,13 +287,16 @@ It was carried on in yells, which showed that the people engaged in it were not 
 b=wilson-house-window
 
 “Say, Roxy, how does yo’ baby come on?”
-n:jasper=?;s=jasper;e:jasper=happy
+n:jasper=?;s=jasper;e:jasper=happy;z:jasper=105,,1
 
 This from the distant voice.
 s=none
 
-“Fust-rate; how does *you* come on, Jasper?” This yell was from close by.
+“Fust-rate; how does *you* come on, Jasper?”
 s=roxana;e:roxana=happy;n:jasper=Jasper
+
+This yell was from close by.
+s=
 
 “Oh, I’s middlin’; hain’t got noth’n’ to complain of. I’s gwine to come a-court’n’ you bimeby, Roxy.”
 s=jasper;e:jasper=smirking
@@ -332,7 +335,7 @@ From Roxy’s manner of speech, a stranger would have expected her to be black, 
 e:roxana=neutral
 
 Only one sixteenth of her was black, and that sixteenth did not show.
-b=light;c=roxana
+b=light;c=roxana;v=,140
 
 She was of majestic form and stature, her attitudes were imposing and statuesque, and her gestures and movements distinguished by a noble and stately grace.
 
@@ -386,13 +389,13 @@ s=none;e:roxana=happy
 s=roxana
 
 “How do you tell them apart, Roxy, when they haven’t any clothes on?”
-s=wilson;e:wilson=thinking;c=;b=light;o=babes-wagon
+s=wilson;e:wilson=thinking;
 
 Roxy laughed a laugh proportioned to her size, and said:
-s=none;e:roxana=happy
+s=none;e:roxana=happy;c=;
 
 “Oh, *I* kin tell ’em ’part, Misto Wilson, but I bet Marse Percy couldn’t, not to save his life.”
-s=roxana;e:roxana=smirking
+s=roxana;e:roxana=smirking;c=;b=light;o=babes-wagon
 
 Wilson chatted along for awhile, and presently got Roxy’s fingerprints for his collection﻿—right hand and left﻿—on a couple of his glass strips; then labeled and dated them, and took the “records” of both children, and labeled and dated them also.
 s=none;e:wilson=neutral;o=;b=wilson-house-ext
@@ -482,7 +485,7 @@ On frosty nights the humane Negro prowler would warm the end of a plank and put 
 f:b:dawson-wide=brightness(85%)
 
 “Name the thief!”
-s=percy;b=percy-house-int;c=percy;v=100,120;e:percy=point
+s=percy;b=percy-house-int;c=percy;;e:percy=point
 
 For the fourth time Mr. Driscoll had said it, and always in the same hard tone.
 s=none;c=
@@ -512,7 +515,7 @@ s=servant2
 s=servant3
 
 “Very good,” said the master, putting up his watch, “I will sell you *here* though you don’t deserve it. You ought to be sold down the river.”
-s=percy;e:percy=serious
+s=percy;e:percy=serious;z:percy=,,1
 
 The culprits flung themselves prone, in an ecstasy of gratitude, and kissed his feet, declaring that they would never forget his goodness and never cease to pray for him as long as they lived.
 s=none
@@ -881,7 +884,7 @@ The few times that his persecutions had moved him beyond control and made him fi
 e:chambers=angry;e:roxana=angry
 
 No, Percy Driscoll was the person. He told Chambers that under no provocation whatever was he privileged to lift his hand against his little master.
-e:percy=angry;b=percy-house-int;c=percy
+e:percy=angry;b=percy-house-int;c=percy;v=,140
 
 Chambers overstepped the line three times, and got three such convincing canings from the man who was his father and didn’t know it, that he took Tom’s cruelties in all humility after that, and made no more experiments.
 e:chambers=fearful;c=
@@ -1034,7 +1037,7 @@ Judge Driscoll had gone privately to his brother, a month before, and bought Cha
 c=
 
 He had heard that Tom had been trying to get his father to sell the boy down the river, and he wanted to prevent the scandal﻿—for public sentiment did not approve of that way of treating family servants for light cause or for no cause.
-e:tom=angry;c=tom,chambers;z:tom-a15=90;z:chambers-a15=93
+e:tom=angry;c=tom,chambers;z:tom-a15=90,,2;z:chambers-a15=93,53
 
 Percy Driscoll had worn himself out in trying to save his great speculative landed estate, and had died without succeeding.
 c=
@@ -1112,7 +1115,7 @@ He enjoyed the feeling which he was exciting, and paraded the town serene and ha
 e:tom=surprised
 
 Tom surrendered, and after that clothed himself in the local fashion.
-e:tom=unhappy;b=light;c=tom;z:tom-a19=97;z:chambers-a19=102
+e:tom=unhappy;b=light;c=tom;z:tom-a19=97,,2;z:chambers-a19=102,55
 
 But the dull country town was tiresome to him, since his acquaintanceship with livelier regions, and it grew daily more and more so.
 e:tom=weary;c=
@@ -1136,7 +1139,7 @@ Judge Driscoll had retired from the bench and from all business activities in 18
 e:york=neutral;b=light;c=,york
 
 He was president of the Freethinkers’ Society, and Pudd’nhead Wilson was the other member.
-c=wilson,york;e:wilson=happy
+c=wilson,york;e:wilson=happy;v=,140
 
 The society’s weekly discussions were now the old lawyer’s main interest in life.
 c=
@@ -1178,7 +1181,7 @@ He was liked, he was welcome enough all around, but he simply didn’t count for
 e:wilson=neutral
 
 The widow Cooper—affectionately called “aunt Patsy” by everybody—lived in a snug and comely cottage with her daughter Rowena, who was nineteen, romantic, amiable, and very pretty, but otherwise of no consequence. Rowena had a couple of young brothers—also of no consequence.<e>Smash cutting to brand new characters "of no consequence" with no transition text.</e>
-n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena;z:patsy=87;z:rowena=92;t=author
+n:patsy=Aunt Patsy Cooper;n:rowena=Rowena;b=patsy-house-int;c=patsy,rowena;z:patsy=87,47,3,80;z:rowena=92,48,2;t=author
 
 The widow had a large spare room which she let to a lodger, with board, when she could find one, but this room had been empty for a year now, to her sorrow.
 e:patsy=unhappy;t=;c=patsy,
@@ -1298,7 +1301,7 @@ s=patsy;e:patsy=
 
 
 “Oh, we don’t mind it at all, madam; in our case it was merely misfortune, and nobody’s fault.”
-s=angelo;e:angelo=neutral
+s=angelo;e:angelo=neutral;z:angelo=,,7;z:luigi=,,7
 
 “Our parents were well to do, there in Italy, and we were their only child.”
 
@@ -1352,7 +1355,7 @@ At this point Nancy the slave woman thrust her head in at the door and exclaimed
 s=none
 
 “Ole Missus, de house is plum’ jam full o’ people, en dey’s jes a-spi’lin’ to see de gen’lmen!”
-s=nancy;e:nancy=excited;z:nancy=100,49,10
+s=nancy;e:nancy=excited;z:nancy=100,52,11,90
 
 She indicated the twins with a nod of her head, and tucked it back out of sight again.
 s=none
@@ -1409,7 +1412,7 @@ Now and then, as happens at all receptions everywhere, a more than ordinary frie
 
 
 General conversation followed, and the twins drifted about from group to group, talking easily and fluently and winning approval, compelling admiration and achieving favor from all.
-e:luigi=happy;e:angelo=happy;c=luigi,angelo
+e:luigi=happy;e:angelo=happy;c=luigi,angelo;v=,140
 
 The widow followed their conquering march with a proud eye, and every now and then Rowena said to herself with deep satisfaction,
 c=patsy,rowena;e:patsy=happy;e:rowena=happy;c=
@@ -1502,7 +1505,7 @@ This scheme succeeded—the favorable impression was achieved.
 c=
 
 Later it was confirmed and solidified when Wilson proposed that out of courtesy to the strangers the usual topics be put aside and the hour be devoted to conversation upon ordinary subjects and the cultivation of friendly relations and good-fellowship—a proposition which was put to vote and carried.
-e:wilson=happy;c=wilson
+e:wilson=happy;c=wilson;v=,140
 
 The hour passed quickly away in lively talk, and when it was ended the lonesome and neglected Wilson was richer by two friends than he had been when it began.
 c=
@@ -1583,7 +1586,7 @@ A couple of trips made her wonted and easygoing at the work, and infatuated her 
 e:roxana=happy
 
 Then she was promoted and became head chambermaid. She was a favorite with the officers, and exceedingly proud of their joking and friendly way with her.
-c=roxana
+c=roxana;v=,140
 
 During eight years she served three parts of the year on that boat, and the winters on a Vicksburg packet.
 c=;b=deck-of-mogul
@@ -1649,7 +1652,7 @@ She went to Judge Driscoll’s kitchen first of all. She was received there in g
 b=york-house-kitchen
 
 Her wonderful travels, and the strange countries she had seen and the adventures she had had, made her a marvel, and a heroine of romance.
-e:roxana=happy;c=roxana,;v=100,120
+e:roxana=happy;c=roxana,;v=100,140
 
 The Negroes hung enchanted upon the great story of her experiences, interrupting her all along with eager questions, with laughter, exclamations of delight and expressions of applause; and she was obliged to confess to herself that if there was anything better in this world than steamboating, it was the glory to be got by telling about it.
 c=
@@ -1769,7 +1772,7 @@ e:chambers=
 s=tom
 
 The petition was meekly repeated.
-s=none;c=,chambers;v=
+s=none;c=,chambers;v=,140
 
 “Who gave you permission to come and disturb me with the social attentions of niggers?”
 s=tom;e:tom=angry
@@ -2159,7 +2162,7 @@ s=tom
 s=roxana
 
 Tom sprang up and seized a billet of wood and raised it; but his mother only laughed at him, and said—
-s=none;e:roxana=smirking;c=tom;x:tom=billet
+s=none;e:roxana=smirking;c=tom;x:tom=billet;v=,140
 
 “Set down, you pup! Does you think you kin skyer me? It ain’t in you, nor de likes of you.”
 s=roxana;e:roxana=serious
@@ -2366,7 +2369,7 @@ t=tom
 
 
 He sighed and groaned an hour or more away.
-t=none;e:tom=unhappy
+t=none;e:tom=unhappy;v=,140
 
 Then “Chambers” came humbly in to say that breakfast was nearly ready.
 b=york-house-int;c=chambers;e:chambers=
@@ -2534,7 +2537,7 @@ b=calendar
 
 
 The twins arrived presently, and talk began. It flowed along chattily and sociably, and under its influence the new friendship gathered ease and strength.
-e:wilson=happy;e:luigi=happy;e:angelo=happy;b=wilson-house-int;c=luigi,angelo;v=100,150
+e:wilson=happy;e:luigi=happy;e:angelo=happy;b=wilson-house-int;c=luigi,angelo;v=100,160
 
 Wilson got out his *Calendar*, by request, and read a passage or two from it, which the twins praised quite cordially.
 c=
@@ -2966,19 +2969,19 @@ There was another storm of cries:
 e:angelo=serious
 
 “What’s the matter with the other one?”
-s=cit1;z:cit1=105,55,1
+s=cit1;z:cit1=105,75,2
 
 “What is the blond one going back on us for?”
-s=cit2;z:cit2=100,49,5
+s=cit2;z:cit2=100,49,7
 
 “Explain! Explain!”
-s=cit3;z:cit3=110
+s=cit3;z:cit3=110,,,100
 
 The chairman inquired, and then reported—
 s=none
 
 “We have made an unfortunate mistake, gentlemen. I find that the Count Angelo Capello is opposed to our creed—is a teetotaler, in fact, and was not intending to apply for membership with us. He desires that we reconsider the vote by which he was elected. What is the pleasure of the house?”
-s=chairman;e:chairman=serious
+s=chairman;e:chairman=serious;z:chairman=,42,1,90
 
 There was a general burst of laughter, plentifully accented with whistlings and catcalls, but the energetic use of the gavel presently restored something like order.
 s=none
@@ -2996,13 +2999,13 @@ This speech was received with great applause, mixed with cries of—
 s=none
 
 “That’s the talk!”
-s=cit4;z:cit4=110,49,6
+s=cit4;z:cit4=110,53,10
 
 “He’s a good fellow, anyway, if he *is* a teetotaler!”
-s=cit5;z:cit5=100,49,15
+s=cit5;z:cit5=100,53,20
 
 “Drink his health!”
-s=cit6
+s=cit6;z:cit6=,,3
 
 “Give him a rouser, and no heeltaps!”
 s=cit1
@@ -3032,7 +3035,7 @@ The descriptive aptness of the phrase caught the house, and a mighty burst of la
 s=none
 
 Luigi’s southern blood leaped to the boiling-point in a moment under the sharp humiliation of this insult delivered in the presence of four hundred strangers. It was not in the young man’s nature to let the matter pass, or to delay the squaring of the account.
-e:luigi=angry;b=light;c=luigi;v=
+e:luigi=angry;b=light;c=luigi;v=,140
 
 He took a couple of strides and halted behind the unsuspecting joker.
 c=;b=hall
@@ -3089,7 +3092,7 @@ In Missouri a recognized superiority attached to any person who hailed from Old 
 
 
 The Howards and Driscolls were of this aristocracy. In their eyes it was a nobility.
-b=light;c=york,pembroke
+b=light;c=york,pembroke;v=,140
 
 It had its unwritten laws, and they were as clearly defined and as strict as any that could be found among the printed statutes of the land.
 c=
@@ -3128,7 +3131,7 @@ n:messenger=Man;s=messenger;e:messenger=neutral
 s=york;e:york=surprised;x:york=hat;x:pembroke=hat
 
 “Gave him a kicking.”
-s=messenger
+s=messenger;z:messenger=,,1
 
 The old Judge’s lips paled, and his eyes began to flame.
 s=none;e:york=angry
@@ -3281,7 +3284,7 @@ The young man did not tarry.
 s=;b=york-house-int
 
 Then the Judge turned to Howard:
-s=none;b=york-house-int;v=
+s=none;b=york-house-int
 
 “You will be my second, old friend?”
 s=york;e:york=serious;c=pembroke
@@ -3335,7 +3338,7 @@ b=calendar
 
 
 Thus mournfully communing with himself Tom moped along the lane past Pudd’nhead Wilson’s house, and still on and on between fences enclosing vacant country on each hand till he neared the haunted house, then he came moping back again, with many sighs and heavy with trouble.
-e:tom=unhappy;b=light
+e:tom=unhappy;b=light;v=,140
 
 He sorely wanted cheerful company. Rowena!
 e:tom=excited;c=rowena
@@ -3503,7 +3506,7 @@ s=tom
 s=wilson;e:wilson=serious
 
 Mr. Justice Robinson entered, followed by Buckstone and the town-constable, Jim Blake.
-n:blake=Constable Blake;s=none;c=robinson,buckstone,blake;v=120,150;z:buckstone=90;z:robinson=102;z:blake=98
+n:blake=Constable Blake;s=none;c=robinson,buckstone,blake;v=120,160;z:buckstone=90;z:robinson=102,48,2;z:blake=98,52,2
 
 They sat down, and after some wandering and aimless weather-conversation Wilson said—
 e:wilson=neutral;c=
@@ -3851,7 +3854,7 @@ He glanced up at last, and got a shock himself.
 e:tom=surprised
 
 Roxana’s bosom was heaving with suppressed passion, and she was glowering down upon him with measureless contempt written in her face.
-e:roxana=angry;c=roxana;v=100,130
+e:roxana=angry;c=roxana;v=100,140
 
 “En you refuse’ to fight a man dat kicked you, ’stid o’ jumpin’ at de chance! En you ain’t got no mo’ feelin’ den to come en tell me, dat fetched sich a po’ low-down ornery rabbit into de worl’! Pah! it make me sick! It’s de nigger in you, dat’s what it is.”
 s=roxana
@@ -4136,7 +4139,7 @@ Tom Driscoll was not happy over these things; they sunk deep, and hurt all the w
 e:tom=unhappy;b=think;c=tom
 
 He hated the one twin for kicking him, and the other one for being the kicker’s brother.
-e:tom=angry
+e:tom=angry;v=,140
 
 Now and then the people wondered why nothing was heard of the raider, or of the stolen knife or the other plunder, but nobody was able to throw any light on that matter.
 c=
@@ -4151,7 +4154,7 @@ He said to Blake—
 
 
 “You are not looking well, Blake; you seem to be annoyed about something. Has anything gone wrong in the detective business?”
-s=tom;e:tom=;c=blake;e:blake=serious;v=100,90
+s=tom;e:tom=;c=blake;e:blake=serious
 
 “I believe you fairly and justifiably claim to have a pretty good reputation in that line, isn’t it so?”—which made Blake feel good, and look it; but Tom added, “for a country detective”—which made Blake feel the other way, and not only look it, but betray it in his voice—
 s=tom;e:tom=smirking
@@ -4166,7 +4169,7 @@ s=tom;e:tom=smirking
 e:tom=
 
 “D&#9472;&#9472;&#9472; the old woman!”
-s=blake;e:blake=angry;v=100,110
+s=blake;e:blake=angry
 
 “Why, sho! you don’t mean to say you haven’t caught her?”
 s=tom;e:tom=surprised
@@ -4199,7 +4202,7 @@ Blake’s dull face flushed under this gibe, but before he could set his retort 
 s=none;e:blake=angry;e:tom=neutral
 
 “Who got the reward, Pudd’nhead?”
-s=tom;c=,wilson;e:wilson=serious;v=100,90
+s=tom;c=,wilson;e:wilson=serious
 
 Wilson winced slightly, and saw that his own turn was come.
 s=none;e:wilson=wary
@@ -4295,7 +4298,7 @@ Blake slapped his thigh, and cried out—
 s=none;e:blake=excited;e:wilson=surprised;c=
 
 “By Jackson, he’s got you, Pudd’nhead! Now why couldn’t I or *any* fool have thought of that?”
-s=blake;c=blake;v=100,110
+s=blake;c=blake
 
 Wilson said to himself,
 s=;c=
@@ -4370,7 +4373,7 @@ He was loath to withdraw his faith from the twins, and was resolved not to do it
 
 
 “Blake, what do you think of this matter?”
-s=wilson;e:wilson=serious;e:blake=thinking;c=blake,wilson;v=
+s=wilson;e:wilson=serious;e:blake=thinking;c=blake,wilson;
 
 “Well, Pudd’nhead, I’m bound to say I put it up the way Tom does. They hadn’t the knife; or if they had it, they’ve got it yet.”
 s=blake
@@ -4403,7 +4406,7 @@ Saturday evening he said to the Judge—
 
 
 “I’ve had something preying on my mind, uncle, and as I am going away, and might never see you again, I can’t bear it any longer.”
-s=tom;e:tom=wary;c=tom;v=100,110
+s=tom;e:tom=wary;c=tom
 
 “I made you believe I was afraid to fight that Italian adventurer. I had to get out of it on some pretext or other, and maybe I chose badly, being taken unawares, but no honorable person could consent to meet him in the field, knowing what I knew about him.”
 e:tom=unhappy
@@ -4517,7 +4520,7 @@ b=calendar
 
 
 When Roxana arrived, she found her son in such despair and misery that her heart was touched and her motherhood rose up strong in her.
-e:roxana=unhappy;e:tom=unhappy;b=haunted-int
+e:roxana=unhappy;e:tom=unhappy;b=haunted-int;v=,140
 
 He was ruined past hope, now; his destruction would be immediate and sure, and he would be an outcast and friendless.
 c=tom
@@ -4571,7 +4574,7 @@ Tom’s hopes began to rise, and his spirits along with them. He said—
 s=none;e:tom=excited;c=
 
 “It’s lovely of you, mammy—it’s just—”
-s=tom;c=tom;v=100,120
+s=tom;c=tom
 
 “Say it ag’in! En keep on sayin’ it! It’s all de pay a body kin want in dis worl’, en it’s mo’ den enough.”
 s=roxana;e:roxana=happy;e:tom=wary
@@ -4727,7 +4730,7 @@ But it was in an expectant state, for the air was full of rumors of a new duel.
 
 
 Judge Driscoll’s election labors had prostrated him, but it was said that as soon as he was well enough to entertain a challenge he would get one from Count Luigi.
-c=york;e:york=thinking
+c=york;e:york=thinking;v=,140
 
 The brothers withdrew entirely from society, and nursed their humiliation in privacy.
 c=luigi,angelo;e:luigi=unhappy;e:angelo=unhappy
@@ -5216,7 +5219,7 @@ As Tom trudged home his mind was full of dreary thoughts and wild plans; but at 
 e:tom=thinking
 
 “There is but the one way out.”
-e:tom=weary
+e:tom=weary;s=tom
 
 “I must follow her plan. But with a variation—I will not ask for the money and ruin myself; I will *rob* the old skinflint.”
 e:tom=serious
@@ -5234,7 +5237,7 @@ Dawson’s Landing was comfortably finishing its season of dull repose and waiti
 b=dawson-wide
 
 Count Luigi was waiting, too; but not patiently, rumor said.
-e:luigi=serious;b=light;c=luigi,
+e:luigi=serious;b=light;c=luigi,;v=,140
 
 Sunday came, and Luigi insisted on having his challenge conveyed.
 c=
@@ -5402,7 +5405,7 @@ He jumped for the stair-foot, and closed the door behind him; and as he snatched
 
 
 In another moment he was in his room and the twins were standing aghast over the body of the murdered man!
-e:angelo=surprised;e:luigi=surprised;b=york-body;c=luigi,angelo;v=130,130
+e:angelo=surprised;e:luigi=surprised;b=york-body;c=luigi,angelo;v=110,140
 
 Tom put on his coat, buttoned his hat under it, threw on his suit of girl’s clothes, dropped the veil, blew out his light, locked the room door by which he had just entered, taking the key, passed through his other door into the back hall, locked that door and kept the key, then worked his way along in the dark and descended the back stairs.
 e:tom=fearful;c=;b=light
@@ -5639,7 +5642,7 @@ The courthouse was crowded, of course, and would remain so to the finish, for no
 b=court-ext
 
 Mrs. Pratt, in deep mourning, and Tom with a weed on his hat, had seats near Pembroke Howard, the public prosecutor, and back of them sat a great array of friends of the family.
-e:rachel=unhappy;e:tom=serious;b=light;a:rachel=mourning;a:tom=mourning;c=rachel,tom,pembroke
+e:rachel=unhappy;e:tom=serious;b=light;a:rachel=mourning;a:tom=mourning;c=rachel,tom,pembroke;v=110,140
 
 The twins had but one friend present to keep their counsel in countenance, their poor old sorrowing landlady. She sat near Wilson, and looked her friendliest.
 c=luigi,angelo,wilson,patsy;e:luigi=serious;e:angelo=unhappy
@@ -6146,7 +6149,7 @@ Stunned, distraught, unconscious of its own movement, the house half rose, as if
 s=none
 
 “Order in the court!—sit down!”
-n:sheriff=The Sheriff;s=sheriff;e:sheriff=angry;o=
+n:sheriff=The Sheriff;s=sheriff;e:sheriff=angry;o=;z:sheriff=,,3,90
 
 This from the sheriff. He was obeyed, and quiet reigned again. Wilson stole a glance at Tom, and said to himself,
 s=none
@@ -6206,7 +6209,7 @@ The Bench said—
 e:robinson=surprised;o=;b=court-judge
 
 “This certainly approaches the miraculous!”
-n:judge=The Bench;s=judge
+n:judge=The Bench;s=judge;z:judge=,,2,90
 
 Wilson turned to the window again and remarked, pointing with his finger—
 s=;e:wilson=serious;b=light
@@ -6245,7 +6248,7 @@ He passed a powerful magnifying-glass to the foreman.
 s=none
 
 One juryman after another took the cardboard and the glass and made the comparison. Then the foreman said to the judge—
-n:foreman=Foreman
+n:foreman=Foreman;z:foreman=,55
 
 “Your honor, we are all agreed that they are identical.”
 s=foreman
@@ -6422,7 +6425,7 @@ The town sat up all night to discuss the amazing events of the day and swap gues
 b=dawson-main;f:b:dawson-main=brightness(85%)
 
 Troop after troop of citizens came to serenade Wilson, and require a speech, and shout themselves hoarse over every sentence that fell from his lips—for all his sentences were golden, now, all were marvelous. His long fight against hard luck and prejudice was ended; he was a made man for good.
-
+v=,140
 
 And as each of these roaring gangs of enthusiasts marched away, some remorseful member of it was quite sure to raise his voice and say—
 
@@ -6481,5 +6484,8 @@ They rightly claimed that “Tom” was lawfully their property and had been so 
 Everybody saw that there was reason in this. Everybody granted that if “Tom” were white and free it would be unquestionably right to punish him—it would be no loss to anybody; but to shut up a valuable slave for life—that was quite another matter.
 
 
-As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.<e><span class='upper'>The End</span> and f&#9472;&#9472;&#9472; Tom, lmao. One of the funniest conclusions in all of literature. Twain you magnificent bastard.</e>
-b=plantation;t=author;
+As soon as the Governor understood the case, he pardoned Tom at once, and the creditors sold him down the river.
+b=plantation
+
+<e><span class='upper'>The End</span> and f&#9472;&#9472;&#9472; Tom, lmao. One of the funniest conclusions in all of literature. Twain you magnificent bastard.</e>
+b=title;t=author;
