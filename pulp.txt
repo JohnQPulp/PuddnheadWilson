@@ -76,8 +76,11 @@ He was respected, esteemed and beloved by all the community.
 He was well off, and was gradually adding to his store.
 c=;b=york-house-int
 
-He and his wife were very nearly happy, but not quite, for they had no children. The longing for the treasure of a child had grown stronger and stronger as the years slipped away, but the blessing never came﻿—and was never to come.
-e:york=;n:yorkwife=Mrs. Driscoll;c=!yorkwife,york;z:yorkwife=95;b=light;z:york=98
+He and his wife were very nearly happy, but not quite, for they had no children.
+e:york=;n:yorkwife=Mrs. Driscoll;c=york,yorkwife;z:yorkwife=95;b=light;z:york=98
+
+The longing for the treasure of a child had grown stronger and stronger as the years slipped away, but the blessing never came﻿—and was never to come.
+c=
 
 With this pair lived the Judge’s widowed sister, Mrs. Rachel Pratt, and she also was childless﻿—childless, and sorrowful for that reason, and not to be comforted.
 n:rachel=Mrs. Rachel Pratt;e:rachel=unhappy;c=rachel;z:rachel=94
@@ -1031,7 +1034,7 @@ On his deathbed Driscoll set Roxy free and delivered his idolized ostensible son
 e:roxana=neutral;t=;b=light
 
 Those childless people were glad to get him. Childless people are not difficult to please.
-e:york=happy;e:yorkwife=happy;c=!yorkwife,york
+e:york=happy;e:yorkwife=happy;c=yorkwife,york
 
 Judge Driscoll had gone privately to his brother, a month before, and bought Chambers.
 c=
