@@ -443,10 +443,10 @@ They were eloquent in their protestations, but Mr. Driscoll was not moved by th
 
 
 He answered each in turn with a stern “Name the thief!”
-
+m=dialogue
 
 The truth was, all were guilty but Roxana; she suspected that the others were guilty, but she did not know them to be so.
-b=think
+b=think;m=
 
 She was horrified to think how near she had come to being guilty herself; she had been saved in the nick of time by a revival in the colored Methodist Church, a fortnight before, at which time and place she “got religion.”
 e:roxana=fearful
@@ -614,7 +614,7 @@ She took off her handkerchief-turban and dressed her glossy wealth of hair “li
 b=light
 
 Then she was ready for the tomb.
-a:roxana=gown;c=roxana
+a:roxana=gown;c=roxana;v=,140
 
 She gathered up her baby once more; but when her eye fell upon its miserably short little gray tow-linen shirt and noted the contrast between its pauper shabbiness and her own volcanic irruption of infernal splendors, her mother-heart was touched, and she was ashamed.
 e:roxana=unhappy;c=;b=cradle-room-door
@@ -854,10 +854,10 @@ This was because his “father” had forbidden him to have them lest he break w
 b=percy-house-int
 
 The moment Roxy’s back was turned he would toddle to the presence of the tongs and say “Like it!” and cock his eye to one side to see if Roxy was observing; then, “Awnt it!” and cock his eye again; then, “Hab it!” with another furtive glance; and finally, “Take it!”﻿—and the prize was his.
-e:tom=smirking
+e:tom=smirking;m=dialogue
 
 The next moment the heavy implement was raised aloft; the next, there was a crash and a squall, and the cat was off on three legs to meet an engagement; Roxy would arrive just as the lamp or a window went to irremediable smash.
-e:roxana=angry
+e:roxana=angry;m=
 
 Tom got all the petting, Chambers got none.
 e:tom=neutral;e:chambers=unhappy
@@ -884,7 +884,7 @@ The few times that his persecutions had moved him beyond control and made him fi
 e:chambers=angry;e:roxana=angry
 
 No, Percy Driscoll was the person. He told Chambers that under no provocation whatever was he privileged to lift his hand against his little master.
-e:percy=angry;b=percy-house-int;c=percy;v=,140
+e:percy=angry;b=percy-house-int;v=,140
 
 Chambers overstepped the line three times, and got three such convincing canings from the man who was his father and didn’t know it, that he took Tom’s cruelties in all humility after that, and made no more experiments.
 e:chambers=fearful;c=
@@ -1115,7 +1115,7 @@ He enjoyed the feeling which he was exciting, and paraded the town serene and ha
 e:tom=surprised
 
 Tom surrendered, and after that clothed himself in the local fashion.
-e:tom=unhappy;b=light;c=tom;z:tom-a19=97,,2;z:chambers-a19=102,55
+e:tom=unhappy;b=light;c=tom;z:tom-a19=97,,2;z:chambers-a19=102,55;v=,140
 
 But the dull country town was tiresome to him, since his acquaintanceship with livelier regions, and it grew daily more and more so.
 e:tom=weary;c=
@@ -1306,8 +1306,14 @@ s=angelo;e:angelo=neutral;z:angelo=,,7;z:luigi=,,7
 “Our parents were well to do, there in Italy, and we were their only child.”
 
 
-“We were of the old Florentine nobility”—Rowena’s heart gave a great bound, her nostrils expanded, and a fine light played in her eyes—“and when the war broke out my father was on the losing side and had to fly for his life.”
-e:angelo=thinking;e:rowena=excited
+“We were of the old Florentine nobility”—
+e:angelo=thinking;m=allowbreak;m=nospace
+
+Rowena’s heart gave a great bound, her nostrils expanded, and a fine light played in her eyes—
+s=
+
+“and when the war broke out my father was on the losing side and had to fly for his life.”
+e:angelo=thinking;e:rowena=excited;m=;s=angelo
 
 “His estates were confiscated, his personal property seized, and there we were, in Germany, strangers, friendless, and in fact paupers.”
 
@@ -1361,7 +1367,7 @@ She indicated the twins with a nod of her head, and tucked it back out of sight 
 s=none
 
 It was a proud occasion for the widow, and she promised herself high satisfaction in showing off her fine foreign birds before her neighbors and friends—simple folk who had hardly ever seen a foreigner of any kind, and never one of any distinction or style.
-e:patsy=happy;b=light;c=patsy
+e:patsy=happy;b=light;c=patsy;v=,140
 
 Yet her feeling was moderate indeed when contrasted with Rowena’s.
 c=rowena;e:rowena=excited
@@ -1388,7 +1394,7 @@ The widow was all smiles and contentment. She received the procession and passed
 n:higgins=Mr. Higgins;s=higgins
 
 “Good morning, Brother Higgins—Count Luigi Capello, Mr. Higgins”—handshake, followed by a devouring stare and “I’m glad to see ye,” on the part of Higgins, and a courteous inclination of the head and a pleasant “Most happy!” on the part of Count Luigi.
-s=
+s=;m=dialogue
 
 “Good mornin’, Roweny”—handshake.
 s=higgins
@@ -1412,7 +1418,7 @@ Now and then, as happens at all receptions everywhere, a more than ordinary frie
 
 
 General conversation followed, and the twins drifted about from group to group, talking easily and fluently and winning approval, compelling admiration and achieving favor from all.
-e:luigi=happy;e:angelo=happy;c=luigi,angelo;v=,140
+e:luigi=happy;e:angelo=happy;c=luigi,angelo;v=,140;m=
 
 The widow followed their conquering march with a proud eye, and every now and then Rowena said to herself with deep satisfaction,
 c=patsy,rowena;e:patsy=happy;e:rowena=happy;c=
@@ -2293,8 +2299,11 @@ s=roxana;e:roxana=unhappy
 “I’s gwine to fo’git it.”
 
 
-Then she added fiercely, “En don’t ever make me remember it ag’in, or you’ll be sorry, *I* tell you.”
-e:roxana=angry
+Then she added fiercely,
+s=
+
+“En don’t ever make me remember it ag’in, or you’ll be sorry, *I* tell you.”
+e:roxana=angry;s=roxana
 
 When they were parting, Tom said, in the most persuasive way he could command—
 s=none;e:tom=neutral
@@ -2576,10 +2585,10 @@ e:wilson=wary
 s=tom;e:tom=smirking
 
 Wilson bit his lip, but answered, “No—not yet,” with as much indifference as he could assume.
-e:wilson=serious;s=
+e:wilson=serious;s=;m=dialogue
 
 Judge Driscoll had generously left the law feature out of the Wilson biography which he had furnished to the twins.
-s=none
+s=none;m=
 
 Young Tom laughed pleasantly, and said:
 e:tom=happy
