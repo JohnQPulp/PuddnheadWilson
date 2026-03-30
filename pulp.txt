@@ -1,10 +1,7 @@
 <div class='center'><span class='big italics'>Pudd’nhead Wilson</span> by&nbsp;Mark&nbsp;Twain</div><e>After the double-whammy that was the Steinbeck and Buchan visual novels, it's a relief to finally have a source text that's <i>good</i>. I'll use this opportunity to point out in this reading what Twain does correctly what authors like those two fail at.</e>
 t=author;b=title;;z:author=80,,3;h=no-speaker-counter
 
-<e>Also for this VN, I'll pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
-o=margin1;b=title;t=
-
-## I. Pudd’nhead Wins His Name
+## I. Pudd’nhead Wins His Name<e>Also for this VN, I'll pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
 r=title
 
 <i>There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You can't out-quip him.</e>
@@ -19,8 +16,11 @@ b=dawson-wide;t=
 In 1830 it was a snug little collection of modest one- and two-story frame dwellings whose whitewashed exteriors were almost concealed from sight by climbing tangles of rose-vines, honeysuckles, and morning-glories.
 
 
-Each of these pretty homes had a garden in front fenced with white palings and opulently stocked with hollyhocks, marigolds, touch-me-nots, prince’s-feathers and other old-fashioned flowers; while on the windowsills of the houses stood wooden boxes containing moss-rose plants and terra-cotta pots in which grew a breed of geranium whose spread of intensely red blossoms accented the prevailing pink tint of the rose-clad house-front like an explosion of flame.
+Each of these pretty homes had a garden in front fenced with white palings and opulently stocked with hollyhocks, marigolds, touch-me-nots, prince’s-feathers and other old-fashioned flowers;
 b=dawson-homes
+
+while on the windowsills of the houses stood wooden boxes containing moss-rose plants and terra-cotta pots in which grew a breed of geranium whose spread of intensely red blossoms accented the prevailing pink tint of the rose-clad house-front like an explosion of flame.
+
 
 When there was room on the ledge outside of the pots and boxes for a cat, the cat was there﻿—in sunny weather﻿—stretched at full length, asleep and blissful, with her furry belly to the sun and a paw curved over her nose.
 
