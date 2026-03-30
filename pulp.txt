@@ -2789,10 +2789,10 @@ Tom read:
 s=none;c=,tom;e:tom=wary
 
 “It was prophesied that I would kill a man. It came true before the year was out.”
-e:tom=serious;s=tom
+e:tom=serious;s=tom;m=margin
 
 Tom added, “Great Scott!”
-s=tom;e:tom=surprised
+s=tom;e:tom=surprised;m=
 
 Luigi handed Wilson’s paper to Tom, and said—
 s=none;e:luigi=neutral;c=
@@ -2804,10 +2804,10 @@ Tom read:
 s=none;c=,tom;
 
 “You have killed someone, but whether man, woman or child, I do not make out.”
-s=tom;e:tom=wary
+s=tom;e:tom=wary;m=margin
 
 “Caesar’s ghost!” commented Tom, with astonishment.
-s=tom;e:tom=surprised
+s=tom;e:tom=surprised;m=
 
 “It beats anything that was ever heard of! Why, a man’s own hand is his deadliest enemy! Just think of that—a man’s own hand keeps a record of the deepest and fatalest secrets of his life, and is treacherously ready to expose him to any black-magic stranger that comes along.”
 e:tom=fearful
@@ -3026,10 +3026,10 @@ Glasses were handed around, and everybody on the platform drank Angelo’s healt
 s=none
 
 For he’s a jolly good fel‑low,<br>For he’s a jolly good fel‑low,<br>For he’s a jolly good fe‑el‑low—<br>Which nobody can deny.
-
+m=margin
 
 Tom Driscoll drank. It was his second glass, for he had drunk Angelo’s the moment that Angelo had set it down.
-e:tom=excited
+e:tom=excited;m=
 
 The two drinks made him very merry—almost idiotically so—and he began to take a most lively and prominent part in the proceedings, particularly in the music and catcalls and side-remarks.
 
@@ -5468,10 +5468,10 @@ In St. Louis, next morning, he read this brief telegram in the papers—dated at
 s=;e:tom=neutral;b=louis-wide
 
 <span class='upper'>Judge Driscoll, an old and respected citizen, was assassinated here about midnight by a profligate Italian nobleman or barber on account of a quarrel growing out of the recent election. The assassin will probably be lynched.</span>
-
+m=margin
 
 “One of the twins!” soliloquized Tom; “how lucky! It is the knife that has done him this grace.”
-s=tom;e:tom=happy
+s=tom;e:tom=happy;m=
 
 “We never know when fortune is trying to favor us. I actually cursed Pudd’nhead Wilson in my heart for putting it out of my power to sell that knife. I take it back, now.”
 e:tom=smirking
@@ -5483,10 +5483,10 @@ He arranged with the planter, and mailed to Wilson the new bill of sale which so
 
 
 <span class='upper'>Have seen the awful news in the papers and am almost prostrated with grief. Shall start by packet today. Try to bear up till I come.</span>
-b=dawson-wide;f:b:dawson-wide=
+b=dawson-wide;f:b:dawson-wide=;m=margin
 
 When Wilson reached the house of mourning and had gathered such details as Mrs. Pratt and the rest of the crowd could tell him, he took command as mayor, and gave orders that nothing should be touched, but everything left as it was until Justice Robinson should arrive and take the proper measures as coroner.
-e:wilson=serious;e:rachel=crying;b=york-body;c=wilson,,,rachel,;v=100,130
+e:wilson=serious;e:rachel=crying;b=york-body;c=wilson,,,rachel,;v=100,130;m=
 
 He cleared everybody out of the room but the twins and himself.
 c=wilson,,luigi,,angelo;e:luigi=unhappy;e:angelo=unhappy
