@@ -1,4 +1,4 @@
-<div class='center'><span class='big italics'>Pudd’nhead Wilson</span> by&nbsp;Mark&nbsp;Twain</div><e>After the double-whammy that was the Steinbeck and Buchan visual novels, it's a relief to finally have a source text that's <i>good</i>. I'll use this opportunity to point out in this reading what Twain does correctly what authors like those two fail at.</e>
+Pudd’nhead Wilson<br>Mark Twain<e>After the double-whammy that was the Steinbeck and Buchan visual novels, it's a relief to finally have a source text that's <i>good</i>. I'll use this opportunity to point out in this reading what Twain does correctly what authors like those two fail at.</e>
 t=author;b=title;;z:author=80,,3;h=no-speaker-counter
 
 ## I. Pudd’nhead Wins His Name<e>Also for this VN, I'll pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
