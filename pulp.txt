@@ -328,11 +328,11 @@ s=none
 Wilson stepped to the window to observe the combatants; he could not work while their chatter continued.
 e:wilson=thinking
 
-Over in the vacant lots was Jasper, young, coal-black and of magnificent build, sitting on a wheelbarrow in the pelting sun﻿—at work, supposably, whereas he was in fact only preparing for it by taking an hour’s rest before beginning.<e>One of the less offensive original illustrations really.</e>
-o=margin3;b=light
+Over in the vacant lots was Jasper, young, coal-black and of magnificent build, sitting on a wheelbarrow in the pelting sun﻿—at work, supposably, whereas he was in fact only preparing for it by taking an hour’s rest before beginning.
+b=light
 
 In front of Wilson’s porch stood Roxy, with a local handmade baby-wagon, in which sat her two charges﻿—one at each end and facing each other.
-o=
+
 
 From Roxy’s manner of speech, a stranger would have expected her to be black, but she was not.
 e:roxana=neutral
@@ -2506,8 +2506,8 @@ He never meddled with any other town, for he was afraid to venture into houses w
 He arrived at the haunted house in disguise on the Wednesday before the advent of the twins﻿—after writing his aunt Pratt that he would not arrive until two days after﻿—and lay in hiding there with his mother until toward daylight Friday morning, when he went to his uncle’s house and entered by the back way with his own key, and slipped up to his room, where he could have the use of the mirror and toilet articles.
 e:tom=wary;b=light
 
-He had a suit of girl’s clothes with him in a bundle as a disguise for his raid, and was wearing a suit of his mother’s clothing, with black gloves and veil.<e>And falsies, according to the image generator. So now it's canon.</e>
-x:tom=girl;c=tom;e:tom=
+He had a suit of girl’s clothes with him in a bundle as a disguise for his raid, and was wearing a suit of his mother’s clothing, with black gloves and veil.
+x:tom=girl;e:tom=
 
 By dawn he was tricked out for his raid, but he caught a glimpse of Pudd’nhead Wilson through the window over the way, and knew that Pudd’nhead had caught a glimpse of him.
 e:tom=surprised;e:wilson=surprised;c=
