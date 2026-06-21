@@ -2842,7 +2842,7 @@ s=angelo;e:angelo=serious
 “I keep that weapon yet that Luigi killed the man with, and I’ll show it to you sometime. That incident makes it interesting, and it had a history before it came into Luigi’s hands which adds to its interest.”
 e:angelo=happy
 
-“It was given to Luigi by a great Indian prince, the Gaikowar of Baroda, and it had been in his family two or three centuries. It killed a good many disagreeable people who troubled that hearthstone at one time and another. It isn’t much too look at, except that it isn’t shaped like other knives, or dirks, or whatever it may be called—here, I’ll draw it for you.”
+“It was given to Luigi by a great Indian prince, the Gaikowar of Baroda, and it had been in his family two or three centuries. It killed a good many disagreeable people who troubled that hearthstone at one time and another. It isn’t much to look at, except that it isn’t shaped like other knives, or dirks, or whatever it may be called—here, I’ll draw it for you.”
 e:angelo=
 
 He took a sheet of paper and made a rapid sketch.
@@ -6316,7 +6316,7 @@ s=wilson;e:wilson=smirking;b=light
 [Tom’s eyes were starting from their sockets—yes, it was a cruel day for the bereaved youth, everybody thought.]
 s=none;e:tom=fearful;c=tom;b=light
 
-“We will return to the infant autographs of A and B. I will ask the jury to take these large pantograph facsimilies of A’s marked five months and seven months.”
+“We will return to the infant autographs of A and B. I will ask the jury to take these large pantograph facsimiles of A’s marked five months and seven months.”
 s=wilson;e:wilson=;t=;o=evidence-ab;c=
 
 “Do they tally?”
