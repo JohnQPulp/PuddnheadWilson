@@ -1,7 +1,7 @@
 Pudd’nhead Wilson<br>Mark Twain<e>After the double-whammy that was the Steinbeck and Buchan visual novels, it's a relief to finally have a source text that's <i>good</i>. I'll use this opportunity to point out in this reading what Twain does correctly what authors like those two fail at.</e>
 t=author;b=title;;z:author=80,,3;h=no-speaker-counter
 
-## I. Pudd’nhead Wins His Name<e>Also for this VN, I'll pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
+## I<br>Pudd’nhead Wins His Name<e>Also for this VN, I'll pull in some of the entertaining original margin illustrations from the book's first edition printings. (Made by Frank M. Senior and Harding-administration fan Calvin H. Warren, and viewable online at <a href="https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html">https://twain.lib.virginia.edu/wilson/facsimile/facsimilehp.html</a>).</e>
 r=title
 
 <i>There is no character, howsoever good and fine, but it can be destroyed by ridicule, howsoever poor and witless. Observe the ass, for instance: his character is about perfect, he is the choicest spirit among all the humbler animals, yet see what ridicule has brought him to. Instead of feeling complimented when we are called an ass, we are left in doubt.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You can't out-quip him.</e>
@@ -208,7 +208,7 @@ b=dawson-main
 The nickname soon ceased to carry any harsh or unfriendly feeling with it, but it held its place, and was to continue to hold its place for twenty long years.
 
 
-## II. Driscoll Spares His Slaves
+## II<br>Driscoll Spares His Slaves
 r=title
 
 <i>Adam was but human﻿—this explains it all. He did not want the apple for the apple’s sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Twain dumping leftover snippets from <book>Extracts from Adam's Diary</book> into this completely unrelated book.</e>
@@ -529,7 +529,7 @@ They were sincere, for like a god he had stretched forth his mighty hand and clo
 He knew, himself, that he had done a noble and gracious thing, and was privately well pleased with his magnanimity; and that night he set the incident down in his diary, so that his son might read it in after years, and be thereby moved to deeds of gentleness and humanity himself.
 e:percy=happy;b=light
 
-## III. Roxy Plays a Shrewd Trick
+## III<br>Roxy Plays a Shrewd Trick
 r=title
 
 <i>Whoever has lived long enough to find out what life is, knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -811,7 +811,7 @@ But he didn’t.
 He discovered nothing; and she went home jubilant, and dropped all concern about the matter permanently out of her mind.
 e:roxana=happy
 
-## IV. The Ways of the Changelings<e>The balls on Twain to just write <book>Prince and the Pauper</book>'s exact same premise again.</e>
+## IV<br>The Ways of the Changelings<e>The balls on Twain to just write <book>Prince and the Pauper</book>'s exact same premise again.</e>
 r=title;t=author;
 
 <i>Adam and Eve had many advantages, but the principal one was, that they escaped teething.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -1066,7 +1066,7 @@ Wilson said to himself,
 “The drop of black blood in her is superstitious; she thinks there’s some devilry, some witch-business about my glass mystery somewhere; she used to come here with an old horseshoe in her hand; it could have been an accident, but I doubt it.”
 s=wilson;e:wilson=thinking
 
-## V. The Twins Thrill Dawson’s Landing
+## V<br>The Twins Thrill Dawson’s Landing
 s=none;r=title
 
 <i>Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -1270,7 +1270,7 @@ c=
 Then entered the twins—the handsomest, the best dressed, the most distinguished-looking pair of young fellows the West had ever seen. One was a little fairer than the other, but otherwise they were exact duplicates.<e>"Nice uh da Patsy to invite us ovah for a lodging, eh Luigi?"</e>
 e:luigi=neutral;e:angelo=neutral;c=luigi,angelo
 
-## VI. Swimming in Glory
+## VI<br>Swimming in Glory
 r=title
 
 <i>Let us endeavor so to live that when we come to die even the undertaker will be sorry.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -1471,7 +1471,7 @@ All the music that they had ever heard before seemed spiritless prentice-work an
 They realized that for once in their lives they were hearing masters.
 
 
-## VII. The Unknown Nymph
+## VII<br>The Unknown Nymph
 r=title
 
 <i>One of the most striking differences between a cat and a lie is that a cat has only nine lives.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -1573,7 +1573,7 @@ e:wilson=neutral;b=think
 He was now waiting for the twins, and still puzzling over the problem of who that girl might be, and how she happened to be in that young fellow’s room at daybreak in the morning.
 e:wilson=thinking
 
-## VIII. Marse Tom Tramples His Chance
+## VIII<br>Marse Tom Tramples His Chance
 r=title
 
 <i>The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -2053,7 +2053,7 @@ s=roxana;e:roxana=happy
 Tom humbly held the door for her, and she marched out as grim and erect as a grenadier.
 s=none
 
-## IX. Tom Practises Sycophancy
+## IX<br>Tom Practises Sycophancy
 r=title
 
 <i>Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -2347,7 +2347,7 @@ e:roxana=neutral
 “En jes you hold yo’ head up as high as you want to—you has de right, en dat I kin swah.”
 e:roxana=smirking
 
-## X. The Nymph Revealed<e>This legend bringing back Colonel Cecil Burleigh Essex <i>again</i>.</e>
+## X<br>The Nymph Revealed<e>This legend bringing back Colonel Cecil Burleigh Essex <i>again</i>.</e>
 r=title;t=author
 
 <i>All say, “How hard it is that we have to die”﻿—a strange complaint to come from the mouths of people who have had to live.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -2539,7 +2539,7 @@ e:tom=smirking
 After this long digression we have now arrived once more at the point where Pudd’nhead Wilson, while waiting for the arrival of the twins on that same Friday evening, sat puzzling over the strange apparition of that morning﻿—a girl in young Tom Driscoll’s bedroom; fretting, and guessing, and puzzling over it, and wondering who the shameless creature might be.
 e:wilson=thinking;b=wilson-house-int
 
-## XI. Pudd’nhead’s Startling Discovery
+## XI<br>Pudd’nhead’s Startling Discovery
 r=title
 
 <i>There are three infallible ways of pleasing an author, and the three form a rising scale of compliment: 1, to tell him you have read one of his books; 2, to tell him you have read all of his books; 3, to ask him to let you read the manuscript of his forthcoming book. No. 1 admits you to his respect; No. 2 admits you to his admiration; No. 3 carries you clear into his heart.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>You should read the new book Mark Twain's writing now.</e>
@@ -3088,7 +3088,7 @@ o=margin9
 Such citizens of that village as were of a thoughtful and judicious temperament did not insure against fire; they insured against the fire-company.<e>See?</e>
 o=;t=author
 
-## XII. The Shame of Judge Driscoll
+## XII<br>The Shame of Judge Driscoll
 r=title
 
 <i>Courage is resistance to fear, mastery of fear﻿—not absence of fear. Except a creature be part coward it is not a compliment to say it is brave; it is merely a loose misapplication of the word. Consider the flea!﻿—incomparably the bravest of all the creatures of God, if ignorance of fear were courage. Whether you are asleep or awake he will attack you, caring nothing for the fact that in bulk and strength you are to him as are the massed armies of the earth to a sucking child; he lives both day and night and all days and nights in the very lap of peril and the immediate presence of death, and yet is no more afraid than is the man who walks the streets of a city that was threatened by an earthquake ten centuries before. When we speak of Clive, Nelson, and Putnam as men who “didn’t know what fear was,” we ought always to add the flea﻿—and put him at the head of the procession.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -3340,7 +3340,7 @@ e:tom=thinking
 “I’m entering on my last reform—I know it—yes, and I’ll win; but after that, if I ever slip again I’m gone.”
 e:tom=wary
 
-## XIII. Tom Stares at Ruin
+## XIII<br>Tom Stares at Ruin
 r=title
 
 <i>When I reflect upon the number of disagreeable people who I know have gone to a better world, I am moved to lead a different life.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -3640,7 +3640,7 @@ After a silence the justice of the peace informed Wilson that he and Buckstone a
 It was the first attention which Wilson had ever received at the hands of any party; it was a sufficiently humble one, but it was a recognition of his début into the town’s life and activities at last; it was a step upward, and he was deeply gratified. He accepted, and the committee departed, followed by young Tom.
 e:wilson=happy
 
-## XIV. Roxana Insists Upon Reform
+## XIV<br>Roxana Insists Upon Reform
 r=title
 
 <i>The true Southern watermelon is a boon apart, and not to be mentioned with commoner things. It is chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took: we know it because she repented.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -4102,7 +4102,7 @@ e:tom=weary
 “Den g’ long home en begin!”
 s=roxana
 
-## XV. The Robber Robbed
+## XV<br>The Robber Robbed
 r=title
 
 <i>Nothing so needs reforming as other people’s habits.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -4522,7 +4522,7 @@ b=think
 <e>Twain spoiling in the chapter title what only happens in the last sentence of the chapter.</e>
 e:tom=unhappy;t=author
 
-## XVI. Sold Down the River
+## XVI<br>Sold Down the River
 r=title
 
 <i>If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -4675,7 +4675,7 @@ e:roxana=fearful
 “Oh, de good Lord God have mercy on po’ sinful me—*I’s sole down de river!*”
 s=roxana
 
-## XVII. The Judge Utters Dire Prophecy
+## XVII<br>The Judge Utters Dire Prophecy
 r=title
 
 <i>Even popularity can be overdone. In Rome, along at first, you are full of regrets that Michelangelo died; but by and by you only regret that you didn’t see him do it.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -4750,7 +4750,7 @@ c=luigi,angelo;e:luigi=unhappy;e:angelo=unhappy
 They avoided the people, and went out for exercise only late at night, when the streets were deserted.
 c=
 
-## XVIII. Roxana Commands
+## XVIII<br>Roxana Commands
 r=title
 
 <i>Gratitude and treachery are merely the two extremities of the same procession. You have seen all of it that is worth staying for when the band and the gaudy officials have gone by.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -5236,7 +5236,7 @@ e:tom=weary;s=tom
 “I must follow her plan. But with a variation—I will not ask for the money and ruin myself; I will *rob* the old skinflint.”
 e:tom=serious
 
-## XIX. The Prophecy Realized<e>Twain making this VN as difficult to create as possible.</e>
+## XIX<br>The Prophecy Realized<e>Twain making this VN as difficult to create as possible.</e>
 r=title;t=author;
 
 <i>Few things are harder to put up with than the annoyance of a good example.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
@@ -5638,7 +5638,7 @@ c=
 This charmed the doting Mrs. Pratt, who realized now, “as she had never done before,” she said, what a sensitive and delicate nature her darling had, and how he adored his poor uncle.
 e:rachel=happy;c=tom,rachel
 
-## XX. The Murderer Chuckles
+## XX<br>The Murderer Chuckles
 r=title
 
 <i>Even the clearest and most perfect circumstantial evidence is likely to be at fault, after all, and therefore ought to be received with great caution. Take the case of any pencil, sharpened by any woman: if you have witnesses, you will find she did it with a knife; but if you take simply the aspect of the pencil, you will say she did it with her teeth.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i><e>Heh heh… women.</e>
@@ -5920,7 +5920,7 @@ e:wilson=surprised
 “It’s so! Heavens, what a revelation! And for twenty-three years no man has ever suspected it!”
 s=wilson
 
-## XXI. Doom
+## XXI<br>Doom
 r=title
 
 <i>He is useless on top of the ground; he ought to be under it, inspiring the cabbages.</i><br>—<i class='upper'>Pudd’nhead Wilson’s Calendar</i>
